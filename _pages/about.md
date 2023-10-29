@@ -35,7 +35,7 @@ Research Interests
 
 Education
 ======
-* **2020.09 - Present** : B.E. in Computer Science and Technology, [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). Ranking 4/442 (0.9%).
+* **2020.09 - Present** : B.E. in Computer Science and Technology, [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). Ranking 4/442 (0.9%).
 
 
 Experiences

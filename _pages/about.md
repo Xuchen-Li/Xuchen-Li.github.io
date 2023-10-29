@@ -59,7 +59,7 @@ Awards & Honors
 ======
 
 **2023**
-* National Scholarship (国家奖学金, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications), at BUPT, Ministry of Education of China
+* National Scholarship (国家奖学金, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, Ministry of Education of China
 * Third Prize of Huawei Information and Communication Technology Competition Nationwide Final (华为ICT大赛全国总决赛三等奖, Team Leader)
 * Third Prize of China Robotics and Artificial Intelligence Competition (中国机器人及人工智能大赛全国总决赛三等奖)
 * National College Students' Innovation and Entrepreneurship Training Program (国家级大学生创新创业训练计划项目, Team Leader)
@@ -74,8 +74,8 @@ Awards & Honors
 * Annual Outstanding Volunteer of Beijing University of Posts and Telecommunications (北京邮电大学年度优秀志愿者)
 
 **2022**
-* National Scholarship (国家奖学金, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications), at BUPT, Ministry of Education of China
-* Huawei "AI Education Base" Scholarship (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges of Beijing University of Posts and Telecommunications), at BUPT, Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* National Scholarship (国家奖学金, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, Ministry of Education of China
+* Huawei "AI Education Base" Scholarship (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges), at BUPT, Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader)
 * Meritorious Winner of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling (美国大学生数学建模竞赛一等奖)
 * First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (中国高校计算机大赛-人工智能创意赛华北赛区一等奖, Team Leader)

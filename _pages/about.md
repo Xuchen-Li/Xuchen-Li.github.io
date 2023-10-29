@@ -17,10 +17,13 @@ I am also grateful to have grown up and studied with my twin brother Xuzhao Li, 
 
 News
 ======
-* **2023.10** : Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students)!
-* **2023.09** : Obtain a **Postgraduate Recommendation** with a rank of **4/442 (0.9%)** at SCS, BUPT (本科毕业生推荐免试攻读研究生)!
+* **2023.10** : Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)!
+* **2023.09** : Obtain a **Postgraduate Recommendation** with a rank of **4/442 (0.9%)** at School of Computer Science, Beijing University of Posts and Telecommunications (本科毕业生推荐免试攻读研究生)!
 * **2023.09** : One paper about **Multi-modal Global Instance Tracking Benchmark** has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-* **2022.09** : Obtain **National Scholarship** with a rank of **2/430 (0.47%)** by Ministry of Educatuon of China in the junior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students)!
+* **2022.12** : Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader)
+* **2022.12** : Obtain **Huawei "AI Education Base" Scholarship** by Ministry of Education of China and Huawei AI Education Base Joint Working Group (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges of Beijing University of Posts and Telecommunications)!
+* **2022.09** : Obtain **National Scholarship** with a rank of **2/430 (0.47%)** by Ministry of Educatuon of China in the junior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)!
+* **2021.09** : Obtain **National Encouragement Scholarship** with a rank of **8/522 (1.53%)** by Ministry of Education of China in the sophomore year (国家励志奖学金)!
 
 
 Research Interests
@@ -56,7 +59,7 @@ Awards & Honors
 ======
 
 **2023**
-* National Scholarship (国家奖学金, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, Ministry of Education of China
+* National Scholarship (国家奖学金, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications), at BUPT, Ministry of Education of China
 * Third Prize of Huawei Information and Communication Technology Competition Nationwide Final (华为ICT大赛全国总决赛三等奖, Team Leader)
 * Third Prize of China Robotics and Artificial Intelligence Competition (中国机器人及人工智能大赛全国总决赛三等奖)
 * National College Students' Innovation and Entrepreneurship Training Program (国家级大学生创新创业训练计划项目, Team Leader)
@@ -71,9 +74,9 @@ Awards & Honors
 * Annual Outstanding Volunteer of Beijing University of Posts and Telecommunications (北京邮电大学年度优秀志愿者)
 
 **2022**
-* National Scholarship (国家奖学金, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, Ministry of Education of China
-* Huawei "AI Education Base" Scholarship (华为"智能基座"奖学金), at BUPT, Ministry of Education of China and Huawei AI Education Base Joint Working Group
-* First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, Team Leader)
+* National Scholarship (国家奖学金, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications), at BUPT, Ministry of Education of China
+* Huawei "AI Education Base" Scholarship (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges of Beijing University of Posts and Telecommunications), at BUPT, Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader)
 * Meritorious Winner of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling (美国大学生数学建模竞赛一等奖)
 * First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (中国高校计算机大赛-人工智能创意赛华北赛区一等奖, Team Leader)
 * Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division (中国国际"互联网+"大学生创新创业竞赛北京赛区二等奖, Team Leader)

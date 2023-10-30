@@ -17,7 +17,7 @@ I am also grateful to have grown up and studied with my twin brother Xuzhao Li, 
 
 News
 ======
-* **2023.10** : Obtain **College Scholarship of University of Chinese Academy of Sciences** at Institute of Automation, Chinese Academy of Sciences!
+* **2023.10** : Obtain **College Scholarship of University of Chinese Academy of Sciences** at Institute of Automation, Chinese Academy of Sciences (中国科学院大学大学生奖学金)!
 * **2023.10** : Obtain **National Scholarship** with a rank of **1/455 (0.22%)** by Ministry of Education of China in the senior year (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of Beijing University of Posts and Telecommunications)!
 * **2023.09** : Obtain a **Postgraduate Recommendation** with a rank of **4/442 (0.9%)** at School of Computer Science, Beijing University of Posts and Telecommunications (本科毕业生推荐免试攻读研究生)!
 * **2023.09** : One paper about **Multi-modal Global Instance Tracking Benchmark** has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
@@ -60,8 +60,8 @@ Awards & Honors
 ======
 
 **2023**
-* National Scholarship (国家奖学金, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, Ministry of Education of China
-* College Scholarship of University of Chinese Academy of Sciences (中国科学院大学大学生奖学金), at CASIA, University of Chinese Academy of Sciences
+* National Scholarship (国家奖学金, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* College Scholarship of University of Chinese Academy of Sciences (中国科学院大学大学生奖学金), at CASIA, by University of Chinese Academy of Sciences
 * Third Prize of Huawei Information and Communication Technology Competition Nationwide Final (华为ICT大赛全国总决赛三等奖, Team Leader)
 * Third Prize of China Robotics and Artificial Intelligence Competition (中国机器人及人工智能大赛全国总决赛三等奖)
 * National College Students' Innovation and Entrepreneurship Training Program (国家级大学生创新创业训练计划项目, Team Leader)
@@ -76,8 +76,8 @@ Awards & Honors
 * Annual Outstanding Volunteer of Beijing University of Posts and Telecommunications (北京邮电大学年度优秀志愿者)
 
 **2022**
-* National Scholarship (国家奖学金, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, Ministry of Education of China
-* Huawei "AI Education Base" Scholarship (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges), at BUPT, Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* National Scholarship (国家奖学金, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* Huawei "AI Education Base" Scholarship (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader)
 * Meritorious Winner of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling (美国大学生数学建模竞赛一等奖)
 * First Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (中国高校计算机大赛-人工智能创意赛华北赛区一等奖, Team Leader)
@@ -91,8 +91,8 @@ Awards & Honors
 * Youth Star of Beijing University of Posts and Telecommunications (北京邮电大学青学之星)
 
 **2021**
-* National Encouragement Scholarship (国家励志奖学金, My Rank: 8/522, 1.53%), at BUPT, Ministry of Education of China
-* Haohan Scholarship and Grants (浩瀚奖助学金), at BUPT, Beijing Haohan DATA Technology Co., Ltd.
+* National Encouragement Scholarship (国家励志奖学金, My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
+* Haohan Scholarship and Grants (浩瀚奖助学金), at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
 * Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division (中国国际"互联网+"大学生创新创业竞赛北京赛区二等奖)
 * Outstanding Class Group of Beijing University of Posts and Telecommunications (北京邮电大学先进班集体, Secretary of the Youth League Branch)
 * Second Prize of Winter Enrollment Promotion Practice of Beijing University of Posts and Telecommunications (北京邮电大学冬季招生宣讲实践二等奖, Team Leader)

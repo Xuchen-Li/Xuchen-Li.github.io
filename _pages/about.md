@@ -10,19 +10,19 @@ redirect_from:
 
 About Me
 ======
-I am an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/"> Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, luckily supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow) at **<a href="http://www.crise.ia.ac.cn/"> Center for Research on Intelligent System and Engineering (CRISE)</a>**.<br>
+I am an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>** and **<a href="https://english.ucas.ac.cn/">University of Chinese Academy of Sciences (UCAS)</a>**, luckily supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow) at **<a href="http://www.crise.ia.ac.cn/"> Center for Research on Intelligent System and Engineering (CRISE)</a>**.<br>
 Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science (SCS)</a>** at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications (BUPT)</a>**.<br>
 I am also grateful to have grown up and studied with my twin brother Xuzhao Li, which has been a truly unique and special experience for me.
 
 
 News
 ======
-<!-- * **2023.10** : Obtain **College Scholarship of University of Chinese Academy of Sciences** at Institute of Automation, Chinese Academy of Sciences (中国科学院大学大学生奖学金)! -->
-* **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+<!-- * **2023.11** : Obtain **College Scholarship of UCAS** (中国科学院大学大学生奖学金, only 14 students win this scholarship among 200+ recommended postgraduate students of CASIA)! -->
+* **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (国家奖学金, highest honor for undergraduates, awarded to top 1% students of BUPT)!
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-* **2022.12** : 🏅 Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国总决赛一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader)
+* **2022.12** : 🏅 Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (中国高校计算机大赛-人工智能创意赛全国一等奖, top 3%, only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (华为"智能基座"奖学金, only 20 students win this scholarship among 3 colleges of BUPT)!
-* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (国家奖学金, highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (国家奖学金, highest honor for undergraduates, awarded to top 1% students of BUPT)!
 
 
 Research Interests

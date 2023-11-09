@@ -67,6 +67,7 @@ Awards & Honors
 * First Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * Second Prize of China Robotics and Artificial Intelligence Competition Beijing Division
 * Third Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
+* Merit student of Beijing (only 36 students receive this honor), at BUPT
 * May Fourth Red Flag Youth League Committee of Beijing University of Posts and Telecommunications (President of the Volunteer Association)
 * Merit Student of Beijing University of Posts and Telecommunications
 * Outstanding Individual in Student Organizations of Beijing University of Posts and Telecommunications

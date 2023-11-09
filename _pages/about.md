@@ -18,6 +18,7 @@ I am also grateful to have grown up and studied with my twin brother Xuzhao Li, 
 News
 ======
 <!-- * **2023.11** : Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 200+ recommended postgraduate students of CASIA)! -->
+* **2023.11** : 🏆 Obtain **Merit Student in Beijing** (only 36 students obtain this honor of BUPT)!
 * **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
 * **2022.12** : 🏅 Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
@@ -67,7 +68,7 @@ Awards & Honors
 * First Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * Second Prize of China Robotics and Artificial Intelligence Competition Beijing Division
 * Third Prize of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
-* Merit student of Beijing (only 36 students receive this honor), at BUPT
+* Merit student of Beijing (only 36 students obtain this honor), at BUPT
 * May Fourth Red Flag Youth League Committee of Beijing University of Posts and Telecommunications (President of the Volunteer Association)
 * Merit Student of Beijing University of Posts and Telecommunications
 * Outstanding Individual in Student Organizations of Beijing University of Posts and Telecommunications

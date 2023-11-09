@@ -12,7 +12,7 @@ About Me
 ======
 I am an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow) at **<a href="http://www.crise.ia.ac.cn/"> Center for Research on Intelligent System and Engineering (CRISE)</a>**.<br>
 Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science (SCS)</a>** at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications (BUPT)</a>**.<br>
-I am also grateful to have grown up and studied with my twin brother Xuzhao Li, which has been a truly unique and special experience for me.
+I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother Xuzhao Li, which is a truly unique and special experience for me.
 
 
 News

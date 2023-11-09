@@ -60,7 +60,8 @@ Awards & Honors
 ======
 
 **2023**
-* National Scholarship (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China<!-- * College Scholarship of University of Chinese Academy of Sciences (only 14 students win this scholarship among 200+ recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences -->
+* National Scholarship (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* College Scholarship of University of Chinese Academy of Sciences (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
 * Third Prize of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)
 * Third Prize of China Robotics and Artificial Intelligence Competition
 * National College Students' Innovation and Entrepreneurship Training Program (Team Leader)

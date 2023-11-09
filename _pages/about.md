@@ -41,6 +41,7 @@ Education
 Experiences
 ======
 * **2023.05 - Present** : Research intern on visual object tracking at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/),  advised by Prof. [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en).
+* **2023.05 - Present** : Participant of interdisciplinary symposia around computer vision (22 participants from 10+ universities, once a week)
 * **2023.01 - 2023.05** : Research intern on 3D indoor scene reconstruction at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/),  advised by Prof. [Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en).
 * **2022.08 - 2023.01** : Research intern on personalized federated learning at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by A/Prof. [Bingyan Liu](https://lebyni.github.io/).
 
@@ -100,11 +101,6 @@ Awards & Honors
 * Outstanding Video Award of Winter Enrollment Promotion Practice of Beijing University of Posts and Telecommunications (Team Leader)
 * Merit Student of Beijing University of Posts and Telecommunications
 * Erudite Pioneer of School of Computer Science, Beijing University of Posts and Telecommunications
-
-
-Academic Activities
-======
-* **2023.05 - Present** : Participant of interdisciplinary symposia around computer vision (22 participants from 10+ universities, once a week)
 
 
 Other Activities

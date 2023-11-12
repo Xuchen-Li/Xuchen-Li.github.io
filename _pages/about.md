@@ -87,7 +87,7 @@ Awards & Honors
 * Provincial Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division (Team Leader)
 * Provincial Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division 
 * Provincial Third Prize of "Challenge Cup" Beijing College Student Business Plan Competition (Team Leader)
-* Beijing Level College Students' Innovation and Entrepreneurship Training Program
+* Beijing College Students' Innovation and Entrepreneurship Training Program
 * Special Award for Volunteer Service of Beijing University of Posts and Telecommunications (President of the Volunteer Association)
 * Merit Student of Beijing University of Posts and Telecommunications
 * Outstanding League Cadres of Beijing University of Posts and Telecommunications

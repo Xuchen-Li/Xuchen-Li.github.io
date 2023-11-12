@@ -66,8 +66,8 @@ Awards & Honors
 * **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
 * **National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)
 * **National Third Prize** of China Robotics and Artificial Intelligence Competition
-* **National** College Students' Innovation and Entrepreneurship Training Program (Team Leader)
-* **National** College Students' Innovation and Entrepreneurship Training Program
+* **National Level** College Students' Innovation and Entrepreneurship Training Program (Team Leader)
+* **National Level** College Students' Innovation and Entrepreneurship Training Program
 * **Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT
 * **Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * Provincial Second Prize of China Robotics and Artificial Intelligence Competition Beijing Division
@@ -87,7 +87,7 @@ Awards & Honors
 * Provincial Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division (Team Leader)
 * Provincial Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division 
 * Provincial Third Prize of "Challenge Cup" Beijing College Student Business Plan Competition (Team Leader)
-* Beijing College Students' Innovation and Entrepreneurship Training Program
+* Beijing Level College Students' Innovation and Entrepreneurship Training Program
 * Special Award for Volunteer Service of Beijing University of Posts and Telecommunications (President of the Volunteer Association)
 * Merit Student of Beijing University of Posts and Telecommunications
 * Outstanding League Cadres of Beijing University of Posts and Telecommunications

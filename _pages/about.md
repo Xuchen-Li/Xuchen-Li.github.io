@@ -21,7 +21,7 @@ News
 * **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
 * **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-* **2022.12** : 🏅 Win the **First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
+* **2022.12** : 🏅 Win the **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)!
 * **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 

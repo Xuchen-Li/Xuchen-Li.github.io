@@ -19,11 +19,11 @@ News
 ======
 * **2023.11** : 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students of CASIA)!
 * **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
-* **2023.10** : 🏆 Obtain **National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+* **2023.10** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
 * **2022.12** : 🏅 Win the **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)!
-* **2022.09** : 🏆 Obtain **National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+* **2022.09** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
 
 Research Interests
@@ -62,7 +62,7 @@ Awards & Honors
 ======
 
 **2023**
-* **National Scholarship** (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* **China National Scholarship** (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
 * **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
 * **National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)
 * **National Third Prize** of China Robotics and Artificial Intelligence Competition
@@ -79,7 +79,7 @@ Awards & Honors
 * Annual Outstanding Volunteer of Beijing University of Posts and Telecommunications
 
 **2022**
-* **National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* **China National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
 * **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
@@ -94,7 +94,7 @@ Awards & Honors
 * Youth Star of Beijing University of Posts and Telecommunications
 
 **2021**
-* **National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
+* **China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
 * Haohan Scholarship and Grants, at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
 * Provincial Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * Outstanding Class Group of Beijing University of Posts and Telecommunications (Secretary of the Youth League Branch)

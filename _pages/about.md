@@ -58,7 +58,7 @@ Publications
   [[Poster](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
   [[Platform](http://videocube.aitestunion.com/)]
-  [[Toolkit](https://github.com/huuuuusy/videocube-toolkit)] 
+  [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)] 
 
 
 Awards & Honors

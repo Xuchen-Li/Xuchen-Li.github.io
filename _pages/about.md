@@ -56,7 +56,9 @@ Publications
   *NeurIPS 2023 (CCF-A Conference, Poster): [the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)*<br>
   [[PDF](https://xuchen-li.github.io/files/MGIT.pdf)]
   [[Poster](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
-  [[Platform](http://videocube.aitestunion.com/)] 
+  [[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
+  [[Platform](http://videocube.aitestunion.com/)]
+  [[Toolkit](https://github.com/huuuuusy/videocube-toolkit)] 
 
 
 Awards & Honors

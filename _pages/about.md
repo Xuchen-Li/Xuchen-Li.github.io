@@ -81,7 +81,7 @@ Awards & Honors
 More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 
 
-Other Activities
+Activities
 ======
 * **2023.03 - Present** : Deputy Secretary of the Party Branch at SCS, BUPT
 * **2022.09 - 2023.07** : Deputy Class Monitor of the Major Class at SCS, BUPT

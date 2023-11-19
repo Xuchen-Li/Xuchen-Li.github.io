@@ -66,24 +66,24 @@ Awards & Honors
 ======
 
 **Scholarships**
-* **China National Scholarship** (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
-* **China National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
-* **China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
-* **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
-* **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* **2023 China National Scholarship** (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* **2022 China National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
+* **2023 College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
+* **2022 Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* **2021 China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
 
 **Awards**
-* **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
-* **Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
-* **National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)
-* **National Third Prize** of China Robotics and Artificial Intelligence Competition
-* **National Level** College Students' Innovation and Entrepreneurship Training Program (Team Leader)
-* **National Level** College Students' Innovation and Entrepreneurship Training Program
-* **Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
-* **Provincial First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
+* **2022 National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
+* **2022 Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
+* **2023 National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)
+* **2023 National Third Prize** of China Robotics and Artificial Intelligence Competition
+* **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (Team Leader)
+* **2023 National Level** College Students' Innovation and Entrepreneurship Training Program
+* **2023 Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
+* **2022 Provincial First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
 
 **Honors**
-* **Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT<br><br>
+* **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT<br><br>
 More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 
 

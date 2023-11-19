@@ -60,7 +60,7 @@ Publications
   [[Platform](http://videocube.aitestunion.com/)]
   [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]
 <br><br>
-More Details, click [here](https://xuchen-li.github.io/publications/).
+More Details about Publications, click [here](https://xuchen-li.github.io/publications/).
 
 
 Scholarships & Awards & Honors

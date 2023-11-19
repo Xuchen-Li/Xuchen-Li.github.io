@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Selected Awards & Honors"
-permalink: /awards & honors/
+permalink: /awards&honors/
 author_profile: true
 ---
 ## **2023**

@@ -58,11 +58,12 @@ Publications
   [[Poster](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
   [[Platform](http://videocube.aitestunion.com/)]
-  [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)] <br><br>
+  [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]
+<br><br>
 More Details, click [here](https://xuchen-li.github.io/publications/).
 
 
-Awards & Honors
+Scholarships & Awards & Honors
 ======
 
 **Scholarships**
@@ -83,8 +84,9 @@ Awards & Honors
 * **2022 Provincial First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
 
 **Honors**
-* **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT<br><br>
-More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
+* **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT
+<br><br>
+More Scholarships & Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 
 
 Activities

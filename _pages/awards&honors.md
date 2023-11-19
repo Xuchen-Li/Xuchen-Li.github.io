@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Awards & Honors"
+title: "Selected Scholarships & Awards & Honors"
 permalink: /awards&honors/
 author_profile: true
 ---

@@ -78,6 +78,7 @@ Awards & Honors
 * **Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * **Provincial First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
 * **Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT
+All Awards & Honors list, click [here](https://xuchen-li.github.io/awards&honors/).
 
 
 Other Activities

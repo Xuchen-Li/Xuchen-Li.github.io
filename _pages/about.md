@@ -42,6 +42,8 @@ Education
 Experiences
 ======
 * **2023.05 - Present** : Research intern on visual object tracking at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/),  advised by Prof. [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en).
+* **2023.06 - 2023.07** : Summer camp for postgraduate recommendation at [Institute for Network Sciences and Cyberspace, Tsinghua University (THU INSC)](https://www.insc.tsinghua.edu.cn/), [School of Intelligence Science and Technology
+, Peking University (PKU CIS)](https://www.cis.pku.edu.cn/index.htm), [Visual Information Processing and Learning, Institute of Computing Technology, Chinese Academy of Sciences (CASICT VIPL)](http://vipl.ict.ac.cn/en/index.html), [Tsinghua Shenzhen International Graduate School, Tsinghua University (THU SIGS)](https://www.sigs.tsinghua.edu.cn/en/).
 * **2023.05 - Present** : Participant of interdisciplinary symposia around computer vision (22 participants from 10+ universities, once a week) at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/),  initiated and organized by Dr. [Shiyu Hu](https://huuuuusy.github.io/).
 * **2023.04 - Present** : Member of Artificial Intelligence Elites Class at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
 * **2023.01 - 2023.05** : Research intern on 3D indoor scene reconstruction at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/),  advised by Prof. [Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en).

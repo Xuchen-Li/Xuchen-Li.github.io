@@ -69,7 +69,6 @@ Awards & Honors
 * **China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
 * **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
-* **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
 * **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
 * **National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)

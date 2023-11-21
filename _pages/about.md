@@ -85,6 +85,8 @@ Scholarships & Awards & Honors
 
 **Honors**
 * **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT
+* 2021, 2022, 2023 Merit Student of Beijing University of Posts and Telecommunications
+* 2021 Erudite Pioneer of School of Computer Science, Beijing University of Posts and Telecommunications
 <br><br>
 More Scholarships & Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 

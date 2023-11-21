@@ -17,7 +17,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 News
 ======
-* **2023.11** : 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students of CASIA)!
+* **2023.11** : 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship among 220 recommended postgraduate students of CASIA)!
 * **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
 * **2023.10** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
@@ -69,7 +69,7 @@ Scholarships & Awards & Honors
 **Scholarships**
 * **2023 China National Scholarship** (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
 * **2022 China National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
-* **2023 College Scholarship of University of Chinese Academy of Sciences** (only 14 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
+* **2023 College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
 * **2022 Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **2021 China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
 

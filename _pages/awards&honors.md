@@ -41,7 +41,7 @@ author_profile: true
 ## **2021**
 
 * **China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
-* Haohan Scholarship and Grants, at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
+* **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
 * Provincial Second Prize of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * Outstanding Class Group of Beijing University of Posts and Telecommunications (Secretary of the Youth League Branch)
 * Second Prize of Winter Enrollment Promotion Practice of Beijing University of Posts and Telecommunications (Team Leader)

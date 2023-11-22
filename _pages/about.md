@@ -71,8 +71,8 @@ Awards & Honors
 * **2023 College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
 * **2022 Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **2021 China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
-
 <br>
+
 * **2022 National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **2022 Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
 * **2023 National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (Team Leader)
@@ -81,8 +81,8 @@ Awards & Honors
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program
 * **2023 Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * **2022 Provincial First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
-
 <br>
+
 * **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT
 * 2021, 2022, 2023 Merit Student of Beijing University of Posts and Telecommunications
 * 2021 Erudite Pioneer of School of Computer Science, Beijing University of Posts and Telecommunications

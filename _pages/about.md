@@ -85,7 +85,7 @@ Awards & Honors
 * 2021, 2022, 2023 Merit Student of Beijing University of Posts and Telecommunications
 * 2021 Erudite Pioneer of School of Computer Science, Beijing University of Posts and Telecommunications
 <br><br>
-More Scholarships & Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
+More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 
 
 Activities

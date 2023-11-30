@@ -82,7 +82,6 @@ Awards & Honors
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (Team Leader)
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program
 * **2023 Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
-* **2022 Provincial First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation North China Division (Team Leader)
 
 **Honors**
 * **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT

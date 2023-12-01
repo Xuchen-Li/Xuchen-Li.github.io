@@ -8,19 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<table>
-  
-<tr><td>
   
 About Me
 ======
 I am an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow) at **<a href="http://www.crise.ia.ac.cn/"> Center for Research on Intelligent System and Engineering (CRISE)</a>**.<br>
 Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science (SCS)</a>** at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications (BUPT)</a>**.<br>
 I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother Xuzhao Li, which is a truly unique and special experience for me.<br>
-<br>
-</td></tr>
 
-<tr><td>
 
 News
 ======
@@ -31,10 +25,7 @@ News
 * **2022.12** : 🏅 Win the **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)!
 * **2022.09** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
-<br>
-</td></tr>
 
-<tr><td>
 
 Research Interests
 ======
@@ -42,18 +33,12 @@ Research Interests
 - Natural Language Tracking (NLT)
 - Visual and Language Tracking (VLT)
 - Computer Vision (CV)
-<br>
-</td></tr>
 
-<tr><td>
 
 Education
 ======
 * **2020.09 - Present** : B.E. in Computer Science and Technology, [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). Ranking 4/442 (0.9%).
-<br>
-</td></tr>
 
-<tr><td>
 
 Experiences
 ======
@@ -66,10 +51,7 @@ Experiences
 * **2022.06 - 2023.06** : President of the Volunteer Association at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2021.09 - 2023.07** : Monitor / Deputy Monitor of the Major Class at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2020.09 - 2021.07** : Secretary of the Youth League Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
-<br>
-</td></tr>
 
-<tr><td>
 
 Publications
 ======
@@ -84,10 +66,7 @@ Publications
   [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]
 <br><br>
 More Details about Publications, click [here](https://xuchen-li.github.io/publications/).
-<br>
-</td></tr>
 
-<tr><td>
 
 Awards & Honors
 ======
@@ -115,10 +94,7 @@ Awards & Honors
 * 2021 Erudite Pioneer of School of Computer Science, Beijing University of Posts and Telecommunications
 <br><br>
 More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
-<br>
-</td></tr>
 
-<tr><td>
 
 For More Info
 ======
@@ -128,17 +104,11 @@ For More Info
 * [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
 * [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)
 * [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)
-<br>
-</td></tr>
 
-<tr><td>
 
 Contact
 ======
 * lixuchen2024@ia.ac.cn (Main, Valid from 2023.10 - 2029.01)
 * xuchenli@bupt.edu.cn (Valid from 2020.09 - 2024.07)
 * xuchenli1030@gmail.com
-<br>
-</td></tr>
 
-</table>

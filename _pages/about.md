@@ -44,8 +44,11 @@ Experiences
 * **2023.05 - Present** : Research intern on visual object tracking at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.crise.ia.ac.cn/),  advised by Prof. [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en).
 * **2023.05 - Present** : Participant of interdisciplinary symposia around computer vision (22 participants from 10+ universities, once a week) at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.crise.ia.ac.cn/),  initiated and organized by Dr. [Shiyu Hu](https://huuuuusy.github.io/).
 * **2023.04 - Present** : Member of Artificial Intelligence Elites Class at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
+* **2023.03 - Present** : Deputy Secretary of the Undergraduate Party Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2023.01 - 2023.05** : Research intern on 3D indoor scene reconstruction at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/),  advised by Prof. [Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en).
 * **2022.08 - 2023.01** : Research intern on personalized federated learning at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by A/Prof. [Bingyan Liu](https://lebyni.github.io/).
+* **2021.09 - 2023.07** : Monitor / Deputy Monitor of the Major Class at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
+* **2020.09 - 2021.07** : Secretary of the Youth League Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 
 
 Publications
@@ -89,17 +92,6 @@ Awards & Honors
 * 2021 Erudite Pioneer of School of Computer Science, Beijing University of Posts and Telecommunications
 <br><br>
 More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
-
-
-Activities
-======
-* **2023.03 - Present** : Deputy Secretary of the Party Branch at SCS, BUPT
-* **2022.09 - 2023.07** : Deputy Class Monitor of the Major Class at SCS, BUPT
-* **2022.06 - 2023.06** : President of the Volunteer Association at SCS, BUPT
-* **2022.05 - 2022.07** : Team Leader of Summer Social Practice at BUPT
-* **2021.09 - 2022.07** : Class Monitor of the Major Class at SCS, BUPT
-* **2020.11 - 2022.11** : Team Leader of Winter Enrollment Promotion Practice at BUPT
-* **2020.09 - 2021.07** : Secretary of the Youth League Branch at SCS, BUPT
 
 
 For More Info

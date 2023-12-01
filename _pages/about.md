@@ -47,6 +47,7 @@ Experiences
 * **2023.03 - Present** : Deputy Secretary of the Undergraduate Party Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2023.01 - 2023.05** : Research intern on 3D indoor scene reconstruction at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/),  advised by Prof. [Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en).
 * **2022.08 - 2023.01** : Research intern on personalized federated learning at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by A/Prof. [Bingyan Liu](https://lebyni.github.io/).
+* **2022.06 - 2023.06** : President of the Volunteer Association at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2021.09 - 2023.07** : Monitor / Deputy Monitor of the Major Class at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2020.09 - 2021.07** : Secretary of the Youth League Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 

@@ -13,6 +13,6 @@ author_profile: true
   [[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
   [[Platform](http://videocube.aitestunion.com/)]
   [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]<br>
-  **Contribution 1**: Multi-modal Global Instance Tracking Dataset (MGIT)
-  **Contribution 2**: Hierarchical Multi-Granularity Semantic Annotation Strategy
+  **Contribution 1**: Multi-modal Global Instance Tracking Dataset (MGIT)<br>
+  **Contribution 2**: Hierarchical Multi-Granularity Semantic Annotation Strategy<br>
   **Contribution 3**: Evaluation mechanism for multimodal tracking tasks

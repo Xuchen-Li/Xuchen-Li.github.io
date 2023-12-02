@@ -16,3 +16,4 @@ author_profile: true
   **Contribution 1**: Constructing a multi-modal global instance tracking dataset (MGIT)<br>
   **Contribution 2**: Designing hierarchical multi-granular semantic annotation strategy based on human cognitive structures<br>
   **Contribution 3**: Constructing evaluation mechanisms tailored for multi-modal single object tracking tasks to effectively analyze the performance bottlenecks of existing methods
+  ![MGIT_pic](https://xuchen-li.github.io/files/MGIT-pic.png)

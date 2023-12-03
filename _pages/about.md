@@ -23,7 +23,7 @@ News
 * **2023.10** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 * **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
 * **2022.12** : 🏅 Win the **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
-* **2022.12** : 🏆 Obtain **Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)!
+* **2022.12** : 🏆 Obtain **Huawei AI Education Base Scholarship** (only 20 students win this scholarship among 3 colleges of BUPT)!
 * **2022.09** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
 
@@ -81,7 +81,7 @@ Awards & Honors
 * **2023 Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division
 * **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT
 * **2022 China National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
-* **2022 Huawei "AI Education Base" Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* **2022 Huawei AI Education Base Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **2022 National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, Team Leader)
 * **2022 Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
 * **2021 China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China

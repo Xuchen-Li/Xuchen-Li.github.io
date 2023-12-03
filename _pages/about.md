@@ -64,7 +64,6 @@ Publications
   [[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
   [[Platform](http://videocube.aitestunion.com/)]
   [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]  
-<br>
 ![MGIT_pic](https://xuchen-li.github.io/files/MGIT_pic.png)
 <br><br>
 More Details about Publications, click [here](https://xuchen-li.github.io/publications/).

@@ -85,7 +85,7 @@ Awards & Honors
 * **2022 Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
 * **2021 China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
 * **2021 Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
-<br>
+<br><br>
 More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 
 

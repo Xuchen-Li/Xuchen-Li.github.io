@@ -32,7 +32,7 @@ Research Interests
 ======
 - Visual Object Tracking (VOT)
 - Natural Language Tracking (NLT)
-- Visual and Language Tracking (VLT)
+- Visual Language Tracking (VLT)
 - Computer Vision (CV)
 
 

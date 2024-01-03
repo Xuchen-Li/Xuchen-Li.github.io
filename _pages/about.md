@@ -65,8 +65,8 @@ Publications
     [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
     [[**Platform**](http://videocube.aitestunion.com/)]
     [[**Toolkit**](https://github.com/Xuchen-Li/MGIT-toolkit)]
-<br>
-More Details about Publications, click [here](https://xuchen-li.github.io/publications/).
+<br><br>
+More Details about Publications, click [**here**](https://xuchen-li.github.io/publications/).
 
 
 Awards & Honors
@@ -87,7 +87,7 @@ Awards & Honors
 * **2021 China National Encouragement Scholarship** (My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
 * **2021 Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
 <br><br>
-More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
+More Awards & Honors, click [**here**](https://xuchen-li.github.io/awards&honors/).
 
 
 Maintained Projects

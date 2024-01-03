@@ -110,7 +110,7 @@ For More Info
 
 Contact
 ======
-* **lixuchen2024@ia.ac.cn** (Main, Valid from 2023.10 - 2029.07)
-* **xuchenli@bupt.edu.cn** (Valid from 2020.09 - 2024.07)
-* **xuchenli1030@gmail.com**
+* lixuchen2024@ia.ac.cn (Main, Valid from 2023.10 - 2029.07)
+* xuchenli@bupt.edu.cn (Valid from 2020.09 - 2024.07)
+* xuchenli1030@gmail.com
 

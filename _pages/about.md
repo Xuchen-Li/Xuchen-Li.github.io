@@ -38,17 +38,17 @@ Research Interests
 
 Education
 ======
-* **2020.09 - Present** : B.E. in Computer Science and Technology, [School of Computer Science (SCS)](https://scs.bupt.edu.cn/), [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/). Ranking 4/442 (0.9%).
+* **2020.09 - Present** : B.E. in Computer Science and Technology, **[School of Computer Science (SCS)](https://scs.bupt.edu.cn/)**, **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**. Ranking 4/442 (0.9%).
 
 
 Experiences
 ======
-* **2023.05 - Present** : Research intern on visual object tracking at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.crise.ia.ac.cn/),  advised by Prof. [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en).
-* **2023.05 - Present** : Participant of interdisciplinary symposia around computer vision (22 participants from 10+ universities, once a week) at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.crise.ia.ac.cn/),  initiated and organized by Dr. [Shiyu Hu](https://huuuuusy.github.io/).
-* **2023.04 - Present** : Member of Artificial Intelligence Elites Class at [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/).
+* **2023.05 - Present** : Research intern on visual object tracking at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.crise.ia.ac.cn/)**,  advised by **[Prof. Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)**.
+* **2023.05 - Present** : Participant of interdisciplinary symposia around computer vision (22 participants from 10+ universities, once a week) at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.crise.ia.ac.cn/)**,  initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
+* **2023.04 - Present** : Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**.
 * **2023.03 - Present** : Deputy Secretary of the Undergraduate Party Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
-* **2023.01 - 2023.05** : Research intern on 3D indoor scene reconstruction at [Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/),  advised by Prof. [Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en).
-* **2022.08 - 2023.01** : Research intern on personalized federated learning at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), advised by A/Prof. [Bingyan Liu](https://lebyni.github.io/).
+* **2023.01 - 2023.05** : Research intern on 3D indoor scene reconstruction at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en)**.
+* **2022.08 - 2023.01** : Research intern on personalized federated learning at **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**, advised by **[A/Prof. Bingyan Liu](https://lebyni.github.io/)**.
 * **2022.06 - 2023.06** : President of the Volunteer Association at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2021.09 - 2023.07** : Monitor / Deputy Monitor of the Major Class at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
 * **2020.09 - 2021.07** : Secretary of the Youth League Branch at School of Computer Science, Beijing University of Posts and Telecommunications (SCS, BUPT).
@@ -59,12 +59,12 @@ Publications
 **Conferences**
 * **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Casual Relationship**<br>
   S. Hu, D. Zhang, M. Wu, X. Feng, **Xuchen Li**, X. Zhao, K. Huang<br>
-  *NeurIPS 2023 (CCF-A Conference, Poster): [the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)*<br>
-  [[PDF](https://xuchen-li.github.io/files/MGIT.pdf)]
-  [[Poster](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
-  [[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
-  [[Platform](http://videocube.aitestunion.com/)]
-  [[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]  
+  *NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)** *<br>
+  **[[PDF](https://xuchen-li.github.io/files/MGIT.pdf)]**
+  **[[Poster](https://xuchen-li.github.io/files/MGIT-poster.pdf)]**
+  **[[Slides](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]**
+  **[[Platform](http://videocube.aitestunion.com/)]**
+  **[[Toolkit](https://github.com/Xuchen-Li/MGIT-toolkit)]**  
 <br>
 More Details about Publications, click [here](https://xuchen-li.github.io/publications/).
 
@@ -92,25 +92,25 @@ More Awards & Honors, click [here](https://xuchen-li.github.io/awards&honors/).
 
 Maintained Projects
 ======
-* [VideoCube Platform](http://videocube.aitestunion.com/) 
-* [SOTVerse Platform](http://metaverse.aitestunion.com/)
-* [GOT-10k Platform](http://got-10k.aitestunion.com/) 
-* [MGIT Toolkit](https://github.com/huuuuusy/videocube-toolkit)
+* **[VideoCube Platform](http://videocube.aitestunion.com/)** 
+* **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
+* **[GOT-10k Platform](http://got-10k.aitestunion.com/)** 
+* **[MGIT Toolkit](https://github.com/huuuuusy/videocube-toolkit)**
 
 
 For More Info
 ======
-* [Intelligence of Human-Computer Competition](http://turingai.ia.ac.cn/)
-* [Research Group of Intelligent Gaming](http://www.ig.ia.ac.cn:81/)
-* [Center for Research on Intelligent System and Engineering (CRISE)](http://www.crise.ia.ac.cn/)
-* [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)
-* [University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)
-* [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)
+* **[Intelligence of Human-Computer Competition](http://turingai.ia.ac.cn/)**
+* **[Research Group of Intelligent Gaming](http://www.ig.ia.ac.cn:81/)**
+* **[Center for Research on Intelligent System and Engineering (CRISE)](http://www.crise.ia.ac.cn/)**
+* **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.cas.cn/)**
+* **[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**
+* **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**
 
 
 Contact
 ======
-* lixuchen2024@ia.ac.cn (Main, Valid from 2023.10 - 2029.07)
-* xuchenli@bupt.edu.cn (Valid from 2020.09 - 2024.07)
-* xuchenli1030@gmail.com
+* **lixuchen2024@ia.ac.cn** (Main, Valid from 2023.10 - 2029.07)
+* **xuchenli@bupt.edu.cn** (Valid from 2020.09 - 2024.07)
+* **xuchenli1030@gmail.com**
 

@@ -80,7 +80,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 Xiaokun Feng, **Xuchen Li**, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang
 
-IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Conference on Artificial Intelligence](https://www.ijcai.org/)**<br>
+IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)**<br>
 </div>
 </div>
 

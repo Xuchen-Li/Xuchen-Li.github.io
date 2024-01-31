@@ -89,7 +89,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 - **2023 China National Scholarship** (<font face="楷体">国家奖学金</font>, My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
 * **2023 College Scholarship of University of Chinese Academy of Sciences** (<font face="楷体">中国科学院大学大学生奖学金</font>, only 17 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
 * **2023 National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (<font face="楷体">华为</font>ICT<font face="楷体">大赛全国三等奖</font>, team leader)
-* **2023 National Third Prize** of China Robotics and Artificial Intelligence Competition (<font face="楷体">中国机器人及人工智能大赛全国三等奖</font>, )
+* **2023 National Third Prize** of China Robotics and Artificial Intelligence Competition (<font face="楷体">中国机器人及人工智能大赛全国三等奖</font>)
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (<font face="楷体">国家级大学生创新创业项目</font>, team leader)
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (<font face="楷体">国家级大学生创新创业项目</font>)
 * **2023 Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division (<font face="楷体">中国国际“互联网+”大学生创新创业大赛北京赛区一等奖</font>)

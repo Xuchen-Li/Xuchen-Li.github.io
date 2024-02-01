@@ -74,7 +74,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 ## Under Review
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">IJCAI 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
 

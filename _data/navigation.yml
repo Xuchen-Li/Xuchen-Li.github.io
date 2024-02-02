@@ -21,5 +21,8 @@ main:
   - title: "Honors / Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Others"
+  - title: "Projects"
+    url: "/#-maintained-projects"
+    
+  - title: "More Info"
     url: "/#-for-more-info"

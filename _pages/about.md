@@ -38,9 +38,16 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 # 🔍️ Research Interests
 
-- Visual Object Tracking (VOT)
-- Visual Language Tracking (VLT)
-- Computer Vision (CV)
+## Visual Object Tracking (VOT)
+
+- Research in visual object tracking algorithms within diverse scenes, exemplified by benchmarks like GIT, LaSOT, and GOT-10k, aims to enhance the understanding and performance of single object tracking in various scenarios.
+- Delving into the robustness and generalization aspects of single object tracking algorithms is crucial. This research investigates the algorithms' ability to adapt across diverse scenarios, ensuring consistent and reliable performance.
+
+## Visual Language Tracking (VLT)
+
+- Within the domain of Visual Language Tracking (VLT), there is a focus on multi-modal tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
+- Research in VLT extends to tasks involving comprehensive video understanding. This encompasses efforts to enhance the algorithms' capability to interpret and contextualize objects in videos based on linguistic input.
+- The exploration of human-computer interaction patterns employs Large Language Models (LLMs) in conjunction with visual language tracking as a proxy task. This approach facilitates a deeper understanding of user interactions with visual content, contributing to the development of interactions that are more intuitive and user-friendly.
 
 # 📖 Educations
 

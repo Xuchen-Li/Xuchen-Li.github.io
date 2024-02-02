@@ -112,10 +112,40 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 # ⚙️ Maintained Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube & MGIT Platform</div><img src='images/videocube&mgit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform](http://videocube.aitestunion.com/)**<br>
+**[MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework](http://videocube.aitestunion.com/)**
+
+- Visual Object / Visual Language Tracking & Long Video Understanding and Reasoning & Intelligent Evaluation Technology & Hierarchical Semantic Information Annotation
+- As of Jan. 2024, the platform has received over 287k visits from more than 130 countries and regions worldwide, with over 1,000 downloads and more than 380 algorithm tests.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='images/sotverse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[SOTVerse: A User-defined Single Object Tracking Task Space](http://metaverse.aitestunion.com/)**<br>
+
+- Visual Object Tracking & Dynamic Open Environment Construction & Visual Evaluation Technique
+- The proposed task analysis framework, known as the 3E paradigm (where task is defined as the combination of environment, evaluation, and executor), aims to facilitate the efficient utilization of research resources in the evaluation process.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='images/got-10k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking](http://got-10k.aitestunion.com/)**<br>
+
+- Visual Object Tracking & Evaluation Technology & Platform Maintenance
+- GOT-10k is the supporting platform for research accepted by IEEE TPAMI. It receives 2.82M page views, 6k+ downloads, 14k+ trackers from 150+ countries.
+</div>
+</div>
+
+<!--
 * **[VideoCube Platform](http://videocube.aitestunion.com/)** 
 * **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
 * **[GOT-10k Platform](http://got-10k.aitestunion.com/)** 
 * **[VideoCube Toolkit](https://github.com/huuuuusy/videocube-toolkit)**
+-->
 
 # 🔗 For More Info
 

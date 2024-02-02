@@ -122,11 +122,3 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 * lixuchen2024@ia.ac.cn (Main, Valid from 2023.10 - 2029.07)
 * xuchenli@bupt.edu.cn (Valid from 2020.09 - 2024.07)
 * xuchenli1030@gmail.com
-
-<!--
-# 📄 CV
-
-* **[English Version](https://xuchen-li.github.io/files/CV-EN.pdf)**
-
-* **[<font face="楷体" >中文版</font>](https://xuchen-li.github.io/files/CV-CN.pdf)**
--->

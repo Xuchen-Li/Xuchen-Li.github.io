@@ -114,8 +114,8 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='images/videocube&mgit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform](http://videocube.aitestunion.com/) **<br>
-**[MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework](http://videocube.aitestunion.com/) **
+** [VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform](http://videocube.aitestunion.com/) **<br>
+** [MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework](http://videocube.aitestunion.com/) **
 
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology / Hierarchical Semantic Information Annotation
 - As of Jan. 2024, the platform has received 287k+ page views, 1k+ downloads, 400+ trackers from 130+ countries and regions worldwide.
@@ -125,7 +125,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='images/sotverse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[SOTVerse: A User-defined Single Object Tracking Task Space](http://metaverse.aitestunion.com/) **<br>
+** [SOTVerse: A User-defined Single Object Tracking Task Space](http://metaverse.aitestunion.com/) **<br>
 
 - Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique
 - The proposed task analysis framework, known as the 3E paradigm, aims to facilitate the efficient utilization of research resources in the evaluation process.
@@ -135,7 +135,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='images/got-10k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**[GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking](http://got-10k.aitestunion.com/) **<br>
+** [GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking](http://got-10k.aitestunion.com/) **<br>
 
 - Visual Object Tracking / Evaluation Technology / Platform Maintenance
 - As of Jan. 2024, the platform has received 2.82M+ page views, 6k+ downloads, 17k+ trackers from 150+ countries and regions worldwide.

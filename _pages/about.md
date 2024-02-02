@@ -99,15 +99,10 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 * **2023 China National Scholarship**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China
 * **2023 College Scholarship of University of Chinese Academy of Sciences**, at CASIA, by University of Chinese Academy of Sciences
-* **2023 National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader)
-* **2023 National Third Prize**, China Robotics and Artificial Intelligence Competition
-* **2023 National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader)
-* **2023 National Level Project**, College Students' Innovation and Entrepreneurship Training Program
 * **2023 Beijing Municipal Merit Student**, at BUPT, by Beijing Municipal Education Commission
 * **2022 China National Scholarship**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China
 * **2022 Huawei AI Education Base Scholarship**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **2022 National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation (team leader)
-* **2022 Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
 
 # ⚙️ Maintained Projects
 

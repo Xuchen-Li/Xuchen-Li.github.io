@@ -28,9 +28,9 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 # 🔥 News
 
-- **2023.12** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
-- **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-- **2022.12** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
+- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
 # 🔬 Research Interests
 
@@ -38,7 +38,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 - Research on multi-modal tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
 - Research on VLT extends to tasks involving comprehensive video understanding and encompasses efforts to enhance the algorithms' capability to interpret and contextualize objects in videos based on linguistic input.
-- The exploration of human-computer interaction patterns employs Large Language Models (LLMs) in conjunction with visual language tracking as a proxy task, contributing to the development of interactions that are more intuitive and user-friendly.
+- The exploration of human-computer interaction patterns employs Large Language Models (LLMs) in conjunction with visual language tracking as a proxy task, contributing to developing more intuitive and user-friendly interactions.
 
 ## Visual Object Tracking (VOT)
 
@@ -70,7 +70,7 @@ Beijing University of Posts and Telecommunications, Beijing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and causal Relationship**
+**A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
 Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, **Xuchen Li**, Xin Zhao, Kaiqi Huang
 
@@ -117,7 +117,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 **<a href="http://videocube.aitestunion.com/">VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 **<a href="http://videocube.aitestunion.com/">MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework</a>**
 
-- Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology / Hierarchical Semantic Information Annotation
+- Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
 - As of Jan. 2024, the platform has received 287k+ page views, 1k+ downloads, 400+ trackers from 130+ countries and regions worldwide.
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
@@ -142,13 +142,6 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2019.
 </div>
 </div>
-
-<!--
-* **[VideoCube Platform](http://videocube.aitestunion.com/)** 
-* **[SOTVerse Platform](http://metaverse.aitestunion.com/)**
-* **[GOT-10k Platform](http://got-10k.aitestunion.com/)** 
-* **[VideoCube Toolkit](https://github.com/huuuuusy/videocube-toolkit)**
--->
 
 # 🔗 For More Info
 

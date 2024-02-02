@@ -48,14 +48,11 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='images/bupt.png' alt="sym" width="80"></div>
+<div><img src='images/BUPT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student
-
 Computer Science and Technology
-
 School of Computer Science
-
 Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>

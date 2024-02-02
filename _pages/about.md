@@ -47,7 +47,20 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 # 📖 Educations
 
-- **2020.09 - Present** : B.E. in Computer Science and Technology, **[School of Computer Science (SCS)](https://scs.bupt.edu.cn/)**, **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**. Ranking 4/442 (0.9%).
+<div class='school-box'>
+<div><img src='images/bupt.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2020.09 - now, Undergraduate student
+
+Computer Science and Technology
+
+School of Computer Science
+
+Beijing University of Posts and Telecommunications, Beijing
+</div>
+</div>
+
+<!-- - **2020.09 - Present** : B.E. in Computer Science and Technology, **[School of Computer Science (SCS)](https://scs.bupt.edu.cn/)**, **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**. Ranking 4/442 (0.9%). -->
 
 # 💻 Research Experiences
 

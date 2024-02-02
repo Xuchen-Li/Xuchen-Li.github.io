@@ -97,17 +97,17 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 # 🎖 Honors and Awards
 
-- **2023 China National Scholarship** (My Rank: 1/455, 0.22%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
-* **2023 College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship among 220 recommended postgraduate students), at CASIA, by University of Chinese Academy of Sciences
-* **2023 National Third Prize** of Huawei Information and Communication Technology Competition Nationwide Final (team leader)
-* **2023 National Third Prize** of China Robotics and Artificial Intelligence Competition
-* **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (team leader)
-* **2023 National Level** College Students' Innovation and Entrepreneurship Training Program
-* **2023 Beijing Municipal Merit Student** (only 36 students obtain this honor), at BUPT, by Beijing Municipal Education Commission
-* **2022 China National Scholarship** (My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
-* **2022 Huawei AI Education Base Scholarship** (only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
-* **2022 National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (only 7 teams win the first prize among 3,442 teams, team leader)
-* **2022 Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
+* **2023 China National Scholarship**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China
+* **2023 College Scholarship of University of Chinese Academy of Sciences**, at CASIA, by University of Chinese Academy of Sciences
+* **2023 National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader)
+* **2023 National Third Prize**, China Robotics and Artificial Intelligence Competition
+* **2023 National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader)
+* **2023 National Level Project**, College Students' Innovation and Entrepreneurship Training Program
+* **2023 Beijing Municipal Merit Student**, at BUPT, by Beijing Municipal Education Commission
+* **2022 China National Scholarship**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China
+* **2022 Huawei AI Education Base Scholarship**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
+* **2022 National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation (team leader)
+* **2022 Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
 
 # ⚙️ Maintained Projects
 

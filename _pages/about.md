@@ -28,13 +28,9 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 # 🔥 News
 
-- **2023.11** : 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (<font face="楷体">中国科学院大学大学生奖学金</font>, only 17 students win this scholarship among 220 recommended postgraduate students of CASIA)!
-- **2023.11** : 🏆 Obtain **Beijing Municipal Merit Student** (<font face="楷体">北京市三好学生</font>, only 36 students obtain this honor of BUPT)!
-- **2023.10** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (<font face="楷体">国家奖学金</font>, highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2023.12** : 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (<font face="楷体">国家奖学金</font>, highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 - **2023.09** : 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-- **2022.12** : 🏅 Win the **National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (<font face="楷体">中国高校计算机大赛-人工智能创意赛全国一等奖</font>, only 7 teams win the first prize among 3,442 teams, team leader)
-- **2022.12** : 🏆 Obtain **Huawei AI Education Base Scholarship** (<font face="楷体">华为智能基座奖学金</font>, only 20 students win this scholarship among 3 colleges of BUPT)!
-- **2022.09** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (<font face="楷体">国家奖学金</font>, highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2022.12** : 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (<font face="楷体">国家奖学金</font>, highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
 # 🔍️ Research Interests
 
@@ -99,14 +95,11 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 * **2023 National Third Prize** of China Robotics and Artificial Intelligence Competition (<font face="楷体">中国机器人及人工智能大赛全国三等奖</font>)
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (<font face="楷体">国家级大学生创新创业项目</font>, team leader)
 * **2023 National Level** College Students' Innovation and Entrepreneurship Training Program (<font face="楷体">国家级大学生创新创业项目</font>)
-* **2023 Provincial First Prize** of China International 'Internet+' College Students' Innovation and Entrepreneurship Competition Beijing Division (<font face="楷体">中国国际“互联网+”大学生创新创业大赛北京赛区一等奖</font>)
 * **2023 Beijing Municipal Merit Student** (<font face="楷体">北京市三好学生</font>, only 36 students obtain this honor), at BUPT, by Beijing Municipal Education Commission
 * **2022 China National Scholarship** (<font face="楷体">国家奖学金</font>, My Rank: 2/430, 0.47%, highest honor for undergraduates in China, awarded to top 1% students), at BUPT, by Ministry of Education of China
 * **2022 Huawei AI Education Base Scholarship** (<font face="楷体">华为智能基座奖学金</font>, only 20 students win this scholarship among 3 colleges), at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group
 * **2022 National First Prize** of China Collegiate Computing Contest-Artificial Intelligence Innovation (<font face="楷体">中国高校计算机大赛-人工智能创意赛全国一等奖</font>, only 7 teams win the first prize among 3,442 teams, team leader)
 * **2022 Meritorious Winner** of Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling
-* **2021 China National Encouragement Scholarship** (<font face="楷体">国家励志奖学金</font>, My Rank: 8/522, 1.53%), at BUPT, by Ministry of Education of China
-* **2021 Haohan Scholarship and Grants** (<font face="楷体">浩瀚奖助学金</font>), at BUPT, by Beijing Haohan DATA Technology Co., Ltd.
 
 # ⚙️ Maintained Projects
 

@@ -6,6 +6,9 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "News"
+    url: "/#-research-interests"
+
   - title: "Educations"
     url: "/#-educations"
 
@@ -18,11 +21,8 @@ main:
   - title: "Honors / Awards"
     url: "/#-honors-and-awards"
 
-  # - title: "Projects"
-  #   url: "/#-maintained-projects"
+  - title: "Projects"
+    url: "/#-maintained-projects"
 
-  # - title: "More Info"
-  #   url: "/#-for-more-info"
-
-  # - title: "CV"
-  #   url: "/#-cv"
+  - title: "More Info"
+    url: "/#-for-more-info"

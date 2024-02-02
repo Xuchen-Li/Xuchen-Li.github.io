@@ -110,7 +110,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader), 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023
 
-# ⚙️ Maintained Projects
+# 🌟 Maintained Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='images/videocube&mgit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -158,9 +158,3 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 * **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**
 * **[University of Chinese Academy of Sciences (UCAS)](https://www.ucas.ac.cn/)**
 * **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**
-
-# ✉️ Contact
-
-* lixuchen2024@ia.ac.cn (Main, Valid from 2023.10 - 2029.07)
-* xuchenli@bupt.edu.cn (Valid from 2020.09 - 2024.07)
-* xuchenli1030@gmail.com

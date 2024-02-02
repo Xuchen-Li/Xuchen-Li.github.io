@@ -6,7 +6,7 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Research Interests"
+  - title: "Interests"
     url: "/#-research-interests"
 
   - title: "Educations"
@@ -18,7 +18,7 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors / Awards"
+  - title: "Honors/Awards"
     url: "/#-honors-and-awards"
 
   - title: "Projects"

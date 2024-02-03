@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👨🏻‍💻 About Me
+# 👨🏻‍💻 About Me <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fxuchen-li.github.io&count_bg=%233D8DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 
 I am **Xuchen Li <font face="楷体" >(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow) at **<a href="http://www.crise.ia.ac.cn/"> Center for Research on Intelligent System and Engineering (CRISE)</a>**.
 

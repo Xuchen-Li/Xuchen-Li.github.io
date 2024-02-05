@@ -27,8 +27,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 
 # 🔥 News
-- **2023.12**: 🏆 Obtain**
-College Scholarship of University of Chi nese Academy of Sciences* (only 17 stud ents win this scholarship among 220 reco mmended postgraduate students of CASIA)!
+- **2023.12**: 🏆 Obtain **College Scholarship of University of Chi nese Academy of Sciences** (only 17 stud ents win this scholarship among 220 reco mmended postgraduate students of CASIA)!
 - **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 - **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
 - **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!

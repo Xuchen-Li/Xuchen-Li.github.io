@@ -159,4 +159,4 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 - [**Meiqi Wu**](https://github.com/wmeiqi), Ph.D. student at the [**University of Chinese Academy of Sciences (UCAS)**](https://www.ucas.ac.cn/), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
 - [**Xiaokun Feng**](https://github.com/XiaokunFeng), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
 - **Dailing Zhang**, Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
-- **Xuzhao Li**, B.E. and incoming M.S. student at [**Beijing Institute of Technology (BIT)**](https://english.bit.edu.cn/), focusing on multi-agent path planning and trajectory prediction.
+- **Xuzhao Li**, B.E. student and incoming M.S. student at [**Beijing Institute of Technology (BIT)**](https://english.bit.edu.cn/), focusing on multi-agent path planning and trajectory prediction.

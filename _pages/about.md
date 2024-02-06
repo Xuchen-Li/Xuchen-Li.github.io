@@ -141,7 +141,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 - Visual Object Tracking / Evaluation Technology / Platform Maintenance
 - As of Jan. 2024, the platform has received 2.82M+ page views, 6k+ downloads, 17k+ trackers from 150+ countries and regions worldwide.
-- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2019.
+- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
 </div>
 </div>
 

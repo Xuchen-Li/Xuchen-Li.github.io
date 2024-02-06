@@ -29,7 +29,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 # 🔥 News
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences** (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
-- **2023.11**: 🏆 Obtain **Beijing Municipal Merit Student** (only 36 students obtain this honor of BUPT)!
+- **2023.11**: 🏆 Obtain **Beijing Merit Student** (only 36 students obtain this honor of BUPT)!
 - **2023.09**: 📝 One paper has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
 - **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship** (only 20 students win this scholarship of BUPT)!
 - **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
@@ -104,7 +104,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 * **College Scholarship of University of Chinese Academy of Sciences**, at CASIA, by University of Chinese Academy of Sciences, 2023
 * **Huawei AI Education Base Scholarship**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
-* **Beijing Municipal Merit Student**, at BUPT, by Beijing Municipal Education Commission, 2023
+* **Beijing Merit Student**, at BUPT, by Beijing Municipal Education Commission, 2023
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation (team leader), 2022
 * **Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader), 2023

@@ -84,6 +84,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 </div>
 </div>
 
+<!--
 ## Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">IJCAI 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
@@ -95,6 +96,7 @@ Xiaokun Feng, **Xuchen Li**, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, K
 IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)**<br>
 </div>
 </div>
+-->
 
 # 🎖 Honors and Awards
 

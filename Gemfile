@@ -15,6 +15,7 @@ gem "github-pages", "=228", group: :jekyll_plugins
 
 # gem "jekyll", "~> 3.9.3"
 # bundle update
+gem install bundler:2.2.19
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 

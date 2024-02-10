@@ -23,7 +23,7 @@ I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. stu
 
 Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science (SCS)</a>** at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications (BUPT)</a>**.
 
-I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother Xuzhao Li, which is a truly unique and special experience for me.
+I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
 
 # 🔥 News

@@ -105,7 +105,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 * **College Scholarship of University of Chinese Academy of Sciences**, at CASIA, by University of Chinese Academy of Sciences, 2023
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
 * **Beijing Merit Student**, at BUPT, by Beijing Municipal Education Commission, 2023
-* **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation (team leader), 2022
+* **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
 * **Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader), 2023
 * **National Third Prize**, China Robotics and Artificial Intelligence Competition, 2023

@@ -19,11 +19,11 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA, <font face="楷体">中国科学院自动化研究所</font>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang <font face="楷体">(黄凯奇)</font></a>** (IAPR Fellow, IEEE Senior Member).
+I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow, IEEE Senior Member).
 
-Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science</a>** (SCS, <font face="楷体">计算机学院</font>), **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications</a>** (BUPT, <font face="楷体">北京邮电大学</font>).
+Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science (SCS)</a>** at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications (BUPT)</a>**.
 
-I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu <font face="楷体">(胡世宇)</font></a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li <font face="楷体">(李旭钊)</font></a>**, which is a truly unique and special experience for me.
+I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to grow up and study with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
 
 # 🔥 News

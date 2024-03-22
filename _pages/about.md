@@ -73,7 +73,7 @@ Beijing University of Posts and Telecommunications, Beijing
 <div class='paper-box-text' markdown="1">
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
-Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, **Xuchen Li**, Xin Zhao, Kaiqi Huang
+[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
@@ -90,9 +90,19 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <div class='paper-box-text' markdown="1">
 **Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
 
-Xiaokun Feng, **Xuchen Li**, Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaotang Chen, Kaiqi Huang
+[Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)**<br>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
+
+**Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Zhang Jing, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
 </div>
 </div>
 
@@ -114,7 +124,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 # 🌟 Maintained Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='images/videocube&mgit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='images/VideoCube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 **<a href="http://videocube.aitestunion.com/">MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework</a>**
@@ -125,7 +135,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='images/sotverse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='images/SOTVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
 
@@ -135,7 +145,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='images/got-10k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='images/GOT-10k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
 

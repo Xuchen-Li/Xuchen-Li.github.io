@@ -98,7 +98,7 @@ IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Con
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
+**Diverse Text Generation for Visual Language Tracking Based on LLM**
 
 **Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Zhang Jing, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 

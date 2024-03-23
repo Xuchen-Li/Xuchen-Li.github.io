@@ -76,11 +76,13 @@ Beijing University of Posts and Telecommunications, Beijing
 [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
-  [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
+  [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
   [[**Platform**](http://videocube.aitestunion.com/)]
   [[**Toolkit**](https://github.com/huuuuusy/videocube-toolkit)]
+  [[**Dataset**](http://videocube.aitestunion.com/downloads)]
 </div>
 </div>
 

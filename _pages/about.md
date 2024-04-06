@@ -151,7 +151,7 @@ CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Worksho
 <div class='paper-box-text' markdown="1">
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
 
-- Visual Object Tracking / Evaluation Technology / Platform Maintenance
+- Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
 - As of Feb. 2024, the platform has received 3.24M+ page views, 6k+ downloads, 18k+ trackers from 160+ countries and regions worldwide.
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2019.
 </div>

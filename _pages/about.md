@@ -157,15 +157,6 @@ CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Worksho
 </div>
 </div>
 
-# 🔗 For More Info
-
-* **[Intelligence of Human-Computer Competition](http://turingai.ia.ac.cn/)**
-* **[Research Group of Intelligent Gaming](http://www.ig.ia.ac.cn:81/)**
-* **[Center for Research on Intelligent System and Engineering (CRISE)](http://www.crise.ia.ac.cn/)**
-* **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**
-* **[University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/)**
-* **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**
-
 # 🤝 Collaborators
 
 - [**Shiyu Hu**](https://huuuuusy.github.io/), Ph.D. at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/) and [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.

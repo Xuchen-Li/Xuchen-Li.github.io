@@ -110,13 +110,13 @@ CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Worksho
 
 # 🎖 Honors and Awards
 
-* **China National Scholarship**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China, 2023
-* **China National Scholarship**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China, 2022
+* **China National Scholarship (本科生国家奖学金)**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China, 2023
+* **China National Scholarship (本科生国家奖学金)**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China, 2022
+* **Huawei AI Education Base Scholarship (华为智能基座奖学金)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
+* **Beijing Merit Student (北京市三好学生)**, at BUPT, by Beijing Municipal Education Commission, 2023
+* **College Scholarship of University of Chinese Academy of Sciences (中国科学院大学大学生奖学金)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 * **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
-* **Huawei AI Education Base Scholarship**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
-* **College Scholarship of University of Chinese Academy of Sciences**, at CASIA, by University of Chinese Academy of Sciences, 2023
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
-* **Beijing Merit Student**, at BUPT, by Beijing Municipal Education Commission, 2023
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
 * **Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader), 2023

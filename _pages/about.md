@@ -93,7 +93,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 **Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Zhang Jing, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
+CVPRW 2024 (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
 </div>
 </div>
 

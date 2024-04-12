@@ -68,7 +68,9 @@ Beijing University of Posts and Telecommunications, Beijing
 
 # 📝 Publications 
 
-## Acceptance
+## ✅ Acceptance
+
+### Visual Language Tracking
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +99,9 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 </div>
 </div>
 
-## Under Review
+## ☑️ Under Review
+
+### Visual Language Tracking
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">IJCAI 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

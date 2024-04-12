@@ -27,6 +27,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 
 # 🔥 News
+- **2024.04**: 📝 One paper has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference, Oral)!
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">本科生国家奖学金</font>)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 - **2023.11**: 🏆 Obtain **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)** (only 36 students obtain this honor of BUPT)!
@@ -86,6 +87,16 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
+
+**Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Zhang Jing, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
+</div>
+</div>
+
 ## Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">IJCAI 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
@@ -95,16 +106,6 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 [Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)**<br>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Diverse Text Generation for Visual Language Tracking Based on LLM**
-
-**Xuchen Li**, [Xiaokun Feng](https://github.com/XiaokunFeng), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://github.com/wmeiqi), Dailing Zhang, Zhang Jing, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-CVPRW 2024 (Workshop in CCF-A Conference, Under Review): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
 </div>
 </div>
 

@@ -97,18 +97,6 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 </div>
 </div>
 
-<-- ## ☑️ Under Review
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">IJCAI 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
-
-[Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-IJCAI 2024 (CCF-A Conference, Under Review): **[the 33rd International Joint Conference on Artificial Intelligence](https://ijcai24.org/)**<br>
-</div>
-</div>
--->
 
 # 🎖 Honors and Awards
 

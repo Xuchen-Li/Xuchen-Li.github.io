@@ -124,7 +124,7 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
 - As of Feb. 2024, the platform has received 315k+ page views, 1k+ downloads, 400+ trackers from 130+ countries and regions worldwide.
-- VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2022 and NeurIPS 2023.
+- VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
 </div>
 
@@ -144,7 +144,7 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 
 - Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
 - As of Feb. 2024, the platform has received 3.24M+ page views, 6k+ downloads, 18k+ trackers from 160+ countries and regions worldwide.
-- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2019.
+- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
 </div>
 </div>
 

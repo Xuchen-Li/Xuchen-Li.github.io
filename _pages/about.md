@@ -27,6 +27,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 
 # 🔥 News
+- **2024.04**: 📣We will present our work ([**Global Instance Tracking (GIT)**](https://huuuuusy.github.io/#GIT)) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in object tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
 - **2024.04**: 📝 One paper has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">本科生国家奖学金</font>)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!

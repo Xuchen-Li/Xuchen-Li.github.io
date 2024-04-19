@@ -98,6 +98,17 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 </div>
 </div>
 
+## ☑️ Ongoing Research
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
+
+[Xiaokun Feng](https://github.com/XiaokunFeng), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, [Meiqi Wu](https://github.com/wmeiqi), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
+</div>
+</div>
 
 # 🎖 Honors and Awards
 

@@ -55,7 +55,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 <div><img src='images/BUPT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student<br>
-Computer Science and Technology, Ranking 4/442 (0.9%)<br>
+Computer Science and Technology, Ranking <b>1/442 (0.23%)</b><br>
 School of Computer Science<br>
 Beijing University of Posts and Telecommunications, Beijing
 </div>

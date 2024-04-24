@@ -163,6 +163,15 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VIIG Platform</div><img src='images/VIIG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**<a href="http://viig.aitestunion.com/">VIIG: Visual Intelligence Interest Group</a>**
+
+- Communication / Collaboration / Cooperation
+- Welcome colleagues interested in visual object tracking, visual language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us.
+</div>
+</div>
+
 # 🤝 Collaborators
 
 > I am honored to collaborate with these outstanding researchers. We engage in close discussions concerning various fields such as computer vision, AI4Science, and human-computer interaction. If you are also interested in these areas, please feel free to contact me.

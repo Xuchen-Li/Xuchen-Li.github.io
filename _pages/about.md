@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About Me
 
-I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
+I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences (CASIA)</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow). I am a member of [Visual Intelligence Interest Group (VIIG)](http://viig.aitestunion.com/).
 
 Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science (SCS)</a>** at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications (BUPT)</a>**.
 

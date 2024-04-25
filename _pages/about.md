@@ -27,6 +27,7 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 
 
 # 🔥 News
+- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates Award (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
 - **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
@@ -120,6 +121,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 * **China National Scholarship (<font face="楷体">本科生国家奖学金</font>)**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China, 2022
 * **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2023
+* **Beijing Outstanding Graduates Award (<font face="楷体">北京市优秀毕业生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2023
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 * **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021

@@ -42,7 +42,7 @@ My research focuses on visual object tracking and visual language tracking tasks
 
 ## Visual Language Tracking (VLT)
 
-- Research on multi-modal tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
+- Research on visual language tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
 - Research on VLT extends to tasks involving comprehensive video understanding and encompasses efforts to enhance the algorithms' capability to interpret and contextualize objects in videos based on linguistic input.
 - The exploration of human-computer interaction patterns employs Large Language Models (LLMs) in conjunction with visual language tracking as a proxy task, contributing to developing more intuitive and user-friendly interactions.
 
@@ -68,7 +68,6 @@ Beijing University of Posts and Telecommunications, Beijing
 * **2023.05 - Present**: Participant of interdisciplinary symposia around computer vision (20+ participants from 10+ universities, once a week) at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**,  initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
 * **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
-* **2022.08 - 2023.01**: Research intern on Federated Learning at **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**,  advised by **[A/Prof. Bingyan Liu](https://scholar.google.com/citations?hl=en-US&user=q2TL0g0AAAAJ)**.
 
 # 📝 Publications 
 
@@ -170,6 +169,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 </div>
 </div>
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VIIG Platform</div><img src='images/VIIG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://viig.aitestunion.com/">VIIG: Visual Intelligence Interest Group</a>**
@@ -178,6 +178,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 - Welcome colleagues interested in visual object tracking, visual language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us.
 </div>
 </div>
+-->
 
 # 🤝 Collaborators
 

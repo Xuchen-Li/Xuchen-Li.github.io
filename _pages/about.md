@@ -127,12 +127,15 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 * **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
+
+<!--
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
 * **Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader), 2023
 * **National Third Prize**, China Robotics and Artificial Intelligence Competition, 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader), 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023
+-->
 
 # 🌟 Maintained Projects
 

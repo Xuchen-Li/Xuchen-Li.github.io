@@ -28,8 +28,8 @@ I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiy
 My research focuses on visual object tracking and visual language tracking tasks. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
-- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
 - **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
+- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
@@ -64,10 +64,11 @@ Beijing University of Posts and Telecommunications, Beijing
 </div>
 
 # 💻 Research Experiences
-* **2023.05 - Present**: Conducting research on visual object tracking and visual language tracking at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
+* **2023.05 - Present**: Researching visual language tracking and visual object language tracking at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - Present**: Participant of interdisciplinary symposia around computer vision (20+ participants from 10+ universities, once a week) at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**,  initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
-* **2023.01 - 2023.05**: Research intern on 3D scene reconstruction at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&hl=en)**.
+* **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
+* **2022.08 - 2023.01**: Research intern on Federated Learning at **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**,  advised by **[A/Prof. Bingyan Liu](https://scholar.google.com/citations?hl=en-US&user=q2TL0g0AAAAJ)**.
 
 # 📝 Publications 
 
@@ -180,13 +181,13 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 > I am honored to collaborate with these outstanding researchers. We engage in close discussions concerning various fields such as computer vision, AI4Science, and human-computer interaction. If you are also interested in these areas, please feel free to contact me.
 
 - [**Shiyu Hu**](https://huuuuusy.github.io/), Ph.D. at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/) and [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
-- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
-- **Yiping Ma**, Ph.D. student at the [**East China Normal University (ECNU)**](https://english.ecnu.edu.cn/), focusing on intelligent education technique and human-computer interaction.
-- **Yaxuan Kang**, design researcher, research assistant, and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on human-computer interaction.
-- **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on computer vision and AI4Science.
 - [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
+- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
 - [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
 - [**Xuzhao Li**](https://xuzhaoli.github.io/), B.E. student and incoming M.S. student at [**Beijing Institute of Technology (BIT)**](https://english.bit.edu.cn/), focusing on multi-agent path planning and trajectory prediction.
+- **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on computer vision and AI4Science.
+- **Yaxuan Kang**, design researcher, research assistant, and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on human-computer interaction.
+- **Yiping Ma**, Ph.D. student at the [**East China Normal University (ECNU)**](https://english.ecnu.edu.cn/), focusing on intelligent education technique and human-computer interaction.
 
 My homepage visitors have been recorded since February 2024. Thanks for your attention.
 <body>

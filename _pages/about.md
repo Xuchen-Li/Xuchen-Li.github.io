@@ -51,8 +51,7 @@ Beijing University of Posts and Telecommunications, Beijing
 </div>
 
 # 💻 Research Experiences
-* **2023.05 - Present**: Researching visual language tracking and visual object language tracking at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
-* **2023.05 - Present**: Participant of interdisciplinary symposia around computer vision (20+ participants from 10+ universities, once a week) at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**,  initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
+* **2023.05 - Present**: Conducting research on visual language tracking, multi-modal learning, and large language model at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
 * **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
@@ -111,6 +110,8 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2023
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
+
+<!--
 * **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
@@ -119,6 +120,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 * **National Third Prize**, China Robotics and Artificial Intelligence Competition, 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader), 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023
+-->
 
 # 🌟 Maintained Projects
 

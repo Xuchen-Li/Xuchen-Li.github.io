@@ -25,7 +25,7 @@ Currently, I am a fourth-year undergraduate student majoring in Computer Science
 
 I am very grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
-My research focuses on visual object tracking and visual language tracking tasks. If you are interested in my work or would like to collaborate, please feel free to contact me.
+My research focuses on **Visual Language Tracking** and **Multi-modal Learning**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
 - **2024.04**: 📣 We will present our work (**Global Instance Tracking**) at **TPAMI2023** during the [**VALSE2024**](http://www.valser.org/2024/#/) poster session (May 2024, Chongqing, China) and extend a warm invitation to colleagues interested in visual object/language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us (see our [**Poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information).
@@ -38,23 +38,10 @@ My research focuses on visual object tracking and visual language tracking tasks
 - **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)** (only 20 students win this scholarship of BUPT)!
 - **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
 
-# 🔬 Research Interests
-
-## Visual Language Tracking (VLT)
-
-- Research on visual language tracking, addressing challenges related to integrating visual and linguistic information for improved tracking accuracy.
-- Research on VLT extends to tasks involving comprehensive video understanding and encompasses efforts to enhance the algorithms' capability to interpret and contextualize objects in videos based on linguistic input.
-- The exploration of human-computer interaction patterns employs Large Language Models (LLMs) in conjunction with visual language tracking as a proxy task, contributing to developing more intuitive and user-friendly interactions.
-
-## Visual Object Tracking (VOT)
-
-- Research on visual object tracking algorithms within diverse scenes, aims to enhance the understanding and performance of single object tracking in various scenarios.
-- Research on the robustness and generalization aspects of single object tracking algorithms, investigates the algorithms' ability to adapt across diverse scenarios, ensuring consistent and reliable performance.
-
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='images/BUPT.png' alt="sym" width="80"></div>
+<div><img src='../images/BUPT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - now, Undergraduate student<br>
 Computer Science and Technology, Ranking <b>1/449 (0.22%)</b><br>
@@ -68,16 +55,15 @@ Beijing University of Posts and Telecommunications, Beijing
 * **2023.05 - Present**: Participant of interdisciplinary symposia around computer vision (20+ participants from 10+ universities, once a week) at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**,  initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
 * **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
-* **2022.08 - 2023.01**: Research intern on Federated Learning at **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**,  advised by **[A/Prof. Bingyan Liu](https://scholar.google.com/citations?hl=en-US&user=q2TL0g0AAAAJ)**.
 
 # 📝 Publications 
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../images/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
-  
+
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
 
 **Xuchen Li**, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
@@ -86,10 +72,10 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/MGIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../images/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
-  
+
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
 [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
@@ -107,7 +93,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 ## ☑️ Ongoing Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='images/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../images/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Remembering Target More Like Humans: A Robust Visual-Language Tracker with Adaptive Prompts**
 
@@ -136,7 +122,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 
 # 🌟 Maintained Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='images/VideoCube.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='../images/VideoCube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 **<a href="http://videocube.aitestunion.com/">MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework</a>**
@@ -147,7 +133,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='images/SOTVerse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='../images/SOTVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
 
@@ -157,7 +143,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='images/GOT-10k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='../images/GOT-10k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
 

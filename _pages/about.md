@@ -124,8 +124,7 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='../images/VideoCube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**<a href="http://videocube.aitestunion.com/">VideoCube: A Large-scale Multi-dimensional Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
-**<a href="http://videocube.aitestunion.com/">MGIT: A Multi-modal Global Instance Tracking Benchmark Based on Hierarchical Semantic Framework</a>**
+**<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
 - As of Feb. 2024, the platform has received 315k+ page views, 1k+ downloads, 400+ trackers from 130+ countries and regions worldwide.

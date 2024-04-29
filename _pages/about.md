@@ -68,6 +68,7 @@ Beijing University of Posts and Telecommunications, Beijing
 * **2023.05 - Present**: Participant of interdisciplinary symposia around computer vision (20+ participants from 10+ universities, once a week) at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**,  initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
 * **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
+* **2022.08 - 2023.01**: Research intern on Federated Learning at **[Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/)**,  advised by **[A/Prof. Bingyan Liu](https://scholar.google.com/citations?hl=en-US&user=q2TL0g0AAAAJ)**.
 
 # 📝 Publications 
 
@@ -124,8 +125,6 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2023
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
-
-<!--
 * **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
@@ -134,7 +133,6 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 * **National Third Prize**, China Robotics and Artificial Intelligence Competition, 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader), 2023
 * **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023
--->
 
 # 🌟 Maintained Projects
 
@@ -169,17 +167,6 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 </div>
 </div>
 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VIIG Platform</div><img src='images/VIIG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**<a href="http://viig.aitestunion.com/">VIIG: Visual Intelligence Interest Group</a>**
-
-- Communication / Collaboration / Cooperation
-- Welcome colleagues interested in visual object tracking, visual language tracking, evaluation methodologies, and human-computer interaction to engage in discussions with us.
-</div>
-</div>
--->
-
 # 🤝 Collaborators
 
 > I am honored to collaborate with these outstanding researchers. We engage in close discussions concerning various fields such as computer vision, AI4Science, and human-computer interaction. If you are also interested in these areas, please feel free to contact me.
@@ -189,9 +176,6 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 - [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
 - [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
 - [**Xuzhao Li**](https://xuzhaoli.github.io/), B.E. student and incoming M.S. student at [**Beijing Institute of Technology (BIT)**](https://english.bit.edu.cn/), focusing on multi-agent path planning and trajectory prediction.
-- **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on computer vision and AI4Science.
-- **Yaxuan Kang**, design researcher, research assistant, and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on human-computer interaction.
-- **Yiping Ma**, Ph.D. student at the [**East China Normal University (ECNU)**](https://english.ecnu.edu.cn/), focusing on intelligent education technique and human-computer interaction.
 
 My homepage visitors have been recorded since February 2024. Thanks for your attention.
 <body>

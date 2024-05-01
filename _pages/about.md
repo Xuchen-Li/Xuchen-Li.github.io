@@ -124,12 +124,22 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 
 # 🌟 Maintained Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='../images/GOT-10k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
+
+- Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
+- As of May 2024, the platform has received 3.47M+ page views, 7k+ downloads, 19k+ trackers from 160+ countries and regions worldwide.
+- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='../images/VideoCube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
-- As of Feb. 2024, the platform has received 315k+ page views, 1k+ downloads, 400+ trackers from 130+ countries and regions worldwide.
+- As of May 2024, the platform has received 357k+ page views, 1.1k+ downloads, 410+ trackers from 130+ countries and regions worldwide.
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
 </div>
@@ -139,18 +149,8 @@ NeurIPS 2024 (CCF-A Conference, In Preparation): **[the 38th Conference on Neura
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
 
 - Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique
-- As of Feb. 2024, the platform has received 106k+ page views from 100+ countries and regions worldwide.
+- As of May 2024, the platform has received 121k+ page views from 125+ countries and regions worldwide.
 - SOTVerse is the supporting platform for research accepted by IJCV 2023.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='../images/GOT-10k.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
-
-- Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
-- As of Feb. 2024, the platform has received 3.24M+ page views, 6k+ downloads, 18k+ trackers from 160+ countries and regions worldwide.
-- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
 </div>
 </div>
 

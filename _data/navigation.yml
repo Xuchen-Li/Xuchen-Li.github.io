@@ -6,9 +6,6 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Interests"
-    url: "/#-research-interests"
-
   - title: "Educations"
     url: "/#-educations"
 

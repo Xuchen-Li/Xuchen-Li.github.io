@@ -94,7 +94,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../images/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Tracking Target with Adaptive Language and Visual Prompts through Memory Modeling**
+**MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
 
 [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
@@ -104,7 +104,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../images/FCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Beyond accuracy: Tracking via Visual Search Ability more like Human**
+**Beyond Accuracy: Tracking more like Human via Visual Search**
 
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 

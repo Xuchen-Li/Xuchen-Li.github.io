@@ -104,7 +104,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../images/FCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Beyond Accuracy: Tracking more like Human via Visual Search**
+**Beyond Accuracy: Tracking more like Human through Visual Search**
 
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 

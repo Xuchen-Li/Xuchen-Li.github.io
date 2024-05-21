@@ -68,6 +68,8 @@ Beijing University of Posts and Telecommunications, Beijing
 **Xuchen Li**, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
+  [[**Paper**](https://xuchen-li.github.io/files/DTLLM.pdf)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
 </div>
 </div>
 

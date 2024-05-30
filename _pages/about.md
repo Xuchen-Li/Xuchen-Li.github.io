@@ -83,7 +83,6 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
-
 [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
@@ -102,6 +101,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
+
 [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -111,6 +111,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Beyond Accuracy: Tracking more like Human through Visual Search**
+
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -121,7 +122,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
-* **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
+* **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, Top 1%, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023

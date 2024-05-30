@@ -133,6 +133,8 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 * **Meritorious Winner**, Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2022
 * **National Third Prize**, Huawei Information and Communication Technology Competition Nationwide Final (team leader), 2023
 * **National Third Prize**, China Robotics and Artificial Intelligence Competition, 2023
+* **National Level Project**, College Students' Innovation and Entrepreneurship Training Program (team leader), 2023
+* **National Level Project**, College Students' Innovation and Entrepreneurship Training Program, 2023
 
 # 🌟 Projects
 

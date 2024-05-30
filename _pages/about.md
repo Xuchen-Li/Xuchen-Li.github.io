@@ -28,15 +28,15 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
-- **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (only 38 students obtain this honor of SCS, BUPT)!
+- **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information!
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
-- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/455 (0.22%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
-- **2023.11**: 🏆 Obtain **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)** (only 36 students obtain this honor of BUPT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!
+- **2023.11**: 🏆 Obtain **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)** (Top 1%, only 36 students obtain this honor of BUPT)!
 - **2023.09**: 📝 One [**paper**](https://xuchen-li.github.io/#MGIT) has been accepted by **the 37th Conference on Neural Information Processing Systems** (NeurIPS, CCF-A Conference, Poster)!
-- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)** (only 20 students win this scholarship of BUPT)!
-- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **2/430 (0.47%)** (the highest honor for undergraduates in China, awarded to top 1% students of BUPT)!
+- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)** (Top 1%, only 20 students win this scholarship of BUPT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **2/430 (0.47%)** (Top 1%, the highest honor for undergraduates in China)!
 
 # 📖 Educations
 
@@ -48,11 +48,6 @@ Pattern Recognition and Intelligent System<br>
 Institute of Automation, Chinese Academy of Sciences, Beijing
 </div>
 </div>
-
-
-
-<br>
-
 <div class='school-box'>
 <div><img src='../images/BUPT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
@@ -62,10 +57,6 @@ School of Computer Science<br>
 Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
-
-
-
-
 # 💻 Experiences
 * **2023.05 - Present**: Conducting research on visual language tracking, multi-modal learning, and large language model at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
@@ -78,8 +69,6 @@ Beijing University of Posts and Telecommunications, Beijing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
-
-
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
 
 **Xuchen Li**, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
@@ -93,8 +82,6 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
-
-
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
 [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
@@ -115,8 +102,6 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
-
-
 [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -126,8 +111,6 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Beyond Accuracy: Tracking more like Human through Visual Search**
-
-
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), **Xuchen Li**, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -136,14 +119,15 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 # 🎖 Honors
 
-* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), at BUPT, by Ministry of Education of China, 2023
-* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), at BUPT, by Ministry of Education of China, 2022
+* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
+* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
 * **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
-* **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2023
-* **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, at BUPT, by Beijing Municipal Education Commission, 2024
+* **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
+* **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 
 <!--
+
 * **China National Encouragement Scholarship**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
 * **Haohan Scholarship and Grants**, at BUPT, by Beijing Haohan DATA Technology Co., Ltd, 2021
 * **National First Prize**, China Collegiate Computing Contest-Artificial Intelligence Innovation Contest (team leader), 2022
@@ -159,8 +143,6 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='../projects/GOT-10k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
-
-
 - Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
 - As of May 2024, the platform has received 3.47M+ page views, 7k+ downloads, 19k+ trackers from 160+ countries and regions worldwide.
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
@@ -170,8 +152,6 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='../projects/VideoCube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
-
-
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
 - As of May 2024, the platform has received 357k+ page views, 1.1k+ downloads, 410+ trackers from 130+ countries and regions worldwide.
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
@@ -181,8 +161,6 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='../projects/SOTVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
-
-
 - Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique
 - As of May 2024, the platform has received 121k+ page views from 125+ countries and regions worldwide.
 - SOTVerse is the supporting platform for research accepted by IJCV 2023.

@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨🏻‍💻 About
 
-I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA <a href="http://english.ia.cas.cn/"><img src="../logos/CASIA.png" style="width: 6em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow). Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a>** (VIIG <a href="http://viig.aitestunion.com/"><img src="../logos/VIIG.png" style="width: 3em;"/></a>).
+I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow). Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a>** (VIIG <a href="http://viig.aitestunion.com/"><img src="../images/VIIG.png" style="width: 3em;"/></a>).
 
-Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../logos/BUPTSCS.png" style="width: 8em;"/></a>) at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../logo/BUPT.jpg" style="width: 5em;"/></a>).
+Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>).
 
 I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
@@ -41,7 +41,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning** an
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='../logos/CASIA.jpg' alt="sym" width="80"></div>
+<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2024.09 - 2029.06 (Expected), Ph.D. student<br>
 Pattern Recognition and Intelligent System<br>
@@ -50,9 +50,11 @@ Institute of Automation, Chinese Academy of Sciences, Beijing
 </div>
 
 
+
 <br>
+
 <div class='school-box'>
-<div><img src='../logos/BUPT.png' alt="sym" width="80"></div>
+<div><img src='../images/BUPT.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.06 (Expected), Undergraduate student<br>
 Computer Science and Technology, Ranking <b>1/449 (0.22%)</b><br>
@@ -60,6 +62,7 @@ School of Computer Science<br>
 Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
+
 
 
 

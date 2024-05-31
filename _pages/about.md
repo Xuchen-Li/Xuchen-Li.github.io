@@ -71,8 +71,6 @@ Beijing University of Posts and Telecommunications, Beijing
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
-
-
 **Xuchen Li**, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
@@ -169,13 +167,13 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 # 🤝 Collaborators
 
-- [**Shiyu Hu**](https://huuuuusy.github.io/), Ph.D. at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/) and [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
-- [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences (UCAS)**](https://english.ucas.ac.cn/), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
-- [**Xuzhao Li**](https://xuzhaoli.github.io/), B.E. student and incoming M.S. student at [**Beijing Institute of Technology (BIT)**](https://english.bit.edu.cn/), focusing on multi-agent path planning and trajectory prediction.
-- **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on computer vision and AI4Science.
-- **Yaxuan Kang**, design researcher, research assistant, and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences (CASIA)**](http://english.ia.cas.cn/), focusing on human-computer interaction.
+- [**Shiyu Hu**](https://huuuuusy.github.io/), Ph.D. at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
+- [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
+- [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
+- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
+- [**Xuzhao Li**](https://xuzhaoli.github.io/), B.E. student and incoming M.S. student at [**Beijing Institute of Technology**](https://english.bit.edu.cn/) (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.jpg" style="width: 6em;"/></a>), focusing on multi-agent path planning and trajectory prediction.
+- **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on computer vision and AI4Science.
+- **Yaxuan Kang**, design researcher, research assistant, and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on human-computer interaction.
 
 
 My homepage visitors have been recorded since February 2024. Thanks for your attention.

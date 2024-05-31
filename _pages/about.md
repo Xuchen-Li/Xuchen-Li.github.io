@@ -41,7 +41,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning** an
 # 📖 Educations
 
 <div class='school-box'>
-<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
+<div><a href="http://english.ia.cas.cn/"><img src='../images/CASIA.jpg' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
 2024.09 - 2029.06 (Expected), Ph.D. student<br>
 Pattern Recognition and Intelligent System<br>
@@ -49,7 +49,7 @@ Institute of Automation, Chinese Academy of Sciences, Beijing
 </div>
 </div>
 <div class='school-box'>
-<div><img src='../images/BUPT.png' alt="sym" width="80"></div>
+<div><a href="https://www.bupt.edu.cn/"><img src='../images/BUPT.png' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.06 (Expected), Undergraduate student<br>
 Computer Science and Technology, Ranking <b>1/449 (0.22%)</b><br>
@@ -57,10 +57,11 @@ School of Computer Science<br>
 Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
+
 # 💻 Experiences
-* **2023.05 - Present**: Conducting research on visual language tracking, multi-modal learning, and large language model at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group (VIIG)</a>**, initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
-* **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences (CASIA)](http://english.ia.cas.cn/)**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
-* **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University (THU)](https://www.tsinghua.edu.cn/en/)**,  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
+* **2023.05 - now**: Conducting research on visual language tracking, multi-modal learning, and large language model at **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a>** (VIIG <a href="http://viig.aitestunion.com/"><img src="../images/VIIG.png" style="width: 3em;"/></a>), initiated and organized by **[Dr. Shiyu Hu](https://huuuuusy.github.io/)**.
+* **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
+* **2023.01 - 2023.05**: Research intern on 3D Vision at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU<a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
 # 📝 Publications 
 

@@ -67,10 +67,11 @@ Beijing University of Posts and Telecommunications, Beijing
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><a href="https://xuchen-li.github.io/files/DTLLM.pdf"><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
+
 
 **Xuchen Li**, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
@@ -80,7 +81,7 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><a href="https://xuchen-li.github.io/files/MGIT.pdf"><img src='../publications/MGIT.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
@@ -139,7 +140,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 # 🌟 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='../projects/GOT-10k.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><a href="http://got-10k.aitestunion.com/"><img src='../projects/GOT-10k.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
 - Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
@@ -148,7 +149,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><img src='../projects/VideoCube.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
@@ -157,7 +158,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='../projects/SOTVerse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><a href="http://metaverse.aitestunion.com/"><img src='../projects/SOTVerse.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
 - Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique

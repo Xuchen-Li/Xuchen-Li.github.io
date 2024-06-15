@@ -77,6 +77,7 @@ Beijing University of Posts and Telecommunications, Beijing
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/DTLLM.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
+  [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-Slides.pdf)]
 </div>
 </div>

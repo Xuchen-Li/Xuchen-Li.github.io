@@ -93,7 +93,7 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
   [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]
-  [[**Platform**](http://videocube.aitestunion.com/)]
+  [[**Website**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]

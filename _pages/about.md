@@ -76,9 +76,10 @@ Beijing University of Posts and Telecommunications, Beijing
 
 CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/DTLLM.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
+  [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-Slides.pdf)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
 </div>
 </div>
 
@@ -91,12 +92,11 @@ CVPRW 2024 Oral (Workshop in CCF-A Conference, Oral): **[the 3rd CVPR Workshop o
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/MGIT.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
+  [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]
+  [[**Platform**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
-  [[**Platform**](http://videocube.aitestunion.com/)]
-  [[**Toolkit**](https://github.com/huuuuusy/videocube-toolkit)]
-  [[**Dataset**](http://videocube.aitestunion.com/downloads)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
 </div>
 </div>
 

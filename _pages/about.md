@@ -207,7 +207,7 @@ My homepage visitors have been recorded since February 2024. Thanks for your att
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: May 2024
+        <br>&copy; Xuchen Li | Last updated: June 2024
     </font>
   </center>
 </p>

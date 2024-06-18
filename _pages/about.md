@@ -176,7 +176,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
-- As of June 2024, the platform has received 3889k+ page views, 1.1k+ downloads, 410+ trackers from 130+ countries and regions worldwide.
+- As of June 2024, the platform has received 389k+ page views, 1.1k+ downloads, 410+ trackers from 130+ countries and regions worldwide.
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
 </div>

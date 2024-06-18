@@ -28,6 +28,7 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.06**: 🏆 Our [**paper**](https://xuchen-li.github.io/#DTLLM) received **Best Paper Honorable Mention Award** at **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference)!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information!
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** as **Oral Presentation** (CVPRW, Workshop in CCF-A Conference, Oral)!
@@ -144,6 +145,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 # 🎖 Honors
 
+* **Best Paper Honorable Mention Award  (<font face="楷体">最佳论文提名奖</font>)**, at the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge, 2024
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
 * **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022

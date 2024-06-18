@@ -146,7 +146,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 
 # 🎖 Honors
 
-* **Best Paper Honorable Mention Award  (<font face="楷体">最佳论文提名奖</font>)**, at the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge, 2024
+* **Best Paper Honorable Mention Award**, at the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge, 2024
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
 * **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022

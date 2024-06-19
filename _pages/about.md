@@ -79,7 +79,7 @@ CVPRW 2024 (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Awa
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
   [[**Certificate**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slide.pdf)]
+  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
 </div>
 </div>
@@ -96,7 +96,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/MGIT-slide.pdf)]
+  [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
 </div>
 </div>

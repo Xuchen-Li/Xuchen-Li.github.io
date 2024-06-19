@@ -77,7 +77,8 @@ Beijing University of Posts and Telecommunications, Beijing
 CVPRW 2024 (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/DTLLM.pdf)]
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
-  [[**Certificate**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
+  [[**Website**](http://videocube.aitestunion.com/)]
+  [[**Award**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]

@@ -29,7 +29,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning** an
 
 # 🔥 News
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
-- **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE24Poster-364.pdf) for more information!
+- **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge** (CVPRW, Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award)!
 - **2023.12**: 🏆 Obtain **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)** (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!
@@ -77,9 +77,9 @@ Beijing University of Posts and Telecommunications, Beijing
 CVPRW 2024 (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding and DataCV Challenge](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://xuchen-li.github.io/files/DTLLM.pdf)]
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
-  [[**Website**](http://videocube.aitestunion.com/)]
+  [[**Certificate**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-Slides.pdf)]
+  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slide.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
 </div>
 </div>
@@ -96,7 +96,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/MGIT-Slides.pdf)]
+  [[**Slides**](https://xuchen-li.github.io/files/MGIT-slide.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
 </div>
 </div>

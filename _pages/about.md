@@ -90,6 +90,7 @@ CVPRW 2024 (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Awa
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
+
 [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
@@ -108,6 +109,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**
+
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -117,6 +119,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
+
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -126,6 +129,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**
+
 [Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -135,6 +139,7 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Beyond Accuracy: Tracking more like Human through Visual Search**
+
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>

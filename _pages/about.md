@@ -52,12 +52,13 @@ Institute of Automation, Chinese Academy of Sciences, Beijing
 <div class='school-box'>
 <div><a href="https://www.bupt.edu.cn/"><img src='../images/BUPT.png' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
-2020.09 - 2024.06 (Expected), Undergraduate student<br>
+2020.09 - 2024.06, B.E. degree<br>
 Computer Science and Technology, Ranking <b>1/449 (0.22%)</b><br>
 School of Computer Science<br>
 Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
+
 
 # 💻 Experiences
 * **2024.06 - now**: Research intern on multi-modal large language model at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
@@ -217,4 +218,3 @@ My homepage visitors have been recorded since February 2024. Thanks for your att
     </font>
   </center>
 </p>
-

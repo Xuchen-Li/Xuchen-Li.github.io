@@ -21,13 +21,14 @@ redirect_from:
 
 I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, an incoming Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow). Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a>** (VIIG <a href="http://viig.aitestunion.com/"><img src="../images/VIIG.png" style="width: 3em;"/></a>).
 
-Currently, I am a fourth-year undergraduate student majoring in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/"> School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) at **<a href="https://www.bupt.edu.cn/"> Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>).
+Before that, I received my B.E. degree in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>) in Jun. 2024.
 
 I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
 - **2024.04**: 📝 One [**paper**](https://xuchen-li.github.io/#DTLLM) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Award)!
@@ -212,7 +213,8 @@ My homepage visitors have been recorded since February 2024. Thanks for your att
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: June 2024
+        <br>&copy; Xuchen Li | Last updated: Jun. 2024
     </font>
   </center>
 </p>
+

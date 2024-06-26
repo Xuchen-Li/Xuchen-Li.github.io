@@ -115,7 +115,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><a href="https://xuchen-li.github.io/files/VSLLM.pdf"><img src='../publications/VSLLM.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../publications/VSLLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='VSLLM'></span>
 **VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**

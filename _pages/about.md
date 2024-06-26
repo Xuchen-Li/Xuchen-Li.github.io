@@ -111,8 +111,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='VSLLM'></span>
 **VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**
-
-[Meiqi Wu](https://wmeiqi.github.io/), Yaxuan Kang, ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), Yunfeng kang, [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Meiqi Wu](https://wmeiqi.github.io/), Yaxuan Kang, ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Yunfeng Kang](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=495&Fid=t26:141:26), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
 </div>

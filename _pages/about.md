@@ -72,7 +72,7 @@ Beijing University of Posts and Telecommunications, Beijing
 
 ### Conference
 
-- **NeurIPS**: Conference on Neural Information Processing Systems (CCF-A Conference). ***Acceptancex1, Under Review×4 (first author×1)***
+- **NeurIPS**: Conference on Neural Information Processing Systems (CCF-A Conference). ***Acceptancex1***
 - **CVPRW**: Workshop in IEEE/CVF Conference on Computer Vision and Pattern Recognition (Workshop in CCF-A Conference). ***Acceptance×1 (first author×1 & oralx1 & best paper honorable mention award×1)***
 - **PRCV**: Chinese Conference on Pattern Recognition and Computer Vision (CCF-C Conference). ***Acceptance×1***
 
@@ -128,41 +128,37 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 
 ## ☑️ Ongoing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Ongoing</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**
 
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Ongoing</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Ongoing</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**
 [Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
 
-NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Ongoing</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Beyond Accuracy: Tracking more like Human through Visual Search**
 
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 </div>
 </div>
 

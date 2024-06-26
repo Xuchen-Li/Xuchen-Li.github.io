@@ -68,14 +68,6 @@ Beijing University of Posts and Telecommunications, Beijing
 
 # 📝 Publications 
 
-## Summary
-
-### Conference
-
-- **NeurIPS**: Conference on Neural Information Processing Systems (CCF-A Conference). ***Acceptancex1***
-- **CVPRW**: Workshop in IEEE/CVF Conference on Computer Vision and Pattern Recognition (Workshop in CCF-A Conference). ***Acceptance×1 (first author×1 & oralx1 & best paper honorable mention award×1)***
-- **PRCV**: Chinese Conference on Pattern Recognition and Computer Vision (CCF-C Conference). ***Acceptance×1***
-
 ## ✅ Acceptance
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><a href="https://xuchen-li.github.io/files/DTLLM.pdf"><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></a></div></div>

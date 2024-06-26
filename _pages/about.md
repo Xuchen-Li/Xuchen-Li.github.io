@@ -28,6 +28,7 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.06**: 📝 One [**paper**](https://huuuuusy.github.io/#VSLLM) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference).
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
@@ -106,6 +107,17 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><a href="https://xuchen-li.github.io/files/VSLLM.pdf"><img src='../publications/VSLLM.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='VSLLM'></span>
+**VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**
+
+[Meiqi Wu](https://wmeiqi.github.io/), Yaxuan Kang, ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), Yunfeng kang, [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
+</div>
+</div>
+
 ## ☑️ Ongoing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
@@ -121,7 +133,6 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
-
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -131,7 +142,6 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">NeurIPS 2024</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**
-
 [Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
 
 NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -204,10 +214,11 @@ NeurIPS 2024 (CCF-A Conference, Under Review): **[the 38th Conference on Neural 
 - [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
 - [**Xuzhao Li**](https://xuzhaoli.github.io/), B.E. student and incoming M.S. student at [**Beijing Institute of Technology**](https://english.bit.edu.cn/) (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.jpg" style="width: 6em;"/></a>), focusing on multi-agent path planning and trajectory prediction.
 - **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on computer vision and AI4Science.
-
+- **Yaxuan Kang**, design researcher, research assistant and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on human-computer interaction.
 
 My homepage visitors have been recorded since February 2024. Thanks for your attention.
 <body>
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=51n9jlj53ia&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 </body>
 

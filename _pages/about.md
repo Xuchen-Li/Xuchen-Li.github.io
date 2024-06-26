@@ -141,6 +141,7 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
 
+
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 </div>
@@ -149,6 +150,7 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Ongoing</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**
+
 
 [Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
 

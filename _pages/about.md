@@ -28,7 +28,7 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
-- **2024.06**: 📝 One [**paper**](https://huuuuusy.github.io/#VSLLM) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference).
+- **2024.06**: 📝 One [**paper**](https://xuchen-li.github.io/#VSLLM) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference).
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
@@ -67,6 +67,14 @@ Beijing University of Posts and Telecommunications, Beijing
 * **2023.01 - 2023.05**: Research intern on 3D vision at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
 # 📝 Publications 
+
+## Summary
+
+### Conference
+
+- **NeurIPS**: Conference on Neural Information Processing Systems (CCF-A Conference). ***Acceptancex1, Under Review×4 (first author×1)***
+- **CVPRW**: Workshop in IEEE/CVF Conference on Computer Vision and Pattern Recognition (Workshop in CCF-A Conference). ***Acceptance×1 (first author×1 & oralx1 & best paper honorable mention award×1)***
+- **PRCV**: Chinese Conference on Pattern Recognition and Computer Vision (CCF-C Conference). ***Acceptance×1***
 
 ## ✅ Acceptance
 

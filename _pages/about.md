@@ -126,7 +126,7 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-Submitted to a CCF-A conference.
+Submitted to a CCF-A conference, Under Review
 </div>
 </div>
 
@@ -136,7 +136,7 @@ Submitted to a CCF-A conference.
 
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-Submitted to a CCF-A conference.
+Submitted to a CCF-A conference, Under Review
 </div>
 </div>
 
@@ -146,7 +146,7 @@ Submitted to a CCF-A conference.
 
 [Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
 
-Submitted to a CCF-A conference.
+Submitted to a CCF-A conference, Under Review
 </div>
 </div>
 
@@ -156,7 +156,7 @@ Submitted to a CCF-A conference.
 
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-Submitted to a CCF-A conference.
+Submitted to a CCF-A conference, Under Review
 </div>
 </div>
 

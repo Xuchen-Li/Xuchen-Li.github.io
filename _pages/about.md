@@ -182,7 +182,7 @@ Submitted to a CCF-A conference, Under Review
 
 # 🔗 Services
 
-**Reviewer**: ICPR 2024
+* **Reviewer**: ICPR 2024
 
 # 🌟 Projects
 

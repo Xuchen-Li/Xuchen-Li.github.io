@@ -172,6 +172,10 @@ Submitted to a CCF-A conference, Under Review
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 
+# ☀ Services
+
+**Reviewer**: ICPR 2024
+
 # 🌟 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><a href="http://got-10k.aitestunion.com/"><img src='../projects/GOT-10k.png' alt="sym" width="100%"></a></div></div>

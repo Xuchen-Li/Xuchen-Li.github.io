@@ -162,7 +162,7 @@ Submitted to a CCF-A conference, Under Review
 </div>
 </div>
 
-# 🎖 Honors
+# 🏆 Honors
 
 * **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at the 3rd CVPR Workshop on Vision Datasets Understanding, 2024
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
@@ -172,7 +172,7 @@ Submitted to a CCF-A conference, Under Review
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 
-# ☀ Services
+# 🔗 Services
 
 **Reviewer**: ICPR 2024
 

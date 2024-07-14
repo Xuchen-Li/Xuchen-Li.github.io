@@ -54,7 +54,7 @@ Institute of Automation, Chinese Academy of Sciences, Beijing
 <div><a href="https://www.bupt.edu.cn/"><img src='../images/BUPT.png' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.06, B.E. degree<br>
-Computer Science and Technology, Ranking <b>1/449 (0.22%)</b><br>
+Computer Science and Technology, Overall Ranking <b>1/449 (0.22%)</b><br>
 School of Computer Science<br>
 Beijing University of Posts and Telecommunications, Beijing
 </div>

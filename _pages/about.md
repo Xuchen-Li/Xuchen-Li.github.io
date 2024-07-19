@@ -85,7 +85,8 @@ CVPRW 2024 (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Awa
   [[**Award**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]<br>
+🏷 Visual Language Tracking  🏷 Large Language Model  🏷 Evaluation Technique
 </div>
 </div>
 
@@ -103,7 +104,8 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
+🏷 Visual Language Tracking  🏷 Large Language Model  🏷 Hierarchical Semantic Annotation
 </div>
 </div>
 
@@ -116,7 +118,8 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
   [[**PDF**](https://xuchen-li.github.io/files/VSLLM.pdf)]
-  [[**Code**](https://github.com/wmeiqi/VS-LLM)]
+  [[**Code**](https://github.com/wmeiqi/VS-LLM)]<br>
+🏷 Psychological Assessment  🏷 Large Language Model  🏷 AI4Science
 </div>
 </div>
 
@@ -228,4 +231,3 @@ My homepage visitors have been recorded since February 2024. Thanks for your att
     </font>
   </center>
 </p>
-

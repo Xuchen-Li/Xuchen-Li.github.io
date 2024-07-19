@@ -211,7 +211,7 @@ Submitted to a CCF-A conference, Under Review
 - [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
 - [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
 - [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
-- [**Xuzhao Li**](https://xuzhaoli.github.io/), B.E. and incoming M.S. student at [**Beijing Institute of Technology**](https://english.bit.edu.cn/) (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.jpg" style="width: 6em;"/></a>), focusing on multi-agent path planning and trajectory prediction.
+- [**Xuzhao Li**](https://xuzhaoli.github.io/), M.S. student at [**Beijing Institute of Technology**](https://english.bit.edu.cn/) (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.jpg" style="width: 6em;"/></a>), focusing on multi-agent path planning and trajectory prediction.
 - **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on computer vision and AI4Science.
 - **Yaxuan Kang**, design researcher, research assistant and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on human-computer interaction.
 
@@ -224,7 +224,8 @@ My homepage visitors have been recorded since February 2024. Thanks for your att
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: Jun. 2024
+        <br>&copy; Xuchen Li | Last updated: Jul. 2024
     </font>
   </center>
 </p>
+

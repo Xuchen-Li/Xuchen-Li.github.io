@@ -86,7 +86,7 @@ CVPRW 2024 (Workshop in CCF-A Conference, Oral, Best Paper Honorable Mention Awa
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]<br>
-🏷 Visual Language Tracking  🏷 Large Language Model  🏷 Evaluation Technique
+📌 Visual Language Tracking  📌 Large Language Model  📌 Evaluation Technique
 </div>
 </div>
 
@@ -105,7 +105,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
-🏷 Visual Language Tracking  🏷 Large Language Model  🏷 Hierarchical Semantic Annotation
+📌 Visual Language Tracking  📌 Large Language Model  📌 Hierarchical Annotation
 </div>
 </div>
 
@@ -119,7 +119,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
   [[**PDF**](https://xuchen-li.github.io/files/VSLLM.pdf)]
   [[**Code**](https://github.com/wmeiqi/VS-LLM)]<br>
-🏷 Psychological Assessment  🏷 Large Language Model  🏷 AI4Science
+📌 Psychological Assessment  📌 Large Language Model  📌 AI4Science
 </div>
 </div>
 
@@ -131,7 +131,8 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-Submitted to a CCF-A conference, Under Review
+Submitted to a CCF-A conference, Under Review<br>
+📌 Visual Language Tracking  📌 Large Language Model  📌 Benchmark Construction
 </div>
 </div>
 
@@ -141,7 +142,8 @@ Submitted to a CCF-A conference, Under Review
 
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-Submitted to a CCF-A conference, Under Review
+Submitted to a CCF-A conference, Under Review<br>
+📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts
 </div>
 </div>
 
@@ -151,7 +153,8 @@ Submitted to a CCF-A conference, Under Review
 
 [Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
 
-Submitted to a CCF-A conference, Under Review
+Submitted to a CCF-A conference, Under Review<br>
+📌 Air Writing  📌 Benchmark Construction  📌 Human-machine Interaction
 </div>
 </div>
 
@@ -161,7 +164,8 @@ Submitted to a CCF-A conference, Under Review
 
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
-Submitted to a CCF-A conference, Under Review
+Submitted to a CCF-A conference, Under Review<br>
+📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test
 </div>
 </div>
 

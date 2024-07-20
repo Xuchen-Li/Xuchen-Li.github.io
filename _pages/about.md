@@ -62,7 +62,7 @@ Beijing University of Posts and Telecommunications, Beijing
 
 
 # 💻 Experiences
-* **2024.06 - now**: Research intern on multi-modal large language model at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
+* **2024.06 - now**: Research intern on multi-modal large language model at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow).
 * **2023.01 - 2023.05**: Research intern on 3D vision at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 

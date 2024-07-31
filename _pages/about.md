@@ -212,6 +212,15 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">BioDrone Platform</div><a href="http://biodrone.aitestunion.com/"><img src='../projects/BioDrone.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+**<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**
+- Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV
+- As of June 2024, the platform has received 142k+ page views from 120+ countries and regions worldwide.
+- BioDrone is the supporting platform for research accepted by IJCV 2023.
+</div>
+</div>
+
 # 🤝 Collaborators
 
 - [**Shiyu Hu**](https://huuuuusy.github.io/), Ph.D. at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.

@@ -21,7 +21,7 @@ redirect_from:
 
 I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow). Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a>** (VIIG <a href="http://viig.aitestunion.com/"><img src="../images/VIIG.png" style="width: 3em;"/></a>).
 
-Before that, I received my B.E. degree in Computer Science and Technology at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>) in Jun. 2024.
+Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>) in Jun. 2024.
 
 I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
@@ -29,6 +29,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 
 # 🔥 News
 - **2024.06**: 📝 One [**paper**](https://xuchen-li.github.io/#VSLLM) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference).
+- **2024.06**: 📣 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), studying Large Language Model.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
@@ -45,7 +46,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 <div class='school-box'>
 <div><a href="http://english.ia.cas.cn/"><img src='../images/CASIA.jpg' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
-2024.09 - 2029.06 (Expected), Ph.D. student<br>
+2024.08 - Now, Ph.D. student<br>
 Pattern Recognition and Intelligent System<br>
 Institute of Automation, Chinese Academy of Sciences, Beijing
 </div>
@@ -60,9 +61,8 @@ Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
 
-
 # 💻 Experiences
-* **2024.06 - now**: Research intern on multi-modal large language model at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
+* **2024.06 - now**: Research intern on Large Language Model at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), supervised by **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)** (IAPR Fellow).
 * **2023.01 - 2023.05**: Research intern on 3D vision at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
@@ -136,6 +136,18 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/Sat-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Sat-LLM: EveryOne Can Expert in Satellite**
+
+[Qian Li](https://xiaoqian19940510.github.io/)\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, [Shangguang Wang](http://sguangwang.com/) (*Equal Contributions)
+
+Submitted to a CCF-A conference, Under Review<br>
+📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
@@ -158,11 +170,23 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Robust Vision-Language Tracking through Multimodal Target-Context Cues Aligned with Target States**
+
+
+[Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+Submitted to a CCF-A conference, Under Review<br>
+📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Beyond Accuracy: Tracking more like Human through Visual Search**
 
-[Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang,  [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+[Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 Submitted to a CCF-A conference, Under Review<br>
 📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test
@@ -215,7 +239,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">BioDrone Platform</div><a href="http://biodrone.aitestunion.com/"><img src='../projects/BioDrone.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**
-- Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV
+- Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV Tracking
 - As of June 2024, the platform has received 142k+ page views from 120+ countries and regions worldwide.
 - BioDrone is the supporting platform for research accepted by IJCV 2023.
 </div>
@@ -223,13 +247,14 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🤝 Collaborators
 
-- [**Shiyu Hu**](https://huuuuusy.github.io/), Ph.D. at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
-- [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at the [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
+- [**Shiyu Hu**](https://huuuuusy.github.io/), PostDoc. at [**Nanyang Technological University**](https://www.ntu.edu.sg/) (NTU <a href="https://www.ntu.edu.sg/"><img src="../images/NTU.png" style="width: 6em;"/></a>), Ph.D. at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
+- [**Qian Li**](https://xiaoqian19940510.github.io/), PostDoc. at **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>), Ph.D. at [**Beihang University**](https://ev.buaa.edu.cn/) (BUAA <a href="https://ev.buaa.edu.cn/"><img src="../images/BUAA.png" style="width: 7em;"/></a>), focusing on natural language processing, knowledge graph and large language model.
+- [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
+- [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
+- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
 - [**Xuzhao Li**](https://xuzhaoli.github.io/), M.S. student at [**Beijing Institute of Technology**](https://english.bit.edu.cn/) (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.jpg" style="width: 6em;"/></a>), focusing on multi-agent path planning and trajectory prediction.
-- **Jing Zhang**, research assistant at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on computer vision and AI4Science.
-- **Yaxuan Kang**, design researcher, research assistant and interaction designer at the [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on human-computer interaction.
+- **Jing Zhang**, research assistant at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on computer vision and AI4Science.
+- **Yaxuan Kang**, design researcher, research assistant and interaction designer at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on human-computer interaction.
 
 My homepage visitors have been recorded since February 2024. Thanks for your attention.
 <body>
@@ -240,7 +265,7 @@ My homepage visitors have been recorded since February 2024. Thanks for your att
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: Jul. 2024
+        <br>&copy; Xuchen Li | Last updated: Aug. 2024
     </font>
   </center>
 </p>

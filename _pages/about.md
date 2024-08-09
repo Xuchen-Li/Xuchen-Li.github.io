@@ -173,8 +173,6 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Robust Vision-Language Tracking through Multimodal Target-Context Cues Aligned with Target States**
-
-
 [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 Submitted to a CCF-A conference, Under Review<br>
@@ -247,7 +245,7 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🤝 Collaborators
 
-- [**Shiyu Hu**](https://huuuuusy.github.io/), PostDoc. at [**Nanyang Technological University**](https://www.ntu.edu.sg/) (NTU <a href="https://www.ntu.edu.sg/"><img src="../images/NTU.png" style="width: 6em;"/></a>), Ph.D. at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
+- [**Shiyu Hu**](https://huuuuusy.github.io/), PostDoc. at [**Nanyang Technological University**](https://www.ntu.edu.sg/) (NTU <a href="https://www.ntu.edu.sg/"><img src="../images/NTU.png" style="width: 4em;"/></a>), Ph.D. at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
 - [**Qian Li**](https://xiaoqian19940510.github.io/), PostDoc. at **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>), Ph.D. at [**Beihang University**](https://ev.buaa.edu.cn/) (BUAA <a href="https://ev.buaa.edu.cn/"><img src="../images/BUAA.png" style="width: 7em;"/></a>), focusing on natural language processing, knowledge graph and large language model.
 - [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
 - [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.

@@ -216,15 +216,15 @@ Submitted to a CCF-A conference, Under Review<br>
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
 </div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
-- Visual Object Tracking / Visual Language Tracking / Long Video Understanding and Reasoning / Intelligent Evaluation Technology
+- Visual Object Tracking / Visual Language Tracking / Long Video Understanding
 - As of June 2024, the platform has received 389k+ page views, 1.1k+ downloads, 410+ trackers from 130+ countries and regions worldwide.
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><a href="http://metaverse.aitestunion.com/"><img src='../projects/SOTVerse.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">

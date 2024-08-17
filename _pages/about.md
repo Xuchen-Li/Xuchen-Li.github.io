@@ -192,17 +192,6 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-C</div><img src='../publications/PsyRAG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**PsyRAG: Psychological Retrieval Augmented Generation for Sandplay Image Caption based on LLM**
-
-***Xuchen Li***, Yongjian Ren, [Xiaokun Feng](https://xiaokunfeng.github.io/), Hong Jiang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-Submitted to a CCF-C conference, Under Review<br>
-📌 LLM  📌 Retrieval Augmented Generation  📌 AI4Science
-</div>
-</div>
-
 # 🏆 Honors
 
 * **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at the 3rd CVPR Workshop on Vision Datasets Understanding, 2024

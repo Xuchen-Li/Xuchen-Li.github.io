@@ -242,7 +242,7 @@ Submitted to a CCF-C conference, Under Review<br>
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
 - Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique
 - As of June 2024, the platform has received 120k+ page views from 100+ countries and regions worldwide.
-- SOTVerse is the supporting platform for research accepted by IJCV 2023.
+- SOTVerse is the supporting platform for research accepted by IJCV 2024.
 </div>
 </div>
 
@@ -251,9 +251,10 @@ Submitted to a CCF-C conference, Under Review<br>
 **<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**
 - Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV Tracking
 - As of June 2024, the platform has received 142k+ page views from 120+ countries and regions worldwide.
-- BioDrone is the supporting platform for research accepted by IJCV 2023.
+- BioDrone is the supporting platform for research accepted by IJCV 2024.
 </div>
 </div>
+
 
 # 🤝 Collaborators
 

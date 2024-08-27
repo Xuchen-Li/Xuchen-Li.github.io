@@ -53,8 +53,6 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
     <li><b>2023.09</b>: 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Poster)!
     <li><b>2022.12</b>: 🏆 Obtain <b>Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)</b> (only 20 students win this scholarship of BUPT)!
     <li><b>2022.12</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!
-  </ul>
-  </details>
 
 # 📖 Educations
 

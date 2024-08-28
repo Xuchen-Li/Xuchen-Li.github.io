@@ -185,8 +185,7 @@ Submitted to a CCF-A conference, Under Review<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Robust Vision-Language Tracking through Multimodal Target-Context Cues Aligned with Target States**
-
+**ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**
 [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 Submitted to a CCF-A conference, Under Review<br>
@@ -217,7 +216,7 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🔗 Services
 
-* **Reviewer**: ICPR 2024
+* **Reviewer**: ICPR 2024, NeurIPS Workshop 2024
 
 # 🌟 Projects
 

@@ -229,6 +229,7 @@ Submitted to a CCF-A conference, Under Review<br>
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
@@ -237,7 +238,6 @@ Submitted to a CCF-A conference, Under Review<br>
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><a href="http://metaverse.aitestunion.com/"><img src='../projects/SOTVerse.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
@@ -257,7 +257,6 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-
 # 🤝 Collaborators
 
 - [**Shiyu Hu**](https://huuuuusy.github.io/), PostDoc. at [**Nanyang Technological University**](https://www.ntu.edu.sg/) (NTU <a href="https://www.ntu.edu.sg/"><img src="../images/NTU.png" style="width: 4em;"/></a>), Ph.D. at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
@@ -269,9 +268,7 @@ Submitted to a CCF-A conference, Under Review<br>
 - **Jing Zhang**, research assistant at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on computer vision and AI4Science.
 - **Yaxuan Kang**, design researcher, research assistant and interaction designer at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 6em;"/></a>), focusing on human-computer interaction.
 
-My homepage visitors have been recorded since February 2024. Thanks for your attention.
 <body>
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=51n9jlj53ia&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 </body>
 

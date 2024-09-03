@@ -83,10 +83,11 @@ Beijing University of Posts and Telecommunications, Beijing
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><a href="https://xuchen-li.github.io/files/DTLLM.pdf"><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024 Best Paper Honorable Mention</div><a href="https://xuchen-li.github.io/files/DTLLM.pdf"><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
+
 
 ***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 

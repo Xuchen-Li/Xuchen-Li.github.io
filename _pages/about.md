@@ -226,7 +226,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
 - Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
-- As of June 2024, the platform has received 3.66M+ page views, 7.2k+ downloads, 20.5k+ trackers from 160+ countries and regions worldwide.
+- As of Sept. 2024, the platform has received 3.92M+ page views, 7.5k+ downloads, 21.5k+ trackers from 290+ countries and regions worldwide.
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
 </div>
 </div>
@@ -235,7 +235,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding
-- As of June 2024, the platform has received 389k+ page views, 1.1k+ downloads, 410+ trackers from 130+ countries and regions worldwide.
+- As of Sept. 2024, the platform has received 440k+ page views, 1.2k+ downloads, 420+ trackers from 220+ countries and regions worldwide.
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
 </div>
 </div>
@@ -244,7 +244,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
 - Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique
-- As of June 2024, the platform has received 120k+ page views from 100+ countries and regions worldwide.
+- As of Sept. 2024, the platform has received 126k+ page views from 150+ countries and regions worldwide.
 - SOTVerse is the supporting platform for research accepted by IJCV 2024.
 </div>
 </div>
@@ -253,10 +253,11 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 **<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**
 - Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV Tracking
-- As of June 2024, the platform has received 142k+ page views from 120+ countries and regions worldwide.
+- As of Sept. 2024, the platform has received 170k+ page views from 200+ countries and regions worldwide.
 - BioDrone is the supporting platform for research accepted by IJCV 2024.
 </div>
 </div>
+
 
 # 🤝 Collaborators
 
@@ -276,7 +277,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: Aug. 2024
+        <br>&copy; Xuchen Li | Last updated: Sept. 2024
     </font>
   </center>
 </p>

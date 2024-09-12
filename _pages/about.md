@@ -218,7 +218,7 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🔗 Services
 
-* **Reviewer**: ICLR 2025, ICPR 2024, NeurIPS Workshop 2024, EMNLP Workshop 2024
+* **Reviewer**: ICLR 2025, ICPR 2024
 
 # 🌟 Projects
 

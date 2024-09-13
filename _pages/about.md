@@ -150,6 +150,18 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A Workshop</div><img src='../publications/VLT-MI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**
+
+
+***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+Submitted to a CCF-A conference workshop, Under Review<br>
+📌 Visual Language Tracking  📌 Multi-modal Interaction  📌 Evaluation Technology
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/Sat-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Sat-LLM: EveryOne Can Expert in Satellite**
@@ -203,6 +215,17 @@ Submitted to a CCF-A conference, Under Review<br>
 
 Submitted to a CCF-A conference, Under Review<br>
 📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-B</div><img src='../publications/ECTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**
+
+[Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+Submitted to a CCF-B conference, Under Review<br>
+📌 Visual Language Tracking  📌 Multi-modal Learning  📌 Grounding Model
 </div>
 </div>
 

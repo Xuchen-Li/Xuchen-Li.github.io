@@ -123,20 +123,6 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><a href="https://xuchen-li.github.io/files/VSLLM.pdf"><img src='../publications/VSLLM.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='anchor' id='VSLLM'></span>
-**VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**
-
-[Meiqi Wu](https://wmeiqi.github.io/), Yaxuan Kang, ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Yunfeng Kang](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=495&Fid=t26:141:26), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
-  [[**PDF**](https://xuchen-li.github.io/files/VSLLM.pdf)]
-  [[**Code**](https://github.com/wmeiqi/VS-LLM)]<br>
-📌 Psychological Assessment  📌 LLM  📌 AI4Science
-</div>
-</div>
-
 ## ☑️ Ongoing
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>

@@ -227,6 +227,10 @@ Submitted to a CCF-B conference, Under Review<br>
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
 
+# 🎤 Talks
+
+- **Oral presentation** in Seattle WA, USA at CVPR 2024 conference workshop on vision datasets understanding ([**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf))
+
 # 🔗 Services
 
 * **Reviewer**: ICLR 2025, ICPR 2024

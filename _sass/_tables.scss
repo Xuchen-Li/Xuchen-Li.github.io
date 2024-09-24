@@ -10,7 +10,7 @@ table {
   border-collapse: collapse;
   // border: 1px solid $light-gray;
 
-  & + table {
+  &+table {
     margin-top: 1em;
   }
 }
@@ -26,16 +26,20 @@ th {
   text-align: left;
   // border-right: 1px solid $light-gray;
 }
+
 tr {
   padding-bottom: .5em;
   padding-top: .5em;
 }
+
 td {
   padding: .5em;
   border-bottom: 1px solid $light-gray;
   // border-right: 1px solid $light-gray;
 }
 
-tr, td, th {
+tr,
+td,
+th {
   vertical-align: middle;
 }

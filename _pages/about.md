@@ -28,6 +28,7 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, **Data-centric AI**, **Large Language Model** and **AI4Science**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.09**: 📝 Two paper (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) has been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Poster)!
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
 - **2024.06**: 📝 One paper ([**VS-LLM**](https://xuchen-li.github.io/#VSLLM)) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference, Poster).
 - **2024.06**: 👩‍💻 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), studying Large Language Model.
@@ -75,8 +76,6 @@ Beijing University of Posts and Telecommunications, Beijing
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
-
-
 ***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
@@ -92,11 +91,34 @@ CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='MemVLT'></span>
+**MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
+
+[Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
+📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='CPDTrack'></span>
+**Beyond Accuracy: Tracking more like Human through Visual Search**
+
+[Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+
+NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
+📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><a href="https://xuchen-li.github.io/files/MGIT.pdf"><img src='../publications/MGIT.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
-
 [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
@@ -142,7 +164,6 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**
 
-
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 Submitted to a CCF-A conference workshop, Under Review<br>
@@ -158,18 +179,6 @@ Submitted to a CCF-A conference workshop, Under Review<br>
 
 Submitted to a CCF-A conference, Under Review<br>
 📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
-
-[Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-Submitted to a CCF-A conference, Under Review<br>
-📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts
 </div>
 </div>
 
@@ -192,17 +201,6 @@ Submitted to a CCF-A conference, Under Review<br>
 
 Submitted to a CCF-A conference, Under Review<br>
 📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Beyond Accuracy: Tracking more like Human through Visual Search**
-
-[Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-Submitted to a CCF-A conference, Under Review<br>
-📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test
 </div>
 </div>
 

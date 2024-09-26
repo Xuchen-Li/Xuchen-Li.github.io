@@ -30,7 +30,6 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 # 🔥 News
 - **2024.09**: 📝 Two paper (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) has been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Poster)!
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
-- **2024.06**: 📝 One paper ([**VS-LLM**](https://xuchen-li.github.io/#VSLLM)) has been accepted by **the 7th Chinese Conference on Pattern Recognition and Computer Vision** (PRCV, CCF-C Conference, Poster).
 - **2024.06**: 👩‍💻 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), studying Large Language Model.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
@@ -132,20 +131,6 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
 📌 Visual Language Tracking  📌 Video Understanding  📌 Hierarchical Annotation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><a href="https://xuchen-li.github.io/files/VSLLM.pdf"><img src='../publications/VSLLM.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='anchor' id='VSLLM'></span>
-**VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**
-
-[Meiqi Wu](https://wmeiqi.github.io/), Yaxuan Kang, ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Yunfeng Kang](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=495&Fid=t26:141:26), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-PRCV 2024 (CCF-C Conference, Poster): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
-  [[**PDF**](https://xuchen-li.github.io/files/VSLLM.pdf)]
-  [[**Code**](https://github.com/wmeiqi/VS-LLM)]<br>
-📌 Psychological Assessment  📌 LLM  📌 AI4Science
 </div>
 </div>
 

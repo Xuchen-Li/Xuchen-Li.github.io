@@ -76,8 +76,8 @@ Beijing University of Posts and Telecommunications, Beijing
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
-***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
+***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
 CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
@@ -272,18 +272,6 @@ Submitted to a CCF-B conference, Under Review<br>
 - BioDrone is the supporting platform for research accepted by IJCV 2024.
 </div>
 </div>
-
-
-# 🤝 Collaborators
-
-- [**Shiyu Hu**](https://huuuuusy.github.io/), PostDoc. at [**Nanyang Technological University**](https://www.ntu.edu.sg/) (NTU <a href="https://www.ntu.edu.sg/"><img src="../images/NTU.png" style="width: 4em;"/></a>), Ph.D. at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>) and [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on visual object tracking, visual language tracking, benchmark construction, intelligent evaluation technique, and AI4Science.
-- [**Qian Li**](https://xiaoqian19940510.github.io/), PostDoc. at **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>), Ph.D. at [**Beihang University**](https://ev.buaa.edu.cn/) (BUAA <a href="https://ev.buaa.edu.cn/"><img src="../images/BUAA.png" style="width: 7em;"/></a>), focusing on natural language processing, knowledge graph and multi-modal machine learning.
-- [**Xiaokun Feng**](https://xiaokunfeng.github.io/), Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [**Dailing Zhang**](https://zhangdailing8.github.io/), Ph.D. student at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), focusing on visual object tracking, visual language tracking, and AI4Science.
-- [**Xuzhao Li**](https://xuzhaoli.github.io/), M.S. student at [**Beijing Institute of Technology**](https://english.bit.edu.cn/) (BIT <a href="https://english.bit.edu.cn/"><img src="../images/BIT.jpg" style="width: 6em;"/></a>), focusing on multi-agent path planning and trajectory prediction.
-- [**Meiqi Wu**](https://wmeiqi.github.io/), Ph.D. student at [**University of Chinese Academy of Sciences**](https://english.ucas.ac.cn/) (UCAS <a href="https://english.ucas.ac.cn/"><img src="../images/UCAS.jpg" style="width: 6em;"/></a>), focusing on computer vision, intelligent evaluation technique, and human-computer interaction.
-- **Jing Zhang**, research assistant at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), focusing on computer vision and AI4Science.
-- **Yaxuan Kang**, design researcher, research assistant and interaction designer at [**Institute of Automation, Chinese Academy of Sciences**](http://english.ia.cas.cn/) (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), focusing on human-computer interaction.
 
 <body>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=51n9jlj53ia&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>

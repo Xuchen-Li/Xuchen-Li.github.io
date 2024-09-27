@@ -191,17 +191,6 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-B</div><img src='../publications/ECTrack.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**
-
-[Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
-Submitted to a CCF-B conference, Under Review<br>
-📌 Visual Language Tracking  📌 Multi-modal Learning  📌 Grounding Model
-</div>
-</div>
-
 # 🏆 Honors
 
 * **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at CVPR Workshop on Vision Datasets Understanding, 2024

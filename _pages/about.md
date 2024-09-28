@@ -30,7 +30,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 # 🔥 News
 - **2024.09**: 📝 Two paper (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) has been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Poster)!
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
-- **2024.06**: 👩‍💻 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), studying Large Language Model.
+- **2024.06**: 👩‍💻 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), studying Multi-modal Large Language Model Agent.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
@@ -62,9 +62,9 @@ Beijing University of Posts and Telecommunications, Beijing
 </div>
 
 # 💻 Experiences
-* **2024.06 - 2024.09**: Research intern on Large Language Model at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
+* **2024.06 - 2024.09**: Research intern on Multi-modal Large Language Model Agent at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), supervised by **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)** (IAPR Fellow), co-supervised by **<a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a>**.
-* **2023.01 - 2023.05**: Research intern on 3D vision at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
+* **2023.01 - 2023.05**: Research intern on 3D Reconstruction at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
 # 📝 Publications
 

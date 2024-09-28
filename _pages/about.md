@@ -70,7 +70,7 @@ School of Computer Science<br>
 
 ## ✅ Acceptance
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><a href="https://xuchen-li.github.io/files/DTLLM.pdf"><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='DTLLM'></span>
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
@@ -114,7 +114,7 @@ NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Inform
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><a href="https://xuchen-li.github.io/files/MGIT.pdf"><img src='../publications/MGIT.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class='anchor' id='MGIT'></span>
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**

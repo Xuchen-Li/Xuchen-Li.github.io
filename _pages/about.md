@@ -21,7 +21,7 @@ redirect_from:
 
 I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (IAPR Fellow), co-supervised by **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**. Additionally, I am a member of **<a href="http://viig.aitestunion.com/">Visual Intelligence Interest Group</a>** (VIIG <a href="http://viig.aitestunion.com/"><img src="../images/VIIG.png" style="width: 3em;"/></a>).
 
-Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.jpg" style="width: 5em;"/></a>) in Jun. 2024.
+Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.png" style="width: 5em;"/></a>) in Jun. 2024.
 
 I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
@@ -48,23 +48,24 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 <div class='school-box-text' markdown="1">
 2024.08 - Now, Ph.D. student<br>
 Pattern Recognition and Intelligent System<br>
-Institute of Automation, Chinese Academy of Sciences, Beijing
+<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b>, Beijing
 </div>
 </div>
 <div class='school-box'>
-<div><a href="https://www.bupt.edu.cn/"><img src='../images/BUPT.png' alt="sym" width="80"></a></div>
+<div><a href="https://www.bupt.edu.cn/"><img src='../images/BUPT.jpg' alt="sym" width="80"></a></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.06, B.E. degree<br>
 Computer Science and Technology, Overall Ranking <b>1/449 (0.22%)</b><br>
 School of Computer Science<br>
-Beijing University of Posts and Telecommunications, Beijing
+<b>Beijing University of Posts and Telecommunications (BUPT)</b>, Beijing
 </div>
 </div>
+
 
 # 💻 Experiences
 * **2024.06 - 2024.10**: Research intern on Multi-modal Large Language Model Agent at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
 * **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), supervised by **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)** (IAPR Fellow), co-supervised by **<a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a>**.
-* **2023.01 - 2023.05**: Research intern on 3D Reconstruction at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.jpg" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
+* **2023.01 - 2023.05**: Research intern on 3D Reconstruction at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.png" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
 # 📝 Publications
 

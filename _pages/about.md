@@ -25,7 +25,7 @@ Before that, I received my B.E. degree in Computer Science and Technology with o
 
 I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
-My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, **Data-centric AI**, **Large Language Model** and **AI4Science**. If you are interested in my work or would like to collaborate, please feel free to contact me.
+My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, **Data-centric AI** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
 - **2024.09**: 📝 Two paper (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) has been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Poster)!

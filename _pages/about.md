@@ -157,6 +157,17 @@ Submitted to a CCF-A conference workshop, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/FIOVA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**
+
+[Shiyu Hu](https://huuuuusy.github.io/)\*, ***Xuchen Li***\*, [Xuzhao Li](https://xuzhaoli.github.io/), Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)
+
+Submitted to a CCF-A conference, Under Review<br>
+📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/Sat-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Sat-LLM: EveryOne Can Expert in Satellite**
@@ -165,17 +176,6 @@ Submitted to a CCF-A conference workshop, Under Review<br>
 
 Submitted to a CCF-A conference, Under Review<br>
 📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**
-
-[Meiqi Wu](https://wmeiqi.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Yuanqiang Cai](https://scholar.google.com/citations?hl=en-US&user=VHegyzQAAAAJ), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en), [Weiqiang Wang](https://people.ucas.edu.cn/~wqwang?language=en)
-
-Submitted to a CCF-A conference, Under Review<br>
-📌 Air Writing  📌 Benchmark Construction  📌 Human-machine Interaction
 </div>
 </div>
 

@@ -85,7 +85,7 @@ CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)
   [[**Award**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]<br>
 📌 Visual Language Tracking  📌 LLM  📌 Evaluation Technique<br>
 
 </div>
@@ -131,7 +131,7 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
 📌 Visual Language Tracking  📌 Video Understanding  📌 Hierarchical Annotation<br>
 
 </div>

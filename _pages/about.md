@@ -34,7 +34,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
-- **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://xuchen-li.github.io/#DTLLM)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)!
+- **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://xuchen-li.github.io/#DTLLM-VLT)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)!
 - **2023.12**: 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!
 - **2023.11**: 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!
@@ -72,12 +72,11 @@ School of Computer Science<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class='anchor' id='DTLLM'></span>
-**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**
 
+<span class='anchor' id='DTLLM-VLT'></span>
 
-***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
+**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
+***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
   [[**PDF**](https://xuchen-li.github.io/files/DTLLM.pdf)]
@@ -86,45 +85,45 @@ CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)
   [[**Award**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]<br>
-📌 Visual Language Tracking  📌 LLM  📌 Evaluation Technique
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]
+📌 Visual Language Tracking  📌 LLM  📌 Evaluation Technique<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 <span class='anchor' id='MemVLT'></span>
-**MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**
 
-
-[Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
+**MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**<br>
+[Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
-📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts
+📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 <span class='anchor' id='CPDTrack'></span>
-**Beyond Accuracy: Tracking more like Human through Visual Search**
 
-
-[Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
+**Beyond Accuracy: Tracking more like Human through Visual Search**<br>
+[Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
-📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test
+📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 <span class='anchor' id='MGIT'></span>
-**A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**
 
-
-[Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
-
+**A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
+[Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html)]
   [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
@@ -132,8 +131,9 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
-📌 Visual Language Tracking  📌 Video Understanding  📌 Hierarchical Annotation
+  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]
+📌 Visual Language Tracking  📌 Video Understanding  📌 Hierarchical Annotation<br>
+
 </div>
 </div>
 
@@ -141,53 +141,66 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**
-***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
+<span class='anchor' id='DTVLT'></span>
+
+**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**<br>
+***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 Submitted to a CAAI-A conference, Under Review<br>
-📌 Visual Language Tracking  📌 LLM  📌 Benchmark Construction
+📌 Visual Language Tracking  📌 LLM  📌 Benchmark Construction<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A Workshop</div><img src='../publications/VLT-MI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**
-***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
 
+<span class='anchor' id='VLM-MI'></span>
+
+**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**<br>
+***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 Submitted to a CCF-A conference workshop, Under Review<br>
-📌 Visual Language Tracking  📌 Multi-modal Interaction  📌 Evaluation Technology
+📌 Visual Language Tracking  📌 Multi-modal Interaction  📌 Evaluation Technology<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/FIOVA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**
-[Shiyu Hu](https://huuuuusy.github.io/)\*, ***Xuchen Li***\*, [Xuzhao Li](https://xuzhaoli.github.io/), Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)
 
+<span class='anchor' id='FIOVA'></span>
+
+**Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**<br>
+[Shiyu Hu](https://huuuuusy.github.io/)\*, ***Xuchen Li***\*, [Xuzhao Li](https://xuzhaoli.github.io/), Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)<br>
 Submitted to a CAAI-A conference, Under Review<br>
-📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison
+📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/Sat-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Sat-LLM: EveryOne Can Expert in Satellite**
 
-[Qian Li](https://xiaoqian19940510.github.io/)\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, [Shangguang Wang](http://sguangwang.com/) (*Equal Contributions)
+<span class='anchor' id='Sat-LLM'></span>
 
+**Sat-LLM: EveryOne Can Expert in Satellite**<br>
+[Qian Li](https://xiaoqian19940510.github.io/)\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, [Shangguang Wang](http://sguangwang.com/) (*Equal Contributions)<br>
 Submitted to a CCF-A conference, Under Review<br>
-📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation
+📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**
 
-[Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)
+<span class='anchor' id='ATCTrack'></span>
 
+**ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**<br>
+[Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 Submitted to a CCF-A conference, Under Review<br>
-📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness
+📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness<br>
+
 </div>
 </div>
 
@@ -212,37 +225,45 @@ Submitted to a CCF-A conference, Under Review<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><a href="http://got-10k.aitestunion.com/"><img src='../projects/GOT-10k.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-**<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**
-- Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark
-- As of Sept. 2024, the platform has received 3.92M+ page views, 7.5k+ downloads, 21.5k+ trackers from 290+ countries and regions worldwide.
-- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.
+
+**<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**<br>
+- Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark<br>
+- As of Sept. 2024, the platform has received 3.92M+ page views, 7.5k+ downloads, 21.5k+ trackers from 290+ countries and regions worldwide.<br>
+- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
+
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
-- Visual Object Tracking / Visual Language Tracking / Long Video Understanding
-- As of Sept. 2024, the platform has received 440k+ page views, 1.2k+ downloads, 420+ trackers from 220+ countries and regions worldwide.
-- VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.
+- Visual Object Tracking / Visual Language Tracking / Long Video Understanding<br>
+- As of Sept. 2024, the platform has received 440k+ page views, 1.2k+ downloads, 420+ trackers from 220+ countries and regions worldwide.<br>
+- VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><a href="http://metaverse.aitestunion.com/"><img src='../projects/SOTVerse.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-**<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**
-- Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique
-- As of Sept. 2024, the platform has received 126k+ page views from 150+ countries and regions worldwide.
-- SOTVerse is the supporting platform for research accepted by IJCV 2024.
+
+**<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**<br>
+- Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique<br>
+- As of Sept. 2024, the platform has received 126k+ page views from 150+ countries and regions worldwide.<br>
+- SOTVerse is the supporting platform for research accepted by IJCV 2024.<br>
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">BioDrone Platform</div><a href="http://biodrone.aitestunion.com/"><img src='../projects/BioDrone.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
-**<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**
-- Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV Tracking
-- As of Sept. 2024, the platform has received 170k+ page views from 200+ countries and regions worldwide.
-- BioDrone is the supporting platform for research accepted by IJCV 2024.
+
+**<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**<br>
+- Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV Tracking<br>
+- As of Sept. 2024, the platform has received 170k+ page views from 200+ countries and regions worldwide.<br>
+- BioDrone is the supporting platform for research accepted by IJCV 2024.<br>
+
 </div>
 </div>
 

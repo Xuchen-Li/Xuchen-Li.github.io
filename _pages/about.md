@@ -234,10 +234,11 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT / DTVLT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<a href="http://videocube.aitestunion.com/">VideoCube / MGIT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
+**<a href="http://videocube.aitestunion.com/">VideoCube / MGIT / DTVLT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
+
 - Visual Object Tracking / Visual Language Tracking / Long Video Understanding<br>
 - As of Sept. 2024, the platform has received 440k+ page views, 1.2k+ downloads, 420+ trackers from 220+ countries and regions worldwide.<br>
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.<br>

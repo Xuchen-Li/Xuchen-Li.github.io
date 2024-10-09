@@ -79,13 +79,13 @@ School of Computer Science<br>
 ***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
-  [[**PDF**](https://xuchen-li.github.io/files/DTLLM.pdf)]
+  [[**PDF**](https://xuchen-li.github.io/files/DTLLM-VLT.pdf)]
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
   [[**Website**](http://videocube.aitestunion.com/)]
-  [[**Award**](https://xuchen-li.github.io/files/DTLLM-award.pdf)]
-  [[**Poster**](https://xuchen-li.github.io/files/DTLLM-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM.bib)]<br>
+  [[**Award**](https://xuchen-li.github.io/files/DTLLM-VLT-award.pdf)]
+  [[**Poster**](https://xuchen-li.github.io/files/DTLLM-VLT-poster.pdf)]
+  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-VLT-slides.pdf)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM-VLT.bib)]<br>
 📌 Visual Language Tracking  📌 LLM  📌 Evaluation Technique<br>
 
 </div>
@@ -147,6 +147,10 @@ NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Inform
 **DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
 Submitted to a CAAI-A conference, Under Review<br>
+  [[**Preprint**](https://arxiv.org/abs/2410.02492)]
+  [[**PDF**](https://xuchen-li.github.io/files/DTVLT.pdf)]
+  [[**Website**](http://videocube.aitestunion.com/)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/DTVLT.bib)]<br>
 📌 Visual Language Tracking  📌 LLM  📌 Benchmark Construction<br>
 
 </div>
@@ -159,6 +163,10 @@ Submitted to a CAAI-A conference, Under Review<br>
 
 **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**<br>
 ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+  [[**Preprint**](https://arxiv.org/abs/2409.08887)]
+  [[**PDF**](https://xuchen-li.github.io/files/VLT-MI.pdf)]
+  [[**Website**](http://videocube.aitestunion.com/)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/VLT-MI.bib)]<br>
 Submitted to a CCF-A conference workshop, Under Review<br>
 📌 Visual Language Tracking  📌 Multi-modal Interaction  📌 Evaluation Technology<br>
 

@@ -28,17 +28,17 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, **Data-centric AI** and **Large Language Model**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
-- **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Two Posters)!
+- **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
 - **2024.06**: 👨‍💻 Work as **research intern** at **<a href="https://www.antgroup.com/en">Ant Group</a>** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), studying Multi-modal Large Language Model Agent.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
 - **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
-- **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://xuchen-li.github.io/#DTLLM-VLT)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)!
+- **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://xuchen-li.github.io/#DTLLM-VLT)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!
 - **2023.12**: 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!
 - **2023.11**: 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!
-- **2023.09**: 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference, Poster)!
+- **2023.09**: 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 - **2022.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!
 
 # 📖 Educations
@@ -77,7 +77,8 @@ School of Computer Science<br>
 
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, [Xiaokun Feng](https://xiaokunfeng.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
-CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
+CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
+**<span style="color: red;">Oral Presentation, Best Paper Honorable Mention Award</span>**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
   [[**PDF**](https://xuchen-li.github.io/files/DTLLM-VLT.pdf)]
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
@@ -98,7 +99,7 @@ CVPRW 2024 (CCF-A Conference Workshop, Oral, Best Paper Honorable Mention Award)
 
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**<br>
 [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Xiaotang Chen](http://www.crise.ia.ac.cn/teachers_view.aspx?TypeId=141&Id=467&Fid=t26:141:26), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
-NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
+NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts<br>
 
 </div>
@@ -111,7 +112,7 @@ NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Inform
 
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
 [Dailing Zhang](https://zhangdailing8.github.io/), [Shiyu Hu](https://huuuuusy.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Meiqi Wu](https://wmeiqi.github.io/), Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
-NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
+NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test<br>
 
 </div>
@@ -124,7 +125,7 @@ NeurIPS 2024 (CCF-A Conference, Poster): **[the 38th Conference on Neural Inform
 
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
 [Shiyu Hu](https://huuuuusy.github.io/), [Dailing Zhang](https://zhangdailing8.github.io/), [Meiqi Wu](https://wmeiqi.github.io/), [Xiaokun Feng](https://xiaokunfeng.github.io/), ***Xuchen Li***, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
-NeurIPS 2023 (CCF-A Conference, Poster): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
+NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html)]
   [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
   [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]

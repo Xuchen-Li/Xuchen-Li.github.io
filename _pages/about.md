@@ -228,7 +228,12 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🔗 Services
 
-* **Reviewer**: ICLR 2025, ICPR 2024
+* **Conference Reviewer**:
+
+  International Conference on Learning Representations (ICLR)
+  
+  International Conference on Pattern Recognition (ICPR)
+
 
 # 🌟 Projects
 

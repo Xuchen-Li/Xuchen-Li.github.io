@@ -193,7 +193,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 
 <span class='anchor' id='Sat-LLM'></span>
 
-**Sat-LLM: EveryOne Can Expert in Satellite**<br>
+**Sat-LLM: Multi-View Retrieval-Augmented Satellite Commonsense Multi-Modal Iterative Alignment LLM**<br>
 [Qian Li](https://xiaoqian19940510.github.io/)\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, [Shangguang Wang](http://sguangwang.com/) (*Equal Contributions)<br>
 Submitted to a CCF-A conference, Under Review<br>
 📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation<br>

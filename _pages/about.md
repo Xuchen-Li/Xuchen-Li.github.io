@@ -265,7 +265,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**<br>
-- Visual Object Tracking / Dynamic Open Environment Construction / Visual Evaluation Technique<br>
+- Visual Object Tracking / Environment Construction / Evaluation Technique<br>
 - As of Sept. 2024, the platform has received 126k+ page views from 150+ countries and regions worldwide.<br>
 - SOTVerse is the supporting platform for research accepted by IJCV 2024.<br>
 

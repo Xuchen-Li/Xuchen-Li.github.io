@@ -157,8 +157,9 @@ Submitted to a CAAI-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A Workshop</div><img src='../publications/VLT-MI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Preprint</div><img src='../publications/VLT-MI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 <span class='anchor' id='VLM-MI'></span>
 
@@ -168,7 +169,7 @@ Submitted to a CAAI-A conference, Under Review<br>
   [[**PDF**](https://xuchen-li.github.io/files/VLT-MI.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/VLT-MI.bib)]<br>
-Submitted to a CCF-A conference workshop, Under Review<br>
+ArXiv Preprint<br>
 📌 Visual Language Tracking  📌 Multi-modal Interaction  📌 Evaluation Technology<br>
 
 </div>

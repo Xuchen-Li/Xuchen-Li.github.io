@@ -238,23 +238,12 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🌟 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><a href="http://got-10k.aitestunion.com/"><img src='../projects/GOT-10k.png' alt="sym" width="100%"></a></div></div>
-<div class='paper-box-text' markdown="1">
-
-**<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**<br>
-- Visual Object Tracking / Evaluation Technology / Large High-diversity Benchmark<br>
-- As of Sept. 2024, the platform has received 3.92M+ page views, 7.5k+ downloads, 21.5k+ trackers from 290+ countries and regions worldwide.<br>
-- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.<br>
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT / DTVLT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT / DTVLT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
 
-- Visual Object Tracking / Visual Language Tracking / Long Video Understanding<br>
+- Visual Object Tracking / Visual Language Tracking / Environment Construction<br>
 - As of Sept. 2024, the platform has received 440k+ page views, 1.2k+ downloads, 420+ trackers from 220+ countries and regions worldwide.<br>
 - VideoCube / MGIT is the supporting platform for research accepted by IEEE TPAMI 2023 and NeurIPS 2023.<br>
 
@@ -272,11 +261,22 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><a href="http://got-10k.aitestunion.com/"><img src='../projects/GOT-10k.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+**<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**<br>
+- Visual Object Tracking / Evaluation Technique / Environment Construction<br>
+- As of Sept. 2024, the platform has received 3.92M+ page views, 7.5k+ downloads, 21.5k+ trackers from 290+ countries and regions worldwide.<br>
+- GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.<br>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">BioDrone Platform</div><a href="http://biodrone.aitestunion.com/"><img src='../projects/BioDrone.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**<br>
-- Visual Object Tracking / Robust Vision Challenges / Bionic-based UAV Tracking<br>
+- UAV Tracking / Environment Construction / Evaluation Technique<br>
 - As of Sept. 2024, the platform has received 170k+ page views from 200+ countries and regions worldwide.<br>
 - BioDrone is the supporting platform for research accepted by IJCV 2024.<br>
 

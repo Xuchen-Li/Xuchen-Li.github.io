@@ -265,7 +265,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**<br>
-- Visual Object Tracking / Evaluation Technique / Environment Construction<br>
+- Visual Object Tracking / Environment Construction / Evaluation Techniquebr>
 - As of Sept. 2024, the platform has received 3.92M+ page views, 7.5k+ downloads, 21.5k+ trackers from 290+ countries and regions worldwide.<br>
 - GOT-10k is the supporting platform for research accepted by IEEE TPAMI 2021.<br>
 

@@ -76,7 +76,7 @@ School of Computer Science<br>
 <span class='anchor' id='DTLLM-VLT'></span>
 
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
-***Xuchen Li***, Xiaokun Feng, [Shiyu Hu](https://huuuuusy.github.io/), Meiqi Wu, Dailing Zhang, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+***Xuchen Li***, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang<br>
 CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
 **<span style="color: red;">Oral Presentation, Best Paper Honorable Mention Award</span>**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
@@ -98,7 +98,7 @@ CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datas
 <span class='anchor' id='MemVLT'></span>
 
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**<br>
-Xiaokun Feng, ***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+Xiaokun Feng, ***Xuchen Li***, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts<br>
 
@@ -111,7 +111,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 <span class='anchor' id='CPDTrack'></span>
 
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
-Dailing Zhang, [Shiyu Hu](https://huuuuusy.github.io/), Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+Dailing Zhang, Shiyu Hu, Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
 📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test<br>
 
@@ -124,7 +124,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 <span class='anchor' id='MGIT'></span>
 
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
-[Shiyu Hu](https://huuuuusy.github.io/), Dailing Zhang, Meiqi Wu, Xiaokun Feng, ***Xuchen Li***, [Xin Zhao](https://www.xinzhaoai.com/), [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html)]
   [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
@@ -146,7 +146,7 @@ NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Pr
 <span class='anchor' id='DTVLT'></span>
 
 **DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**<br>
-***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 Submitted to a CAAI-A conference, Under Review<br>
   [[**Preprint**](https://arxiv.org/abs/2410.02492)]
   [[**PDF**](https://xuchen-li.github.io/files/DTVLT.pdf)]
@@ -164,7 +164,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 <span class='anchor' id='VLM-MI'></span>
 
 **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**<br>
-***Xuchen Li***, [Shiyu Hu](https://huuuuusy.github.io/), Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
   [[**Preprint**](https://arxiv.org/abs/2409.08887)]
   [[**PDF**](https://xuchen-li.github.io/files/VLT-MI.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]
@@ -181,7 +181,7 @@ ArXiv Preprint<br>
 <span class='anchor' id='FIOVA'></span>
 
 **Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**<br>
-[Shiyu Hu](https://huuuuusy.github.io/)\*, ***Xuchen Li***\*, [Xuzhao Li](https://xuzhaoli.github.io/), Jing Zhang, Yipei Wang, [Xin Zhao](https://www.xinzhaoai.com/), [Kang Hao Cheong](https://dr.ntu.edu.sg/cris/rp/rp02319) (*Equal Contributions)<br>
+Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (*Equal Contributions)<br>
 Submitted to a CAAI-A conference, Under Review<br>
 📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison<br>
 
@@ -194,7 +194,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 <span class='anchor' id='Sat-LLM'></span>
 
 **Sat-LLM: Multi-View Retrieval-Augmented Satellite Commonsense Multi-Modal Iterative Alignment LLM**<br>
-[Qian Li](https://xiaoqian19940510.github.io/)\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, [Shangguang Wang](http://sguangwang.com/) (*Equal Contributions)<br>
+Qian Li\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang (*Equal Contributions)<br>
 Submitted to a CCF-A conference, Under Review<br>
 📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation<br>
 
@@ -207,7 +207,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <span class='anchor' id='ATCTrack'></span>
 
 **ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**<br>
-Xiaokun Feng, [Shiyu Hu](https://huuuuusy.github.io/), ***Xuchen Li***, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, [Kaiqi Huang](https://people.ucas.ac.cn/~huangkaiqi?language=en)<br>
+Xiaokun Feng, Shiyu Hu, ***Xuchen Li***, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 Submitted to a CCF-A conference, Under Review<br>
 📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness<br>
 

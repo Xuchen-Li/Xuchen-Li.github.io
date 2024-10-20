@@ -219,15 +219,15 @@ Submitted to a CCF-A conference, Under Review<br>
 
 * **Reviewer**
 
-  International Conference on Learning Representations (ICLR, CCF-A)
+  International Conference on Learning Representations (ICLR)
   
-  IEEE Virtual Reality (IEEE VR, CCF-A)
+  IEEE Virtual Reality (IEEE VR)
   
-  ACM Conference on Human Factors in Computing Systems (CHI, CCF-A)
+  ACM Conference on Human Factors in Computing Systems (CHI)
   
-  ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW, CCF-A)
+  ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW)
   
-  International Conference on Pattern Recognition (ICPR, CCF-C)
+  International Conference on Pattern Recognition (ICPR)
 
 
 # 🌟 Projects

@@ -38,6 +38,7 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 - **2023.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!
 - **2023.11**: 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!
 - **2023.09**: 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
+- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)** (only 20 students win this scholarship of BUPT)!
 - **2022.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!
 
 # 📖 Educations
@@ -218,6 +219,7 @@ Submitted to a CCF-A conference, Under Review<br>
 * **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at CVPR Workshop on Vision Datasets Understanding, 2024
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
+* **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023

@@ -33,7 +33,6 @@ My research focuses on **Visual Language Tracking**, **Multi-modal Learning**, *
 - **2024.06**: 👨‍💻 Work as **research intern** at **Ant Group** (ANT), studying Multi-modal Large Language Model Agent.
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 - **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
-- **2024.05**: 📣 Present our work during **the 14th Vision and Learning Seminar** (VALSE), see our [**poster**](https://xuchen-li.github.io/files/VALSE-poster.pdf) for more information!
 - **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://xuchen-li.github.io/#DTLLM-VLT)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!
 - **2023.12**: 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!
 - **2023.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!

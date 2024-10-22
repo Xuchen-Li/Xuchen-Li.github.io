@@ -181,10 +181,14 @@ ArXiv Preprint<br>
 <span class='anchor' id='FIOVA'></span>
 
 **Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**<br>
-Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (*Equal Contributions)<br>
+Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (\*Equal Contributions)<br>
+  [[**Preprint**](https://arxiv.org/abs/2410.15270)]
+  [[**PDF**](https://xuchen-li.github.io/files/FIOVA.pdf)]
+  [[**Website**](https://huuuuusy.github.io/fiova/)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/FIOVA.bib)]<br>
 Submitted to a CAAI-A conference, Under Review<br>
 📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison<br>
-
+s
 </div>
 </div>
 
@@ -194,7 +198,7 @@ Submitted to a CAAI-A conference, Under Review<br>
 <span class='anchor' id='Sat-LLM'></span>
 
 **Sat-LLM: Multi-View Retrieval-Augmented Satellite Commonsense Multi-Modal Iterative Alignment LLM**<br>
-Qian Li\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang (*Equal Contributions)<br>
+Qian Li\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, Under Review<br>
 📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation<br>
 

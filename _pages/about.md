@@ -188,7 +188,7 @@ Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang
   [[**BibTeX**](https://xuchen-li.github.io/files/FIOVA.bib)]<br>
 Submitted to a CAAI-A conference, Under Review<br>
 📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison<br>
-s
+
 </div>
 </div>
 

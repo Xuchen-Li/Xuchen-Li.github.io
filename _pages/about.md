@@ -221,7 +221,7 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🔗 Services
 
-* **Reviewer**
+* **Conference Reviewer**
 
   International Conference on Learning Representations (ICLR)
   

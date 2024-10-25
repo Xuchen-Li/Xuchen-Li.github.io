@@ -210,6 +210,7 @@ Submitted to a CCF-A conference, Under Review<br>
 * **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at CVPR Workshop on Vision Datasets Understanding, 2024
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
 * **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
+* **China National Encouragement Scholarship (<font face="楷体">国家励志奖学金</font>)**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
 * **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024

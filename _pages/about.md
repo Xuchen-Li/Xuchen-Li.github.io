@@ -124,7 +124,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 <span class='anchor' id='MGIT'></span>
 
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
-Shiyu Hu, Dailing Zhang, Meiqi Wu, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
+Shiyu Hu, Dailing Zhang, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html)]
   [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]

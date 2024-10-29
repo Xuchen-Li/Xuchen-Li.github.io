@@ -237,7 +237,7 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 🌟 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT / DTVLT Platform</div><a href="http://videocube.aitestunion.com/"><img src='../projects/VideoCube.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">VideoCube / MGIT / DTVLT Platform</div><img src='../projects/VideoCube.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://videocube.aitestunion.com/">VideoCube / MGIT / DTVLT: A Large-scale Multi-dimensional Multi-modal Global Instance Tracking Intelligent Evaluation Platform</a>**<br>
@@ -249,7 +249,7 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><a href="http://metaverse.aitestunion.com/"><img src='../projects/SOTVerse.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='../projects/SOTVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**<br>
@@ -260,7 +260,7 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><a href="http://got-10k.aitestunion.com/"><img src='../projects/GOT-10k.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">GOT-10k Platform</div><img src='../projects/GOT-10k.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://got-10k.aitestunion.com/">GOT-10k: A Large High-diversity Benchmark and Evaluation Platform for Single Object Tracking</a>**<br>
@@ -271,7 +271,7 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">BioDrone Platform</div><a href="http://biodrone.aitestunion.com/"><img src='../projects/BioDrone.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">BioDrone Platform</div><img src='../projects/BioDrone.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **<a href="http://biodrone.aitestunion.com/">BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision</a>**<br>

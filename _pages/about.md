@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨🏻‍💻 About
 
-I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>**, co-supervised by **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**.
+I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>**, co-supervised by **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**.
 
-Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS <a href="https://scs.bupt.edu.cn/"><img src="../images/BUPTSCS.png" style="width: 8em;"/></a>) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT <a href="https://www.bupt.edu.cn/"><img src="../images/BUPT.png" style="width: 5em;"/></a>) in Jun. 2024. During my time there, I was awarded **China National Scholarship (<font face="楷体">国家奖学金</font>)** twice. Thank you to everyone for their support.
+Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT) in Jun. 2024. During my time there, I was awarded **China National Scholarship (<font face="楷体">国家奖学金</font>)** twice. Thank you to everyone for their support.
 
 I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**, which has a significant impact on me. I am also grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>**, which is a truly unique and special experience for me.
 
@@ -61,10 +61,10 @@ School of Computer Science<br>
 </div>
 # 💻 Experiences
 
-* **2024.07 - Now**: Research intern on Multi-modal Large Language Model at **[Nanyang Technological University](https://www.ntu.edu.sg/)** (NTU <a href="https://www.ntu.edu.sg/"><img src="../images/NTU.png" style="width: 3.5em;"/></a>), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kang Hao Cheong](https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ)**.
-* **2024.06 - 2024.10**: Research intern on Multi-modal Large Language Model Agent at **[Ant Group](https://www.antgroup.com/en)** (ANT <a href="https://www.antgroup.com/en"><img src="../images/ANT.png" style="width: 4em;"/></a>), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
-* **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA <a href="http://english.ia.cas.cn/"><img src="../images/CASIA.png" style="width: 9em;"/></a>), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)**.
-* **2023.01 - 2023.05**: Research intern on 3D Reconstruction at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU <a href="https://www.tsinghua.edu.cn/en/"><img src="../images/THU.png" style="width: 4em;"/></a>),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
+* **2024.07 - Now**: Research intern on Multi-modal Large Language Model at **[Nanyang Technological University](https://www.ntu.edu.sg/)** (NTU), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kang Hao Cheong](https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ)**.
+* **2024.06 - 2024.10**: Research intern on Multi-modal Large Language Model Agent at **[Ant Group](https://www.antgroup.com/en)** (ANT), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
+* **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)**.
+* **2023.01 - 2023.05**: Research intern on 3D Reconstruction at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
 # 📝 Publications
 
@@ -282,7 +282,20 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+# 💡 Resources
+
+[**Awesome-Visual-Language-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking): A visual language tracking paper list, articles related to visual language tracking have been documented.
+
+[**Awesome-Visual-Object-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Object-Tracking): A visual object tracking paper list, articles related to visual object tracking have been documented.
+
+[**Awesome-Multimodal-Object-Tracking**](https://github.com/983632847/Awesome-Multimodal-Object-Tracking): A personal investigative project to track the latest progress in the field of multi-modal object tracking.
+
+[**cv-arxiv-daily**](https://github.com/Xuchen-Li/cv-arxiv-daily): Automatically update arXiv papers about SOT & VLT, Multi-modal Learning, LLM and Video Understanding using Github Actions.
+
+[**MyArxiv**](https://github.com/Xuchen-Li/MyArxiv): Automatically update arXiv papers about cs.CV, eess.IV, cs.MM, cs.CL and cs.HC using Github Actions.
+
 <body>
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=51n9jlj53ia&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 </body>
 

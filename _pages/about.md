@@ -284,15 +284,15 @@ Submitted to a CCF-A conference, Under Review<br>
 
 # 💡 Resources
 
-[**Awesome-Visual-Language-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking): A visual language tracking paper list, articles related to visual language tracking have been documented.
+- [**Awesome-Visual-Language-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking): A visual language tracking paper list, articles related to visual language tracking have been documented.
 
-[**Awesome-Visual-Object-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Object-Tracking): A visual object tracking paper list, articles related to visual object tracking have been documented.
+- [**Awesome-Visual-Object-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Object-Tracking): A visual object tracking paper list, articles related to visual object tracking have been documented.
 
-[**Awesome-Multimodal-Object-Tracking**](https://github.com/983632847/Awesome-Multimodal-Object-Tracking): A personal investigative project to track the latest progress in the field of multi-modal object tracking.
+- [**Awesome-Multimodal-Object-Tracking**](https://github.com/983632847/Awesome-Multimodal-Object-Tracking): A personal investigative project to track the latest progress in the field of multi-modal object tracking.
 
-[**cv-arxiv-daily**](https://github.com/Xuchen-Li/cv-arxiv-daily): Automatically update arXiv papers about SOT & VLT, Multi-modal Learning, LLM and Video Understanding using Github Actions.
+- [**cv-arxiv-daily**](https://github.com/Xuchen-Li/cv-arxiv-daily): Automatically update arXiv papers about SOT & VLT, Multi-modal Learning, LLM and Video Understanding using Github Actions.
 
-[**MyArxiv**](https://github.com/Xuchen-Li/MyArxiv): Automatically update arXiv papers about cs.CV, eess.IV, cs.MM, cs.CL and cs.HC using Github Actions.
+- [**MyArxiv**](https://github.com/Xuchen-Li/MyArxiv): Automatically update arXiv papers about cs.CV, eess.IV, cs.MM, cs.CL and cs.HC using Github Actions.
 
 <body>
 

@@ -63,8 +63,6 @@ School of Computer Science<br>
 
 * **2024.07 - Now**: Research intern on Multi-modal Large Language Model at **[Nanyang Technological University](https://www.ntu.edu.sg/)** (NTU), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kang Hao Cheong](https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ)**.
 * **2024.06 - 2024.10**: Research intern on Multi-modal Large Language Model Agent at **[Ant Group](https://www.antgroup.com/en)** (ANT), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
-* **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)**.
-* **2023.01 - 2023.05**: Research intern on 3D Reconstruction at **[Tsinghua University](https://www.tsinghua.edu.cn/en/)** (THU),  advised by **[Prof. Haoqian Wang](https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ)**.
 
 # 📝 Publications
 
@@ -298,7 +296,7 @@ Submitted to a CCF-A conference, Under Review<br>
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: Oct. 2024
+        <br>&copy; Xuchen Li | Last updated: Nov. 2024
     </font>
   </center>
 </p>

@@ -29,16 +29,22 @@ My research focuses on **Visual Language Tracking**, **Large Language Model** an
 
 # 🔥 News
 - **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
+
 - **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
+
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
-- **2024.05**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (Top 5%, only 38 students obtain this honor of SCS, BUPT)!
-- **2024.04**: 📝 One paper ([**DTLLM-VLT**](https://xuchen-li.github.io/#DTLLM-VLT)) has been accepted as **Oral Presentation** and awarded **Best Paper Honorable Mention Award** by **the 3rd CVPR Workshop on Vision Datasets Understanding** (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!
-- **2023.12**: 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!
-- **2023.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!
-- **2023.11**: 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!
-- **2023.09**: 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
-- **2022.12**: 🏆 Obtain **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)** (only 20 students win this scholarship of BUPT)!
-- **2022.12**: 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!
+
+- <details> <summary>More</summary>
+  <ul>
+    <li><b>2024.05:</b> 🏆 Obtain <b>Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)</b> (Top 5%, only 38 students obtain this honor of SCS, BUPT)!</li>
+    <li><b>2024.04:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#DTLLM-VLT">DTLLM-VLT</a></b>) has been accepted as <b>Oral Presentation</b> and awarded <b>Best Paper Honorable Mention Award</b> by <b>the 3rd CVPR Workshop on Vision Datasets Understanding</b> (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!</li>
+    <li><b>2023.12:</b> 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!</li>
+    <li><b>2023.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of **1/455 (0.22%)** (Top 1%, the highest honor for undergraduates in China)!</li>
+    <li><b>2023.11:</b> 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!</li>
+    <li><b>2023.09:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!</li>
+    <li><b>2022.12:</b> 🏆 Obtain <b>Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)</b> (only 20 students win this scholarship of BUPT)!</li>
+    <li><b>2022.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!</li>
+  </ul>
 
 # 📖 Educations
 

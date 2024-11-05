@@ -30,9 +30,9 @@ My research focuses on **Visual Language Tracking**, **Large Language Model** an
 # 🔥 News
 - **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 
-- **2024.08**: 📣 Start my Ph.D. life at **University of Chinese Academy of Sciences** (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
+- **2024.08**: 📣 Start my Ph.D. life at <b>University of Chinese Academy of Sciences</b> (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
 
-- **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing University of Posts and Telecommunications** (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
+- **2024.06**: 👨‍🎓 Obtain my B.E. degree from <b>Beijing University of Posts and Telecommunications</b> (BUPT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 
 - <details> <summary>More</summary>
   <ul>

@@ -43,7 +43,7 @@ My research focuses on **Visual Language Tracking**, **Large Language Model** an
 # 📖 Educations
 
 <div class='school-box'>
-<div><a href="http://english.ia.cas.cn/"><img src='../images/CASIA.jpg' alt="sym" width="80"></a></div>
+<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2024.08 - Now, Ph.D. student<br>
 Pattern Recognition and Intelligent System<br>
@@ -51,7 +51,7 @@ Pattern Recognition and Intelligent System<br>
 </div>
 </div>
 <div class='school-box'>
-<div><a href="https://www.bupt.edu.cn/"><img src='../images/BUPT.jpg' alt="sym" width="80"></a></div>
+<div><img src='../images/BUPT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2020.09 - 2024.06, B.E. degree<br>
 Computer Science and Technology, Overall Ranking <b>1/449 (0.22%)</b><br>

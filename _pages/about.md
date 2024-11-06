@@ -36,6 +36,7 @@ My research focuses on **Visual Language Tracking**, **Large Language Model** an
 
 - <details> <summary>More</summary>
   <ul>
+    <li><b>2024.06:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#VS-LLM">VS-LLM</a></b>) has been accepted by <b>the 7th Chinese Conference on Pattern Recognition and Computer Vision</b> (PRCV, CCF-C Conference)!</li>
     <li><b>2024.05:</b> 🏆 Obtain <b>Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)</b> (Top 5%, only 38 students obtain this honor of SCS, BUPT)!</li>
     <li><b>2024.04:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#DTLLM-VLT">DTLLM-VLT</a></b>) has been accepted as <b>Oral Presentation</b> and awarded <b>Best Paper Honorable Mention Award</b> by <b>the 3rd CVPR Workshop on Vision Datasets Understanding</b> (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!</li>
     <li><b>2023.12:</b> 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!</li>
@@ -138,6 +139,24 @@ NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Pr
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
 📌 Visual Language Tracking  📌 Video Understanding  📌 Hierarchical Annotation<br>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../publications/VS-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='VS-LLM'></span>
+
+**VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**<br>
+Meiqi Wu, Yaxuan Kang, ***Xuchen Li***, Shiyu Hu, Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
+PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
+  [[**Paper**](https://ieeexplore.ieee.org/abstract/document/10447135)]
+  [[**PDF**](https://xuchen-li.github.io/files/VS-LLM.pdf)]
+  [[**Code**](https://github.com/wmeiqi/VS-LLM)]
+  [[**Poster**](https://xuchen-li.github.io/files/VS-LLM-poster.pdf)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/VS-LLM.bib)]<br>
+📌 LLM  📌 Image Understanding  📌 Cognitive Science<br>
 
 </div>
 </div>

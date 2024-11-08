@@ -229,6 +229,57 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='MMAW'></span>
+
+**Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**<br>
+Meiqi Wu, ***Xuchen Li***, Shiyu Hu, Yuanqiang Cai, Kaiqi Huang, Weiqiang Wang<br>
+Submitted to a CCF-A conference, under review<br>
+📌 Air-writing Technique  📌 Benchmark Construction  📌 Human-machine Interaction<br>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='ATCTrack'></span>
+
+**ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**<br>
+Xiaokun Feng, Shiyu Hu, ***Xuchen Li***, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
+Submitted to a CCF-A conference, under review<br>
+📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness<br>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/SOE-VLSA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span class='anchor' id='SOE-VLSA'></span>
+
+**Students Rather Than Experts: A New AI for Education Pipeline to Model More Human-like and Personalised Early Adolescences**<br>
+Yiping Ma\*, Shiyu Hu\*, ***Xuchen Li***, Yipei Wang, Shiqing Liu, Kang Hao Cheong (\*Equal Contributions)<br>
+Submitted to a CAAI-A conference, under review<br>
+📌 AI4Education  📌 LLMs  📌 LLM-based Agent<br>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-B</div><img src='../publications/EVLTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span class='anchor' id='EVLTrack'></span>
+
+**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
+Xiaokun Feng, Dailing Zhang, Shiyu Hu, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
+Submitted to a CCF-B conference, under review<br>
+📌 Visual Language Tracking  📌 Multi-modal Learning  📌 Grounding Model<br>
+
+</div>
+</div>
+
 # 🏆 Honors
 
 * **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at CVPR Workshop on Vision Datasets Understanding, 2024

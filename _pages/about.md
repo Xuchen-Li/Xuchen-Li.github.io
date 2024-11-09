@@ -351,15 +351,6 @@ Submitted to a CCF-B conference, under review<br>
 </div>
 </div>
 
-# 💡 Resources
-
-- [**ICIP24-Tutorial-VOT**](https://sites.google.com/view/icip24-tutorial-vot/): An Evaluation Perspective in Visual Object Tracking: from Task Design to Benchmark Construction and Algorithm Analysis
-- [**Awesome-Visual-Language-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Language-Tracking): A visual language tracking paper list, articles related to visual language tracking have been documented
-- [**Awesome-Visual-Object-Tracking**](https://github.com/Xuchen-Li/Awesome-Visual-Object-Tracking): A visual object tracking paper list, articles related to visual object tracking have been documented
-- [**Awesome-Multimodal-Object-Tracking**](https://github.com/983632847/Awesome-Multimodal-Object-Tracking): A personal investigative project to track the latest progress in the field of multi-modal object tracking
-- [**cv-arxiv-daily**](https://github.com/Xuchen-Li/cv-arxiv-daily): Automatically update arXiv papers about SOT & VLT, Multi-modal Learning, LLM and Video Understanding using Github Actions
-- [**MyArxiv**](https://github.com/Xuchen-Li/MyArxiv): Automatically update arXiv papers about cs.CV, eess.IV, cs.MM, cs.CL and cs.HC using Github Actions
-
 <body>
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=51n9jlj53ia&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>

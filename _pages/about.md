@@ -229,19 +229,6 @@ Submitted to a CCF-A conference, Under Review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/MMAW.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='MMAW'></span>
-
-**Unconstrained Multimodal Air-Writing Benchmark: Writing by Moving Your Fingers in 3D**<br>
-Meiqi Wu, ***Xuchen Li***, Shiyu Hu, Yuanqiang Cai, Kaiqi Huang, Weiqiang Wang<br>
-Submitted to a CCF-A conference, under review<br>
-📌 Air-writing Technique  📌 Benchmark Construction  📌 Human-machine Interaction<br>
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

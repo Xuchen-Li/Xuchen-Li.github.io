@@ -169,7 +169,7 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 
 <span class='anchor' id='VLTVerse'></span>
 
-**Text as Guidance or Distraction? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**<br>
+**How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**<br>
 ***Xuchen Li***\*, Shiyu Hu\*, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, under review<br>
 📌 Visual Language Tracking  📌 Fine-granted Evaluation  📌 Role of Language<br>

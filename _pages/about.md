@@ -164,14 +164,14 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 
 ## ☑️ Ongoing
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Preprint</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <span class='anchor' id='DTVLT'></span>
 
 **DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
-Submitted to a CAAI-A conference, Under Review<br>
+ArXiv Preprint<br>
   [[**Preprint**](https://arxiv.org/abs/2410.02492)]
   [[**PDF**](https://xuchen-li.github.io/files/DTVLT.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]

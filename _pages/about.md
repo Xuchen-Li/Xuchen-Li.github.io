@@ -28,6 +28,8 @@ I am grateful to work with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu<
 My research focuses on **Visual Language Tracking**, **Large Language Model** and **Data-centric AI**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.11**: 🏆 Obtain <b>Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)</b> as <b>class president</b> (only 10 classes obtain this honor of UCAS)!
+ 
 - **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 
 - **2024.08**: 📣 Start my Ph.D. life at <b>University of Chinese Academy of Sciences</b> (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
@@ -290,6 +292,7 @@ Submitted to a CCF-B conference, under review<br>
 * **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
 * **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
 * **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
+* **Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)**,  as **class president** at UCAS, by University of Chinese Academy of Sciences, 2024
 
 # 🎤 Talks
 

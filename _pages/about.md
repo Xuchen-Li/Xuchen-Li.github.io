@@ -29,7 +29,7 @@ My research focuses on **Visual Language Tracking**, **Large Language Model** an
 
 # 🔥 News
 - **2024.11**: 🏆 Obtain <b>Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)</b> as <b>class president</b> (only 10 classes obtain this honor of UCAS)!
- 
+
 - **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 
 - **2024.08**: 📣 Start my Ph.D. life at <b>University of Chinese Academy of Sciences</b> (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
@@ -325,10 +325,11 @@ Submitted to a CCF-B conference, under review<br>
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse Platform</div><img src='../projects/SOTVerse.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge-project">SOTVerse / VLTVerse Platform</div><img src='../projects/SOTVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**<a href="http://metaverse.aitestunion.com/">SOTVerse: A User-defined Single Object Tracking Task Space</a>**<br>
+**<a href="http://metaverse.aitestunion.com/">SOTVerse / VLTVerse: A User-defined Single Object Tracking Task Space and Fine-grained Evaluation in Vision-Language Tracking</a>**<br>
+
 - Visual Object Tracking / Environment Construction / Evaluation Technique<br>
 - As of Sept. 2024, the platform has received 126k+ page views from 150+ countries and regions worldwide.<br>
 - SOTVerse is the supporting platform for research accepted by IJCV 2024.<br>

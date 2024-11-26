@@ -174,6 +174,10 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 **How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**<br>
 ***Xuchen Li***\*, Shiyu Hu\*, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, under review<br>
+  [[**Preprint**](https://arxiv.org/abs/2411.15600)]
+  [[**PDF**](https://xuchen-li.github.io/files/VLTVerse.pdf)]
+  [[**Website**](http://metaverse.aitestunion.com/)]
+  [[**BibTeX**](https://xuchen-li.github.io/files/VLTVerse.bib)]<br>
 📌 Visual Language Tracking  📌 Fine-granted Evaluation  📌 Role of Language<br>
 
 </div>

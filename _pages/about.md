@@ -314,6 +314,8 @@ Submitted to a CCF-B conference, under review<br>
   
   International Conference on Pattern Recognition (ICPR)
 
+  International Joint Conference on Neural Networks (IJCNN)
+
 
 # 🌟 Projects
 

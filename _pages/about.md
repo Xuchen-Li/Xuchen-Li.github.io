@@ -95,7 +95,6 @@ CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datas
   [[**Poster**](https://xuchen-li.github.io/files/DTLLM-VLT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/DTLLM-VLT-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM-VLT.bib)]<br>
-📌 Visual Language Tracking  📌 LLM  📌 Evaluation Technique<br>
 
 </div>
 </div>
@@ -108,7 +107,6 @@ CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datas
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**<br>
 Xiaokun Feng, ***Xuchen Li***, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
-📌 Visual Language Tracking  📌 Human-like Modeling  📌 Adaptive Prompts<br>
 
 </div>
 </div>
@@ -121,7 +119,6 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
 Dailing Zhang, Shiyu Hu, Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
-📌 Visual Object Tracking  📌 Visual Search Mechanism  📌 Visual Turing Test<br>
 
 </div>
 </div>
@@ -141,7 +138,6 @@ NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Pr
   [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
   [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
-📌 Visual Language Tracking  📌 Video Understanding  📌 Hierarchical Annotation<br>
 
 </div>
 </div>
@@ -159,7 +155,6 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
   [[**Code**](https://github.com/wmeiqi/VS-LLM)]
   [[**Poster**](https://xuchen-li.github.io/files/VS-LLM-poster.pdf)]
   [[**BibTeX**](https://xuchen-li.github.io/files/VS-LLM.bib)]<br>
-📌 LLM  📌 Image Understanding  📌 Cognitive Science<br>
 
 </div>
 </div>
@@ -178,7 +173,6 @@ Submitted to a CCF-A conference, under review<br>
   [[**PDF**](https://xuchen-li.github.io/files/VLTVerse.pdf)]
   [[**Website**](http://metaverse.aitestunion.com/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/VLTVerse.bib)]<br>
-📌 Visual Language Tracking  📌 Fine-granted Evaluation  📌 Role of Language<br>
 
 </div>
 </div>
@@ -195,7 +189,6 @@ ArXiv Preprint<br>
   [[**PDF**](https://xuchen-li.github.io/files/DTVLT.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/DTVLT.bib)]<br>
-📌 Visual Language Tracking  📌 LLM  📌 Benchmark Construction<br>
 
 </div>
 </div>
@@ -213,7 +206,6 @@ ArXiv Preprint<br>
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/VLT-MI.bib)]<br>
 ArXiv Preprint<br>
-📌 Visual Language Tracking  📌 Multi-modal Interaction  📌 Evaluation Technology<br>
 
 </div>
 </div>
@@ -230,7 +222,6 @@ Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang
   [[**Website**](https://huuuuusy.github.io/fiova/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/FIOVA.bib)]<br>
 Submitted to a CAAI-A conference, Under Review<br>
-📌 LVLM  📌 Evaluation Technology  📌 Human-Machine Comparison<br>
 
 </div>
 </div>
@@ -243,7 +234,6 @@ Submitted to a CAAI-A conference, Under Review<br>
 **Sat-LLM: Multi-View Retrieval-Augmented Satellite Commonsense Multi-Modal Iterative Alignment LLM**<br>
 Qian Li\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, Under Review<br>
-📌 LLM  📌 Satellite Commonsense  📌 Retrieval Augmented Generation<br>
 
 </div>
 </div>
@@ -256,7 +246,6 @@ Submitted to a CCF-A conference, Under Review<br>
 **ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**<br>
 Xiaokun Feng, Shiyu Hu, ***Xuchen Li***, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 Submitted to a CCF-A conference, under review<br>
-📌 Visual Language Tracking  📌 Multi-modal Alignment  📌 Feature Awareness<br>
 
 </div>
 </div>
@@ -269,7 +258,6 @@ Submitted to a CCF-A conference, under review<br>
 **Students Rather Than Experts: A New AI for Education Pipeline to Model More Human-like and Personalised Early Adolescences**<br>
 Yiping Ma\*, Shiyu Hu\*, ***Xuchen Li***, Yipei Wang, Shiqing Liu, Kang Hao Cheong (\*Equal Contributions)<br>
 Submitted to a CAAI-A conference, under review<br>
-📌 AI4Education  📌 LLMs  📌 LLM-based Agent<br>
 
 </div>
 </div>
@@ -281,7 +269,6 @@ Submitted to a CAAI-A conference, under review<br>
 **Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
 Xiaokun Feng, Dailing Zhang, Shiyu Hu, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 Submitted to a CCF-B conference, under review<br>
-📌 Visual Language Tracking  📌 Multi-modal Learning  📌 Grounding Model<br>
 
 </div>
 </div>

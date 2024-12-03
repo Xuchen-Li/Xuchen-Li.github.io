@@ -196,16 +196,15 @@ ArXiv Preprint<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Preprint</div><img src='../publications/VLT-MI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 <span class='anchor' id='VLM-MI'></span>
 
 **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
+ArXiv Preprint<br>
   [[**Preprint**](https://arxiv.org/abs/2409.08887)]
   [[**PDF**](https://xuchen-li.github.io/files/VLT-MI.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/VLT-MI.bib)]<br>
-ArXiv Preprint<br>
 
 </div>
 </div>
@@ -217,11 +216,11 @@ ArXiv Preprint<br>
 
 **Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**<br>
 Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (\*Equal Contributions)<br>
+Submitted to a CAAI-A conference, Under Review<br>
   [[**Preprint**](https://arxiv.org/abs/2410.15270)]
   [[**PDF**](https://xuchen-li.github.io/files/FIOVA.pdf)]
   [[**Website**](https://huuuuusy.github.io/fiova/)]
   [[**BibTeX**](https://xuchen-li.github.io/files/FIOVA.bib)]<br>
-Submitted to a CAAI-A conference, Under Review<br>
 
 </div>
 </div>

@@ -19,7 +19,7 @@ redirect_from:
 
 # 👨🏻‍💻 About
 
-I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>**, co-supervised by **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>**.
+I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>**.
 
 Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT) in Jun. 2024. During my time there, I was awarded **China National Scholarship (<font face="楷体">国家奖学金</font>)** twice. Thank you to everyone for their support.
 

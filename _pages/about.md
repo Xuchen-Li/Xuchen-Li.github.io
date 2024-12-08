@@ -354,7 +354,7 @@ Submitted to a CCF-B conference, under review<br>
 <p>
   <center>
     <font>
-        <br>&copy; Xuchen Li | Last updated: Nov. 2024
+        <br>&copy; Xuchen Li | Last updated: 2024.12
     </font>
   </center>
 </p>

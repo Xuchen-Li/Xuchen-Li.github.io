@@ -108,7 +108,8 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYA
 <div><img src='../images/BUPT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Beijing University of Posts and Telecommunications (BUPT)</b><br>
-Bachelor of Computer Science and Technology, Overall Ranking <b>1/449 (0.22%)</b><br>
+Bachelor of Computer Science and Technology<br>
+Overall Ranking <b>1/449 (0.22%)</b><br>
 2020.09 - 2024.06<br>
 </div>
 </div>

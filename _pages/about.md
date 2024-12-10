@@ -49,31 +49,69 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
     <li><b>2022.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!</li>
   </ul>
 
-# 📖 Educations
+# 💻 Industrial Experience
+
+<div class='school-box'>
+<div><img src='../images/ANT.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Ant Group (ANT)</b><br>
+Research intern on Multi-modal Large Language Model Agent<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ">Dr. Jian Wang</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ">Dr. Ming Yang</a></b><br>
+2024.06 - 2024.10<br>
+</div>
+</div>
+
+
+# 📖 Educations & Visiting
 
 <div class='school-box'>
 <div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024.08 - Now, Ph.D. student<br>
-Pattern Recognition and Intelligent System<br>
-<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b>, Beijing
+<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
+Ph.D. Student of Pattern Recognition and Intelligent System<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
+2024.08 - Now<br>
 </div>
 </div>
+
+<div class='school-box'>
+<div><img src='../images/NTU.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Nanyang Technological University (NTU)</b><br>
+Research intern on Multi-modal Large Language Model<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
+2024.07 - Now<br>
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
+Member of Artificial Intelligence Elites Class<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
+2023.05 - 2024.04<br>
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='../images/THU.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Tsinghua University (THU)</b><br>
+Research intern on 3D Vision<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
+2023.01 - 2023.05<br>
+</div>
+</div>
+
 <div class='school-box'>
 <div><img src='../images/BUPT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020.09 - 2024.06, B.E. degree<br>
-Computer Science and Technology, Overall Ranking <b>1/449 (0.22%)</b><br>
-School of Computer Science<br>
-<b>Beijing University of Posts and Telecommunications (BUPT)</b>, Beijing
+<b>Beijing University of Posts and Telecommunications (BUPT)</b><br>
+Bachelor of Computer Science and Technology, Overall Ranking <b>1/449 (0.22%)</b><br>
+2020.09 - 2024.06<br>
 </div>
 </div>
-# 💻 Experiences
-
-* **2024.07 - Now**: Research intern on Multi-modal Large Language Model at **[Nanyang Technological University](https://www.ntu.edu.sg/)** (NTU), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kang Hao Cheong](https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ)**.
-* **2024.06 - 2024.10**: Research intern on Multi-modal Large Language Model Agent at **[Ant Group](https://www.antgroup.com/en)** (ANT), advised by **[Dr. Jian Wang](https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ)** and **[Dr. Ming Yang](https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ)**.
-* **2023.05 - 2024.04**: Member of Artificial Intelligence Elites Class at **[Institute of Automation, Chinese Academy of Sciences](http://english.ia.cas.cn/)** (CASIA), advised by **[Dr. Shiyu Hu](https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ)** and **[Prof. Kaiqi Huang](https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ)**.
-
 # 📝 Publications
 
 ## ✅ Acceptance

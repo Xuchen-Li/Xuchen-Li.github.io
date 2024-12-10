@@ -60,9 +60,7 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoA
 2024.06 - 2024.10<br>
 </div>
 </div>
-
-
-# 📖 Educations & Visiting
+# 📖 Education & Visiting
 
 <div class='school-box'>
 <div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>

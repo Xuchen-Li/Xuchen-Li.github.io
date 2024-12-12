@@ -70,6 +70,15 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoA
 </div>
 </div>
 <div class='school-box'>
+<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
+Member of Artificial Intelligence Elites Class<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
+2023.05 - 2024.04<br>
+</div>
+</div>
+<div class='school-box'>
 <div><img src='../images/THU.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Tsinghua University (THU)</b><br>
@@ -88,15 +97,6 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYA
 Ph.D. Student of Pattern Recognition and Intelligent System<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
 2024.08 - Now<br>
-</div>
-</div>
-<div class='school-box'>
-<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
-Member of Artificial Intelligence Elites Class<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
-2023.05 - 2024.04<br>
 </div>
 </div>
 <div class='school-box'>

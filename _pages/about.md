@@ -80,14 +80,12 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4A
 2024.07 - Now<br>
 </div>
 </div>
-
-
 <div class='school-box'>
 <div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
 Member of Artificial Intelligence Elites Class<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
 2023.05 - 2024.04<br>
 </div>
 </div>
@@ -100,8 +98,6 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYA
 2023.01 - 2023.05<br>
 </div>
 </div>
-
-
 <div class='school-box'>
 <div><img src='../images/BUPT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
@@ -111,6 +107,7 @@ Overall Ranking <b>1/449 (0.22%)</b><br>
 2020.09 - 2024.06<br>
 </div>
 </div>
+
 # 📝 Publications
 
 ## ✅ Acceptance

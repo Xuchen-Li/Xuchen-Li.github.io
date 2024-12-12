@@ -52,6 +52,15 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 # 💻 Experience
 
 <div class='school-box'>
+<div><img src='../images/NTU.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Nanyang Technological University (NTU)</b><br>
+Research Assistant on Multi-modal Large Language Model<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
+2024.07 - Now<br>
+</div>
+</div>
+<div class='school-box'>
 <div><img src='../images/ANT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Ant Group (ANT)</b><br>
@@ -60,6 +69,16 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoA
 2024.06 - 2024.10<br>
 </div>
 </div>
+<div class='school-box'>
+<div><img src='../images/THU.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Tsinghua University (THU)</b><br>
+Research Assistant on 3D Vision<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
+2023.01 - 2023.05<br>
+</div>
+</div>
+
 # 📖 Education
 
 <div class='school-box'>
@@ -72,30 +91,12 @@ Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYA
 </div>
 </div>
 <div class='school-box'>
-<div><img src='../images/NTU.jpg' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-<b>Nanyang Technological University (NTU)</b><br>
-Research Assistant on Multi-modal Large Language Model<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
-2024.07 - Now<br>
-</div>
-</div>
-<div class='school-box'>
 <div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
 Member of Artificial Intelligence Elites Class<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
 2023.05 - 2024.04<br>
-</div>
-</div>
-<div class='school-box'>
-<div><img src='../images/THU.jpg' alt="sym" width="80"></div>
-<div class='school-box-text' markdown="1">
-<b>Tsinghua University (THU)</b><br>
-Research Assistant on 3D Vision<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
-2023.01 - 2023.05<br>
 </div>
 </div>
 <div class='school-box'>

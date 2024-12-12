@@ -7,10 +7,10 @@ main:
     url: "/#-news"
 
   - title: "Experience"
-    url: "/#-industrial-experience"
+    url: "/#-experience"
 
   - title: "Education"
-    url: "/#-education-visiting"
+    url: "/#-education"
 
   - title: "Publications"
     url: "/#-publications"

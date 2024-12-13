@@ -123,13 +123,9 @@ Overall Ranking <b>1/449 (0.22%)</b><br>
 CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
 **<span style="color: red;">Oral Presentation, Best Paper Honorable Mention Award</span>**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
-  [[**PDF**](https://xuchen-li.github.io/files/DTLLM-VLT.pdf)]
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
   [[**Website**](http://videocube.aitestunion.com/)]
-  [[**Award**](https://xuchen-li.github.io/files/DTLLM-VLT-award.pdf)]
-  [[**Poster**](https://xuchen-li.github.io/files/DTLLM-VLT-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/DTLLM-VLT-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTLLM-VLT.bib)]<br>
+  [[**Award**](https://xuchen-li.github.io/files/DTLLM-VLT-award.pdf)]<br>
 
 </div>
 </div>
@@ -167,12 +163,8 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 Shiyu Hu, Dailing Zhang, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
   [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html)]
-  [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
   [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]
-  [[**Website**](http://videocube.aitestunion.com/)]
-  [[**Poster**](https://xuchen-li.github.io/files/MGIT-poster.pdf)]
-  [[**Slides**](https://xuchen-li.github.io/files/MGIT-slides.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/MGIT.bib)]<br>
+  [[**Website**](http://videocube.aitestunion.com/)]<br>
 
 </div>
 </div>
@@ -186,10 +178,7 @@ NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Pr
 Meiqi Wu, Yaxuan Kang, ***Xuchen Li***, Shiyu Hu, Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
   [[**Paper**](https://link.springer.com/chapter/10.1007/978-981-97-8692-3_17)]
-  [[**PDF**](https://xuchen-li.github.io/files/VS-LLM.pdf)]
-  [[**Code**](https://github.com/wmeiqi/VS-LLM)]
-  [[**Poster**](https://xuchen-li.github.io/files/VS-LLM-poster.pdf)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/VS-LLM.bib)]<br>
+  [[**Code**](https://github.com/wmeiqi/VS-LLM)]<br>
 
 </div>
 </div>
@@ -205,9 +194,7 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 ***Xuchen Li***\*, Shiyu Hu\*, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, under review<br>
   [[**Preprint**](https://arxiv.org/abs/2411.15600)]
-  [[**PDF**](https://xuchen-li.github.io/files/VLTVerse.pdf)]
-  [[**Website**](http://metaverse.aitestunion.com/)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/VLTVerse.bib)]<br>
+  [[**Website**](http://metaverse.aitestunion.com/)]<br>
 
 </div>
 </div>
@@ -221,9 +208,7 @@ Submitted to a CCF-A conference, under review<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 ArXiv Preprint<br>
   [[**Preprint**](https://arxiv.org/abs/2410.02492)]
-  [[**PDF**](https://xuchen-li.github.io/files/DTVLT.pdf)]
-  [[**Website**](http://videocube.aitestunion.com/)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/DTVLT.bib)]<br>
+  [[**Website**](http://videocube.aitestunion.com/)]<br>
 
 </div>
 </div>
@@ -237,9 +222,7 @@ ArXiv Preprint<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 ArXiv Preprint<br>
   [[**Preprint**](https://arxiv.org/abs/2409.08887)]
-  [[**PDF**](https://xuchen-li.github.io/files/VLT-MI.pdf)]
-  [[**Website**](http://videocube.aitestunion.com/)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/VLT-MI.bib)]<br>
+  [[**Website**](http://videocube.aitestunion.com/)]<br>
 
 </div>
 </div>
@@ -253,9 +236,7 @@ ArXiv Preprint<br>
 Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (\*Equal Contributions)<br>
 Submitted to a CAAI-A conference, Under Review<br>
   [[**Preprint**](https://arxiv.org/abs/2410.15270)]
-  [[**PDF**](https://xuchen-li.github.io/files/FIOVA.pdf)]
-  [[**Website**](https://huuuuusy.github.io/fiova/)]
-  [[**BibTeX**](https://xuchen-li.github.io/files/FIOVA.bib)]<br>
+  [[**Website**](https://huuuuusy.github.io/fiova/)]<br>
 
 </div>
 </div>

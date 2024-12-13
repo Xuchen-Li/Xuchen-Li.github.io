@@ -123,6 +123,7 @@ Overall Ranking <b>1/449 (0.22%)</b><br>
 CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
 **<span style="color: red;">Oral Presentation, Best Paper Honorable Mention Award</span>**<br>
   [[**Paper**](https://openaccess.thecvf.com/content/CVPR2024W/VDU/html/Li_DTLLM-VLT_Diverse_Text_Generation_for_Visual_Language_Tracking_Based_on_CVPRW_2024_paper.html)]
+  [[**PDF**](https://xuchen-li.github.io/files/DTLLM-VLT.pdf)]
   [[**Code**](https://github.com/Xuchen-Li/DTLLM-VLT)]
   [[**Website**](http://videocube.aitestunion.com/)]
   [[**Award**](https://xuchen-li.github.io/files/DTLLM-VLT-award.pdf)]<br>
@@ -138,7 +139,10 @@ CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datas
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**<br>
 Xiaokun Feng, ***Xuchen Li***, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
-
+  [[**Paper**](https://neurips.cc/virtual/2024/poster/94643)]
+  [[**PDF**](https://xuchen-li.github.io/files/MemVLT.pdf)]
+  [[**Code**](https://github.com/XiaokunFeng/MemVLT)]<br>
+  
 </div>
 </div>
 
@@ -150,7 +154,10 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
 Dailing Zhang, Shiyu Hu, Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
-
+  [[**Paper**](https://neurips.cc/virtual/2024/poster/95579)]
+  [[**PDF**](https://xuchen-li.github.io/files/CPDTrack.pdf)]
+  [[**Code**](https://github.com/ZhangDailing8/CPDTrack)]<br>
+  
 </div>
 </div>
 
@@ -162,7 +169,8 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
 Shiyu Hu, Dailing Zhang, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
-  [[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4ea14e6090343523ddcd5d3ca449695f-Abstract-Datasets_and_Benchmarks.html)]
+  [[**Paper**](https://neurips.cc/virtual/2023/poster/73416)]
+  [[**PDF**](https://xuchen-li.github.io/files/MGIT.pdf)]
   [[**Code**](https://github.com/huuuuusy/videocube-toolkit)]
   [[**Website**](http://videocube.aitestunion.com/)]<br>
 
@@ -178,6 +186,7 @@ NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Pr
 Meiqi Wu, Yaxuan Kang, ***Xuchen Li***, Shiyu Hu, Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
   [[**Paper**](https://link.springer.com/chapter/10.1007/978-981-97-8692-3_17)]
+  [[**PDF**](https://xuchen-li.github.io/files/VS-LLM.pdf)]
   [[**Code**](https://github.com/wmeiqi/VS-LLM)]<br>
 
 </div>
@@ -194,6 +203,7 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 ***Xuchen Li***\*, Shiyu Hu\*, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, under review<br>
   [[**Preprint**](https://arxiv.org/abs/2411.15600)]
+  [[**PDF**](https://xuchen-li.github.io/files/VLTVerse.pdf)]
   [[**Website**](http://metaverse.aitestunion.com/)]<br>
 
 </div>
@@ -208,6 +218,7 @@ Submitted to a CCF-A conference, under review<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 ArXiv Preprint<br>
   [[**Preprint**](https://arxiv.org/abs/2410.02492)]
+  [[**PDF**](https://xuchen-li.github.io/files/DTVLT.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]<br>
 
 </div>
@@ -222,6 +233,7 @@ ArXiv Preprint<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 ArXiv Preprint<br>
   [[**Preprint**](https://arxiv.org/abs/2409.08887)]
+  [[**PDF**](https://xuchen-li.github.io/files/VLT-MI.pdf)]
   [[**Website**](http://videocube.aitestunion.com/)]<br>
 
 </div>
@@ -236,6 +248,7 @@ ArXiv Preprint<br>
 Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (\*Equal Contributions)<br>
 Submitted to a CAAI-A conference, Under Review<br>
   [[**Preprint**](https://arxiv.org/abs/2410.15270)]
+  [[**PDF**](https://xuchen-li.github.io/files/FIOVA.pdf)]
   [[**Website**](https://huuuuusy.github.io/fiova/)]<br>
 
 </div>

@@ -51,52 +51,40 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 
 # 💻 Experience
 
-<div class='school-box-text' markdown="1">
-<b>Nanyang Technological University (NTU)</b><br>
-Research Assistant on Multi-modal Large Language Model<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
-2024.07 - Now<br>
-</div>
-<div class='school-box-text' markdown="1">
-<b>Ant Group (ANT)</b><br>
-Research intern on Multi-modal Large Language Model Agent<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ">Dr. Jian Wang</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ">Dr. Ming Yang</a></b><br>
-2024.06 - 2024.10<br>
-</div>
-<div class='school-box-text' markdown="1">
-<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
-Member of Artificial Intelligence Elites Class<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
-2023.05 - 2024.04<br>
-</div>
-<div class='school-box-text' markdown="1">
-<b>Tsinghua University (THU)</b><br>
-Research Assistant on 3D Vision<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
-2023.01 - 2023.05<br>
-</div>
+- <b>Nanyang Technological University (NTU)</b><br>
+  Research Assistant on Multi-modal Large Language Model<br>
+  Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
+  2024.07 - Now<br>
+- <b>Ant Group (ANT)</b><br>
+  Research intern on Multi-modal Large Language Model Agent<br>
+  Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ">Dr. Jian Wang</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ">Dr. Ming Yang</a></b><br>
+  2024.06 - 2024.10<br>
+- <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
+  Member of Artificial Intelligence Elites Class<br>
+  Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
+  2023.05 - 2024.04<br>
+- <b>Tsinghua University (THU)</b><br>
+  Research Assistant on 3D Vision<br>
+  Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
+  2023.01 - 2023.05<br>
+
 
 
 # 📖 Education
 
-<div class='school-box-text' markdown="1">
-<b>Beijing Zhongguancun Academy</b><br>
-Ph.D. Student of Pattern Recognition and Intelligent System<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=i2mOt14AAAAJ">Prof. Weinan E</a></b>, <b><a href="https://scholar.google.com/citations?hl=en-US&user=zLXcC90AAAAJ">Prof. Bing Dong</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=JE4VON0AAAAJ">Prof. Wentao Zhang</a></b><br>
-2024.09 - Now<br>
-</div>
-<div class='school-box-text' markdown="1">
-<b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
-Ph.D. Student of Pattern Recognition and Intelligent System<br>
-Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
-2024.08 - Now<br>
-</div>
-<div class='school-box-text' markdown="1">
-<b>Beijing University of Posts and Telecommunications (BUPT)</b><br>
-Bachelor of Computer Science and Technology<br>
-Overall Ranking <b>1/449 (0.22%)</b><br>
-2020.09 - 2024.06<br>
-</div>
+- <b>Beijing Zhongguancun Academy</b><br>
+  Ph.D. Student of Pattern Recognition and Intelligent System<br>
+  Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=i2mOt14AAAAJ">Prof. Weinan E</a></b>, <b><a href="https://scholar.google.com/citations?hl=en-US&user=zLXcC90AAAAJ">Prof. Bing Dong</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=JE4VON0AAAAJ">Prof. Wentao Zhang</a></b><br>
+  2024.09 - Now<br>
+- <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
+  Ph.D. Student of Pattern Recognition and Intelligent System<br>
+  Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
+  2024.08 - Now<br>
+- <b>Beijing University of Posts and Telecommunications (BUPT)</b><br>
+  Bachelor of Computer Science and Technology<br>
+  Overall Ranking <b>1/449 (0.22%)</b><br>
+  2020.09 - 2024.06<br>
+
 
 
 

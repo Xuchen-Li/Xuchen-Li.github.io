@@ -19,9 +19,9 @@ redirect_from:
 
 # 👨🏻‍💻 About
 
-I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>** (CASIA), supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>**.
+I am **Xuchen Li <font face="楷体">(李旭宸)</font>**, a first-year Ph.D. student at **<a href="http://bjzgca.bjedu.cn:81/">Beijing Zhongguancun Academy</a>**, supervised by **<a href="https://web.math.princeton.edu/~weinan/">Prof. Weinan E</a>** (Academician of CAS), **<a href="http://faculty.bicmr.pku.edu.cn/~dongbin/">Prof. Bing Dong</a>** (Professor at PKU) and **<a href="https://zwt233.github.io/">Prof. Wentao Zhang</a>** (Professor at PKU) and **<a href="http://english.ia.cas.cn/">Institute of Automation, Chinese Academy of Sciences</a>**, supervised by **<a href="https://people.ucas.ac.cn/~huangkaiqi?language=en">Prof. Kaiqi Huang</a>** (Professor at CASIA).
 
-Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** (SCS) from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** (BUPT) in Jun. 2024. During my time there, I was awarded **China National Scholarship (<font face="楷体">国家奖学金</font>)** twice. Thank you to everyone for their support.
+Before that, I received my B.E. degree in Computer Science and Technology with overall ranking <b>1/449 (0.22%)</b> at **<a href="https://scs.bupt.edu.cn/">School of Computer Science</a>** from **<a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>** in Jun. 2024. During my time there, I was awarded **China National Scholarship** twice. Thank you to everyone for their support.
 
 I am grateful to be growing up and studying with my twin brother **<a href="https://xuzhaoli.github.io/">Xuzhao Li</a>** (M.S. Student at BIT), which is a truly unique and special experience for me. I am also proud to collaborate with **<a href="https://huuuuusy.github.io/">Dr. Shiyu Hu</a>** (Research Fellow at NTU), which has a significant impact on me.
 
@@ -51,63 +51,54 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 
 # 💻 Experience
 
-<div class='school-box'>
-<div><img src='../images/NTU.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Nanyang Technological University (NTU)</b><br>
 Research Assistant on Multi-modal Large Language Model<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
 2024.07 - Now<br>
 </div>
-</div>
-<div class='school-box'>
-<div><img src='../images/ANT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Ant Group (ANT)</b><br>
 Research intern on Multi-modal Large Language Model Agent<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ">Dr. Jian Wang</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ">Dr. Ming Yang</a></b><br>
 2024.06 - 2024.10<br>
 </div>
-</div>
-<div class='school-box'>
-<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
 Member of Artificial Intelligence Elites Class<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
 2023.05 - 2024.04<br>
 </div>
-</div>
-<div class='school-box'>
-<div><img src='../images/THU.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Tsinghua University (THU)</b><br>
 Research Assistant on 3D Vision<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
 2023.01 - 2023.05<br>
 </div>
-</div>
+
 
 # 📖 Education
 
-<div class='school-box'>
-<div><img src='../images/CASIA.jpg' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+<b>Beijing Zhongguancun Academy</b><br>
+Ph.D. Student of Pattern Recognition and Intelligent System<br>
+Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=i2mOt14AAAAJ">Prof. Weinan E</a></b>, <b><a href="https://scholar.google.com/citations?hl=en-US&user=zLXcC90AAAAJ">Prof. Bing Dong</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=JE4VON0AAAAJ">Prof. Wentao Zhang</a></b><br>
+2024.09 - Now<br>
+</div>
 <div class='school-box-text' markdown="1">
 <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
 Ph.D. Student of Pattern Recognition and Intelligent System<br>
 Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
 2024.08 - Now<br>
 </div>
-</div>
-<div class='school-box'>
-<div><img src='../images/BUPT.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 <b>Beijing University of Posts and Telecommunications (BUPT)</b><br>
 Bachelor of Computer Science and Technology<br>
 Overall Ranking <b>1/449 (0.22%)</b><br>
 2020.09 - 2024.06<br>
 </div>
-</div>
+
+
 
 # 📝 Publications
 
@@ -142,7 +133,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
   [[**Paper**](https://neurips.cc/virtual/2024/poster/94643)]
   [[**PDF**](https://xuchen-li.github.io/files/MemVLT.pdf)]
   [[**Code**](https://github.com/XiaokunFeng/MemVLT)]<br>
-  
+
 </div>
 </div>
 
@@ -157,7 +148,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
   [[**Paper**](https://neurips.cc/virtual/2024/poster/95579)]
   [[**PDF**](https://xuchen-li.github.io/files/CPDTrack.pdf)]
   [[**Code**](https://github.com/ZhangDailing8/CPDTrack)]<br>
-  
+
 </div>
 </div>
 

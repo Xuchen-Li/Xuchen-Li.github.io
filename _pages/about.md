@@ -28,11 +28,11 @@ I am grateful to be growing up and studying with my twin brother **<a href="http
 My research focuses on **Multi-modal Learning**, **Large Language Model** and **Data-centric AI**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
-- **2024.12**: 📝 One paper has been accepted by <b>the 50th International Conference on Acoustics, Speech, and Signal Processing</b> (ICASSP, CCF-B Conference)!
+- **2024.12**: 📝 <font color="red"><b>1 paper</b></font> has been accepted by <b>the 50th International Conference on Acoustics, Speech, and Signal Processing</b> (ICASSP, CCF-B Conference)!
 
 - **2024.11**: 🏆 Obtain <b>Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)</b> as <b>class president</b> (only 10 classes obtain this honor of UCAS)!
 
-- **2024.09**: 📝 Two papers have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
+- **2024.09**: 📝 <font color="red"><b>2 papers</b></font> have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 
 - **2024.08**: 📣 Start my Ph.D. life at <b>University of Chinese Academy of Sciences</b> (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
 
@@ -40,13 +40,13 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 
 - <details> <summary>More</summary>
   <ul>
-    <li><b>2024.06:</b> 📝 One paper has been accepted by <b>the 7th Chinese Conference on Pattern Recognition and Computer Vision</b> (PRCV, CCF-C Conference)!</li>
+    <li><b>2024.06:</b> 📝 <font color="red"><b>1 paper</b></font> has been accepted by <b>the 7th Chinese Conference on Pattern Recognition and Computer Vision</b> (PRCV, CCF-C Conference)!</li>
     <li><b>2024.05:</b> 🏆 Obtain <b>Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)</b> (Top 5%, only 38 students obtain this honor of SCS, BUPT)!</li>
-    <li><b>2024.04:</b> 📝 One paper has been accepted as <b>Oral Presentation</b> and awarded <b>Best Paper Honorable Mention Award</b> by <b>the 3rd CVPR Workshop on Vision Datasets Understanding</b> (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!</li>
+    <li><b>2024.04:</b> 📝 <font color="red"><b>1 paper</b></font> has been accepted as <b>Oral Presentation</b> and awarded <b>Best Paper Honorable Mention Award</b> by <b>the 3rd CVPR Workshop on Vision Datasets Understanding</b> (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!</li>
     <li><b>2023.12:</b> 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!</li>
     <li><b>2023.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>1/455 (0.22%)</b> (Top 1%, the highest honor for undergraduates in China)!</li>
     <li><b>2023.11:</b> 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!</li>
-    <li><b>2023.09:</b> 📝 One paper has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!</li>
+    <li><b>2023.09:</b> 📝 <font color="red"><b>1 paper</b></font> has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!</li>
     <li><b>2022.12:</b> 🏆 Obtain <b>Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)</b> (only 20 students win this scholarship of BUPT)!</li>
     <li><b>2022.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!</li>
   </ul>
@@ -91,7 +91,6 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang<br>
 CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>

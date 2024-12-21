@@ -91,6 +91,7 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang<br>
 CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datasets Understanding](https://sites.google.com/view/vdu-cvpr24/)**<br>
@@ -119,7 +120,6 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
 Dailing Zhang, Shiyu Hu, Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -132,7 +132,6 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
 Shiyu Hu, Dailing Zhang, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
@@ -157,7 +156,6 @@ ICASSP 2025 (CCF-B Conference): **[the 50th International Conference on Acoustic
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../publications/VS-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**<br>
 Meiqi Wu, Yaxuan Kang, ***Xuchen Li***, Shiyu Hu, Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>

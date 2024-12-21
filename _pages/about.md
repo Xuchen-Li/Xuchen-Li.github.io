@@ -28,9 +28,11 @@ I am grateful to be growing up and studying with my twin brother **<a href="http
 My research focuses on **Multi-modal Learning**, **Large Language Model** and **Data-centric AI**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+- **2024.12**: 📝 One paper has been accepted by <b>the 50th International Conference on Acoustics, Speech, and Signal Processing</b> (ICASSP, CCF-B Conference)!
+
 - **2024.11**: 🏆 Obtain <b>Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)</b> as <b>class president</b> (only 10 classes obtain this honor of UCAS)!
 
-- **2024.09**: 📝 Two papers (<b><a href="https://xuchen-li.github.io/#MemVLT">MemVLT</a></b> and <b><a href="https://xuchen-li.github.io/#CPDTrack">CPDTrack</a></b>) have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
+- **2024.09**: 📝 Two papers have been accepted by <b>the 38th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!
 
 - **2024.08**: 📣 Start my Ph.D. life at <b>University of Chinese Academy of Sciences</b> (UCAS), which is located in Huairou District, Beijing, near the beautiful Yanqi Lake.
 
@@ -38,13 +40,13 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
 
 - <details> <summary>More</summary>
   <ul>
-    <li><b>2024.06:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#VS-LLM">VS-LLM</a></b>) has been accepted by <b>the 7th Chinese Conference on Pattern Recognition and Computer Vision</b> (PRCV, CCF-C Conference)!</li>
+    <li><b>2024.06:</b> 📝 One paper has been accepted by <b>the 7th Chinese Conference on Pattern Recognition and Computer Vision</b> (PRCV, CCF-C Conference)!</li>
     <li><b>2024.05:</b> 🏆 Obtain <b>Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)</b> (Top 5%, only 38 students obtain this honor of SCS, BUPT)!</li>
-    <li><b>2024.04:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#DTLLM-VLT">DTLLM-VLT</a></b>) has been accepted as <b>Oral Presentation</b> and awarded <b>Best Paper Honorable Mention Award</b> by <b>the 3rd CVPR Workshop on Vision Datasets Understanding</b> (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!</li>
+    <li><b>2024.04:</b> 📝 One paper has been accepted as <b>Oral Presentation</b> and awarded <b>Best Paper Honorable Mention Award</b> by <b>the 3rd CVPR Workshop on Vision Datasets Understanding</b> (CVPRW, CCF-A Conference Workshop, Oral Presentation, Best Paper Honorable Mention Award)!</li>
     <li><b>2023.12:</b> 🏆 Obtain <b>College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)</b> (only 17 students win this scholarship of CASIA)!</li>
     <li><b>2023.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>1/455 (0.22%)</b> (Top 1%, the highest honor for undergraduates in China)!</li>
     <li><b>2023.11:</b> 🏆 Obtain <b>Beijing Merit Student (<font face="楷体">北京市三好学生</font>)</b> (Top 1%, only 36 students obtain this honor of BUPT)!</li>
-    <li><b>2023.09:</b> 📝 One paper (<b><a href="https://xuchen-li.github.io/#MGIT">MGIT</a></b>) has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!</li>
+    <li><b>2023.09:</b> 📝 One paper has been accepted by <b>the 37th Conference on Neural Information Processing Systems</b> (NeurIPS, CCF-A Conference)!</li>
     <li><b>2022.12:</b> 🏆 Obtain <b>Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)</b> (only 20 students win this scholarship of BUPT)!</li>
     <li><b>2022.12:</b> 🏆 Obtain <b>China National Scholarship (<font face="楷体">国家奖学金</font>)</b> with a rank of <b>2/430 (0.47%)</b> (Top 1%, the highest honor for undergraduates in China)!</li>
   </ul>
@@ -68,8 +70,6 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
   2023.01 - 2023.05<br>
 
-
-
 # 📖 Education
 
 - <b>Beijing Zhongguancun Academy</b><br>
@@ -85,17 +85,12 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
   Overall Ranking <b>1/449 (0.22%)</b><br>
   2020.09 - 2024.06<br>
 
-
-
-
 # 📝 Publications
 
 ## ✅ Acceptance
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='../publications/DTLLM-VLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='DTLLM-VLT'></span>
 
 **DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang<br>
@@ -113,8 +108,6 @@ CVPRW 2024 (CCF-A Conference Workshop): **[the 3rd CVPR Workshop on Vision Datas
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/MemVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='MemVLT'></span>
-
 **MemVLT: Visual-Language Tracking with Adaptive Memory-based Prompts**<br>
 Xiaokun Feng, ***Xuchen Li***, Shiyu Hu, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -127,8 +120,6 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='CPDTrack'></span>
 
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
 Dailing Zhang, Shiyu Hu, Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
@@ -143,8 +134,6 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='MGIT'></span>
-
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
 Shiyu Hu, Dailing Zhang, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
@@ -156,10 +145,19 @@ NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Pr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../publications/VS-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2025</div><img src='../publications/EVLTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='VS-LLM'></span>
+**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
+Xiaokun Feng, Dailing Zhang, Shiyu Hu, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
+ICASSP 2025 (CCF-B Conference): **[the 50th International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/)**<br>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../publications/VS-LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**<br>
 Meiqi Wu, Yaxuan Kang, ***Xuchen Li***, Shiyu Hu, Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
@@ -176,8 +174,6 @@ PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recogniti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/VLTVerse.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='VLTVerse'></span>
-
 **How Texts Help? A Fine-grained Evaluation to Reveal the Role of Language in Vision-Language Tracking**<br>
 ***Xuchen Li***\*, Shiyu Hu\*, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, under review<br>
@@ -190,8 +186,6 @@ Submitted to a CCF-A conference, under review<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Preprint</div><img src='../publications/DTVLT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='DTVLT'></span>
 
 **DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
@@ -206,8 +200,6 @@ ArXiv Preprint<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">Preprint</div><img src='../publications/VLT-MI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='VLM-MI'></span>
-
 **Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**<br>
 ***Xuchen Li***, Shiyu Hu, Xiaokun Feng, Dailing Zhang, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 ArXiv Preprint<br>
@@ -220,8 +212,6 @@ ArXiv Preprint<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/FIOVA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='FIOVA'></span>
 
 **Can LVLMs Describe Videos like Humans? A Five-in-One Video Annotations Benchmark for Better Human-Machine Comparison**<br>
 Shiyu Hu\*, ***Xuchen Li***\*, Xuzhao Li, Jing Zhang, Yipei Wang, Xin Zhao, Kang Hao Cheong (\*Equal Contributions)<br>
@@ -236,8 +226,6 @@ Submitted to a CAAI-A conference, Under Review<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/Sat-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='Sat-LLM'></span>
-
 **Sat-LLM: Multi-View Retrieval-Augmented Satellite Commonsense Multi-Modal Iterative Alignment LLM**<br>
 Qian Li\*, ***Xuchen Li***\*, Zongyu Chang, Yuzheng Zhang, Cheng Ji, Shangguang Wang (\*Equal Contributions)<br>
 Submitted to a CCF-A conference, Under Review<br>
@@ -247,8 +235,6 @@ Submitted to a CCF-A conference, Under Review<br>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-A</div><img src='../publications/ATCTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-<span class='anchor' id='ATCTrack'></span>
 
 **ATCTrack: Leveraging Aligned Target-Context Cues for Robust Vision-Language Tracking**<br>
 Xiaokun Feng, Shiyu Hu, ***Xuchen Li***, Dailing Zhang, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
@@ -260,22 +246,9 @@ Submitted to a CCF-A conference, under review<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CAAI-A</div><img src='../publications/SOE-VLSA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<span class='anchor' id='SOE-VLSA'></span>
-
 **Students Rather Than Experts: A New AI for Education Pipeline to Model More Human-like and Personalised Early Adolescences**<br>
 Yiping Ma\*, Shiyu Hu\*, ***Xuchen Li***, Yipei Wang, Shiqing Liu, Kang Hao Cheong (\*Equal Contributions)<br>
 Submitted to a CAAI-A conference, under review<br>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge-review">CCF-B</div><img src='../publications/EVLTrack.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span class='anchor' id='EVLTrack'></span>
-
-**Enhancing Vision-Language Tracking by Effectively Converting Textual Cues into Visual Cues**<br>
-Xiaokun Feng, Dailing Zhang, Shiyu Hu, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Xiaotang Chen, Kaiqi Huang<br>
-Submitted to a CCF-B conference, under review<br>
 
 </div>
 </div>

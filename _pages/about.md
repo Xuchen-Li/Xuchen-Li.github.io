@@ -264,7 +264,7 @@ Submitted to a CAAI-A conference, under review<br>
 
 # 🎤 Talks
 
-- **Oral presentation** in Seattle WA, USA at CVPR 2024 conference workshop on vision datasets understanding ([**Slides**](https://xuchen-li.github.io/files/DTLLM-slides.pdf))
+- **Oral presentation** in Seattle WA, USA at CVPR 2024 conference workshop on vision datasets understanding ([**Slides**](https://xuchen-li.github.io/files/DTLLM-VLT-slides.pdf))
 
 # 🔗 Services
 

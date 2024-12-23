@@ -280,6 +280,10 @@ Submitted to a CAAI-A conference, under review<br>
 
   International Joint Conference on Neural Networks (IJCNN)
 
+* **Journal Reviewer**
+
+  ACM Transactions on Intelligent Systems and Technology (ACM TIST)
+  
 
 # 🌟 Projects
 

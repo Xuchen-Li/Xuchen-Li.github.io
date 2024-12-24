@@ -334,7 +334,9 @@ Submitted to a CAAI-A conference, under review<br>
 </div>
 
 <body>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UnSHM0KZm39pppHYhIg0DnbizPfUDOk4JULgsNTwfUE&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80"></script>
+  <div id="globe-container" style="width: 100%; margin: 0 auto;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UnSHM0KZm39pppHYhIg0DnbizPfUDOk4JULgsNTwfUE"></script>
+  </div>
 </body>
 
 <p>

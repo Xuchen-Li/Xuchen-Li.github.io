@@ -334,7 +334,7 @@ Submitted to a CAAI-A conference, under review<br>
 </div>
 
 <body>
-  <div id="globe-container" style="width: 100%; margin: 0 auto;">
+  <div id="globe-container" style="width: 20%; margin: 0 auto;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UnSHM0KZm39pppHYhIg0DnbizPfUDOk4JULgsNTwfUE"></script>
   </div>
 </body>

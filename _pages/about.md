@@ -336,6 +336,7 @@ Submitted to a CAAI-A conference, under review<br>
 <body>
   <div id="globe-container" style="width: 20%; margin: 0 auto;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&t=tt&d=UnSHM0KZm39pppHYhIg0DnbizPfUDOk4JULgsNTwfUE"></script>
+    <a><img src="https://s01.flagcounter.com/mini/4DQo/bg_FFFFFF/txt_000000/border_CCCCCC/flags_0/" border="0"></a>
   </div>
 </body>
 

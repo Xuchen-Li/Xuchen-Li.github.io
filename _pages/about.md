@@ -333,6 +333,8 @@ Submitted to a CAAI-A conference, under review<br>
 </div>
 </div>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=UnSHM0KZm39pppHYhIg0DnbizPfUDOk4JULgsNTwfUE"></script>
+
 <p>
   <center>
     <font>

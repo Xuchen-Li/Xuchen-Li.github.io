@@ -28,6 +28,7 @@ I am grateful to be growing up and studying with my twin brother **<a href="http
 My research focuses on **Multi-modal Learning**, **Large Language Model** and **Data-centric AI**. If you are interested in my work or would like to collaborate, please feel free to contact me.
 
 # 🔥 News
+
 - **2024.12**: 📝 <font color="red"><b>1 paper</b></font> has been accepted by <b>the 50th International Conference on Acoustics, Speech, and Signal Processing</b> (ICASSP, CCF-B Conference)!
 
 - **2024.11**: 🏆 Obtain <b>Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)</b> as <b>Monitor</b> (only 10 classes obtain this honor of UCAS)!
@@ -57,14 +58,17 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
   Research Assistant on Multi-modal Large Language Model<br>
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=49W-Rx4AAAAJ">Dr. Shiyu Hu</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=neaUULMAAAAJ">Prof. Kang Hao Cheong</a></b><br>
   2024.07 - Now<br>
+
 - <b>Ant Group (ANT)</b><br>
   Research intern on Multi-modal Large Language Model Agent<br>
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=gz_hWPoAAAAJ">Dr. Jian Wang</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=uBHJx08AAAAJ">Dr. Ming Yang</a></b><br>
   2024.06 - 2024.10<br>
+
 - <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
   Member of Artificial Intelligence Elites Class<br>
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
   2023.05 - 2024.04<br>
+
 - <b>Tsinghua University (THU)</b><br>
   Research Assistant on 3D Vision<br>
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=eldgnIYAAAAJ">Prof. Haoqian Wang</a></b><br>
@@ -76,10 +80,12 @@ My research focuses on **Multi-modal Learning**, **Large Language Model** and **
   Ph.D. Student of Pattern Recognition and Intelligent System<br>
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=i2mOt14AAAAJ">Prof. Weinan E</a></b>, <b><a href="https://scholar.google.com/citations?hl=en-US&user=zLXcC90AAAAJ">Prof. Bing Dong</a></b> and <b><a href="https://scholar.google.com/citations?hl=en-US&user=JE4VON0AAAAJ">Prof. Wentao Zhang</a></b><br>
   2024.09 - Now<br>
+
 - <b>Institute of Automation, Chinese Academy of Sciences (CASIA)</b><br>
   Ph.D. Student of Pattern Recognition and Intelligent System<br>
   Advisor: <b><a href="https://scholar.google.com/citations?hl=en-US&user=caQ-OmYAAAAJ">Prof. Kaiqi Huang</a></b><br>
   2024.08 - Now<br>
+
 - <b>Beijing University of Posts and Telecommunications (BUPT)</b><br>
   Bachelor of Computer Science and Technology<br>
   Overall Ranking <b>1/449 (0.22%)</b><br>
@@ -120,6 +126,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='../publications/CPDTrack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **Beyond Accuracy: Tracking more like Human through Visual Search**<br>
 Dailing Zhang, Shiyu Hu, Xiaokun Feng, ***Xuchen Li***, Meiqi Wu, Jing Zhang, Kaiqi Huang<br>
 NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2024)**<br>
@@ -132,6 +139,7 @@ NeurIPS 2024 (CCF-A Conference): **[the 38th Conference on Neural Information Pr
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='../publications/MGIT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **A Multi-modal Global Instance Tracking Benchmark (MGIT): Better Locating Target in Complex Spatio-temporal and Causal Relationship**<br>
 Shiyu Hu, Dailing Zhang, Xiaokun Feng, ***Xuchen Li***, Xin Zhao, Kaiqi Huang<br>
 NeurIPS 2023 (CCF-A Conference): **[the 37th Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023)**<br>
@@ -153,9 +161,9 @@ ICASSP 2025 (CCF-B Conference): **[the 50th International Conference on Acoustic
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2024</div><img src='../publications/VS-LLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 **VS-LLM: Visual-Semantic Depression Assessment based on LLM for Drawing Projection Test**<br>
 Meiqi Wu, Yaxuan Kang, ***Xuchen Li***, Shiyu Hu, Xiaotang Chen, Yunfeng Kang, Weiqiang Wang, Kaiqi Huang<br>
 PRCV 2024 (CCF-C Conference): **[the 7th Chinese Conference on Pattern Recognition and Computer Vision](https://www.prcv.cn/)**<br>
@@ -252,15 +260,15 @@ Submitted to a CAAI-A conference, under review<br>
 
 # 🏆 Honors
 
-* **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at CVPR Workshop on Vision Datasets Understanding, 2024
-* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
-* **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
-* **China National Encouragement Scholarship (<font face="楷体">国家励志奖学金</font>)**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
-* **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
-* **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
-* **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
-* **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
-* **Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)**,  as **Monitor** at UCAS, by University of Chinese Academy of Sciences, 2024
+- **Best Paper Honorable Mention Award (<font face="楷体">最佳论文荣誉提名奖</font>)**, at CVPR Workshop on Vision Datasets Understanding, 2024
+- **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 1/455 (0.22%), Top 1%, at BUPT, by Ministry of Education of China, 2023
+- **China National Scholarship (<font face="楷体">国家奖学金</font>)**, My Rank: 2/430 (0.47%), Top 1%, at BUPT, by Ministry of Education of China, 2022
+- **China National Encouragement Scholarship (<font face="楷体">国家励志奖学金</font>)**, My Rank: 8/522 (1.53%), at BUPT, by Ministry of Education of China, 2021
+- **Huawei AI Education Base Scholarship (<font face="楷体">华为智能基座奖学金</font>)**, at BUPT, by Ministry of Education of China and Huawei AI Education Base Joint Working Group, 2022
+- **Beijing Merit Student (<font face="楷体">北京市三好学生</font>)**, Top 1%, at BUPT, by Beijing Municipal Education Commission, 2023
+- **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)**, Top 5%, at BUPT, by Beijing Municipal Education Commission, 2024
+- **College Scholarship of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学大学生奖学金</font>)**, at CASIA, by University of Chinese Academy of Sciences, 2023
+- **Top Ten Classes of University of Chinese Academy of Sciences (<font face="楷体">中国科学院大学十佳班集体</font>)**,  as **Monitor** at UCAS, by University of Chinese Academy of Sciences, 2024
 
 # 🎤 Talks
 
@@ -268,7 +276,7 @@ Submitted to a CAAI-A conference, under review<br>
 
 # 🔗 Services
 
-* **Conference Reviewer**
+- **Conference Reviewer**
 
   International Conference on Learning Representations (ICLR)
   
@@ -280,7 +288,7 @@ Submitted to a CAAI-A conference, under review<br>
 
   International Joint Conference on Neural Networks (IJCNN)
 
-* **Journal Reviewer**
+- **Journal Reviewer**
 
   ACM Transactions on Intelligent Systems and Technology (ACM TIST)
   
